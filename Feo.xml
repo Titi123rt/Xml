@@ -8,10 +8,6 @@
     <display-name>Azteca Guate</display-name>
     <display-name>FMH KIDS</display-name>
   </channel>
-  <channel id="venevision.ve">
-    <display-name>VENEVISION</display-name>
-    <display-name>1060_MX CLASIC</display-name>
-  </channel>
   <channel lang="es" id="radioagricultura.cl">
     <display-name>Radio Agricultura</display-name>
     <display-name>CLASSIC</display-name>
