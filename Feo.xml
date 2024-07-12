@@ -36,6 +36,1796 @@
     <display-name>Señal Colombia</display-name>
     <display-name>1080_TCS_PELICULAS</display-name>
   </channel>
+  <channel lang="es" id="canal5.hn">
+    <display-name>Canal 5</display-name>
+    <display-name>1061_MX SERIES</display-name>
+  </channel>
+  <channel lang="es" id="telecadena7y4.hn">
+    <display-name>Telecadena 7 y 4</display-name>
+    <display-name>FMH FAMILY</display-name>
+  </channel>
+  <channel lang="es" id="vtv.hn">
+    <display-name>VTV</display-name>
+    <display-name>1070_OLD</display-name>
+  </channel>
+  <channel lang="es" id="tvn.pa">
+    <display-name>TVN</display-name>
+    <display-name>1080_TCS_PELICULAS</display-name>
+  </channel>
+  <channel id="ivc.ve">
+    <display-name>IVC</display-name>
+    <display-name>1040_MX PRIME</display-name>
+    <display-name>ATLAS</display-name>
+  </channel>
+  <channel id="televen.ve">
+    <display-name>Televen</display-name>
+    <display-name>CLASSIC</display-name>
+  </channel>
+  <channel id="venevision.ve">
+    <display-name>VENEVISION</display-name>
+    <display-name>1060_MX CLASIC</display-name>
+    <display-name>FMH MOVIES</display-name>
+  </channel>
+  <channel id="vtv.ve">
+    <display-name>VTV</display-name>
+    <display-name>1050_MX FAMILY</display-name>
+  </channel>
+  <programme start="20240712043000 +0000" stop="20240712063000 +0000" channel="canal5.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240712063000 +0000" stop="20240712093000 +0000" channel="canal5.hn">
+    <title lang="es">Las mañanas del 5</title>
+    <desc lang="es">Una revista matutina, con información actual y útil. Un programa interactivo con un gran elenco de presentadores que te mantendrán informado de una forma jovial y casual con consejos prácticos y útiles para toda la familia.</desc>
+  </programme>
+  <programme start="20240712093000 +0000" stop="20240712102000 +0000" channel="canal5.hn">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+  </programme>
+  <programme start="20240712102000 +0000" stop="20240712114000 +0000" channel="canal5.hn">
+    <title lang="es">Noticiero TN5 Estelar</title>
+    <desc lang="es">El noticiero número uno del país. Cuenta con la fuerza informativa más grande y profesional, desplegada a lo largo del territorio nacional. Con un estilo periodístico de calidad que ha informado a Honduras a lo largo de su existencia.</desc>
+  </programme>
+  <programme start="20240712114000 +0000" stop="20240712130000 +0000" channel="canal5.hn">
+    <title lang="es">TN5 Matutino</title>
+    <desc lang="es">La primera emisión noticiosa más importante del país, los patrulleros te informarán los sucesos nacionales. Conoce los temas que marcarán la agenda informativa de Honduras y el mundo.</desc>
+  </programme>
+  <programme start="20240712130000 +0000" stop="20240712150000 +0000" channel="canal5.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240712150000 +0000" stop="20240712180000 +0000" channel="canal5.hn">
+    <title lang="es">Las mañanas del 5</title>
+    <desc lang="es">Una revista matutina, con información actual y útil. Un programa interactivo con un gran elenco de presentadores que te mantendrán informado de una forma jovial y casual con consejos prácticos y útiles para toda la familia.</desc>
+  </programme>
+  <programme start="20240712180000 +0000" stop="20240712190000 +0000" channel="canal5.hn">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+  </programme>
+  <programme start="20240712190000 +0000" stop="20240712200000 +0000" channel="canal5.hn">
+    <title lang="es">Mi secreto</title>
+    <desc lang="es">La historia de una chica que se vio en la obligación de adoptar la identidad de su mejor amiga, a la que considera muerta, para evitar ser arrestada e ir a la cárcel por un delito que no cometió. Pero esto no será nada sencillo.</desc>
+  </programme>
+  <programme start="20240712200000 +0000" stop="20240712210000 +0000" channel="canal5.hn">
+    <title lang="es">Minas de pasión</title>
+    <desc lang="es">Emilia, una madre soltera que trabaja en una mina, se enamora de Leonardo el hijo de Roberta Castro, la mujer más poderosa del pueblo, quien le hará la vida imposible.</desc>
+  </programme>
+  <programme start="20240712210000 +0000" stop="20240712230000 +0000" channel="canal5.hn">
+    <title lang="es">Con todo</title>
+    <desc lang="es">Un programa de concursos, lleno de entretenimiento, dirigido a las familias hondureñas que disfrutarán de una competencia de juegos populares y sencillos que se presentan en un nivel pro.</desc>
+  </programme>
+  <programme start="20240712230000 +0000" stop="20240713000000 +0000" channel="canal5.hn">
+    <title lang="es">El hilo</title>
+    <desc lang="es">Un programa alegre, actual y moderno que brinda información y una plataforma para los artistas, dando a conocer lo más destacado en los diferentes escenarios del espectáculo, con cobertura de los acontecimientos diarios.</desc>
+  </programme>
+  <programme start="20240713000000 +0000" stop="20240713010000 +0000" channel="canal5.hn">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+  </programme>
+  <programme start="20240713010000 +0000" stop="20240713020000 +0000" channel="canal5.hn">
+    <title lang="es">Hasta que la plata nos separe</title>
+    <desc lang="es">La vida de Rafael Méndez, quien una noche saca accidentalmente de la carretera a Alejandra Maldonado. El auto de la mujer rueda por un abismo, él la rescata y la lleva a una clínica. A partir de ahí, la vida de él sufre un giro inesperado.</desc>
+  </programme>
+  <programme start="20240713020000 +0000" stop="20240713030000 +0000" channel="canal5.hn">
+    <title lang="es">Tierra de esperanza</title>
+    <desc lang="es">Relata la vida de María Teresa, una joven empresaria que se ve obligada a manejar una hacienda cuando su padre es encarcelado. En su camino se encontrará con Santos, un capataz que tiene un carácter indomable.</desc>
+  </programme>
+  <programme start="20240713030000 +0000" stop="20240713043000 +0000" channel="canal5.hn">
+    <title lang="es">Noticiero TN5 Estelar</title>
+    <desc lang="es">El noticiero número uno del país. Cuenta con la fuerza informativa más grande y profesional, desplegada a lo largo del territorio nacional. Con un estilo periodístico de calidad que ha informado a Honduras a lo largo de su existencia.</desc>
+  </programme>
+  <programme start="20240713043000 +0000" stop="20240713063000 +0000" channel="canal5.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240713063000 +0000" stop="20240713091500 +0000" channel="canal5.hn">
+    <title lang="es">Las mañanas del 5</title>
+    <desc lang="es">Una revista matutina, con información actual y útil. Un programa interactivo con un gran elenco de presentadores que te mantendrán informado de una forma jovial y casual con consejos prácticos y útiles para toda la familia.</desc>
+  </programme>
+  <programme start="20240713091500 +0000" stop="20240713101000 +0000" channel="canal5.hn">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+  </programme>
+  <programme start="20240713101000 +0000" stop="20240713110500 +0000" channel="canal5.hn">
+    <title lang="es">La cocina del Cinco</title>
+    <desc lang="es">Una clase de cocina con la chef Laura Pérez, donde acompañará a todos aquellos que quieran preparar una comida diferente y especial para la familia en sus días de descanso.</desc>
+  </programme>
+  <programme start="20240713110500 +0000" stop="20240713123000 +0000" channel="canal5.hn">
+    <title lang="es">Noticiero TN5 Estelar</title>
+    <desc lang="es">El noticiero número uno del país. Cuenta con la fuerza informativa más grande y profesional, desplegada a lo largo del territorio nacional. Con un estilo periodístico de calidad que ha informado a Honduras a lo largo de su existencia.</desc>
+  </programme>
+  <programme start="20240713123000 +0000" stop="20240713150000 +0000" channel="canal5.hn">
+    <title lang="es">TN5 Matutino</title>
+    <desc lang="es">La primera emisión noticiosa más importante del país, los patrulleros te informarán los sucesos nacionales. Conoce los temas que marcarán la agenda informativa de Honduras y el mundo.</desc>
+  </programme>
+  <programme start="20240713150000 +0000" stop="20240713170000 +0000" channel="canal5.hn">
+    <title lang="es">Las mañanas del 5</title>
+    <desc lang="es">Una revista matutina, con información actual y útil. Un programa interactivo con un gran elenco de presentadores que te mantendrán informado de una forma jovial y casual con consejos prácticos y útiles para toda la familia.</desc>
+  </programme>
+  <programme start="20240713170000 +0000" stop="20240713180000 +0000" channel="canal5.hn">
+    <title lang="es">La cocina del Cinco</title>
+    <desc lang="es">Una clase de cocina con la chef Laura Pérez, donde acompañará a todos aquellos que quieran preparar una comida diferente y especial para la familia en sus días de descanso.</desc>
+  </programme>
+  <programme start="20240713180000 +0000" stop="20240713200000 +0000" channel="canal5.hn">
+    <title lang="es">Macaneo TV</title>
+    <desc lang="es">Un show multifacético y extrovertido de música urbana que se transmite en vivo simultáneamente por TV y radio.</desc>
+  </programme>
+  <programme start="20240713200000 +0000" stop="20240713220000 +0000" channel="canal5.hn">
+    <title lang="es">Sábado feliz</title>
+    <desc lang="es">Revista familiar que acompaña a la audiencia todos los sábados por la tarde. Se regalan premios y se presentan reportajes de las principales ferias de Honduras, que transportará a los televidentes a distintos rincones del país.</desc>
+  </programme>
+  <programme start="20240713220000 +0000" stop="20240714000000 +0000" channel="canal5.hn">
+    <title lang="es">Cine de la tarde</title>
+  </programme>
+  <programme start="20240714000000 +0000" stop="20240714020000 +0000" channel="canal5.hn">
+    <title lang="es">Cantinflas</title>
+    <desc lang="es">Disfruta de las diferentes aventuras de Cantinflas, un divertido y humilde personaje que atraviesa diversas situaciones mientras trata de ser feliz con lo poco que tiene, brindando excelentes reflexiones de vida.</desc>
+  </programme>
+  <programme start="20240714020000 +0000" stop="20240714040000 +0000" channel="canal5.hn">
+    <title lang="es">Los del cuarto</title>
+    <desc lang="es">Muestra de manera jocosa la problemática del país, a través de parodias, sketches satíricos, música en vivo, personajes invitados y doblajes de personalidades relevantes del ámbito político, social, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20240714040000 +0000" stop="20240714060000 +0000" channel="canal5.hn">
+    <title lang="es">Cine de media noche</title>
+    <desc lang="es">Espacio en el podrás disfrutar de las mejores producciones de la cinematografía mundial, para que te deleites con la variedad de actores y directores que participan en estas.</desc>
+  </programme>
+  <programme start="20240714060000 +0000" stop="20240714080000 +0000" channel="canal5.hn">
+    <title lang="es">Macaneo TV</title>
+    <desc lang="es">Un show multifacético y extrovertido de música urbana que se transmite en vivo simultáneamente por TV y radio.</desc>
+  </programme>
+  <programme start="20240714080000 +0000" stop="20240714100000 +0000" channel="canal5.hn">
+    <title lang="es">Sábado feliz</title>
+    <desc lang="es">Revista familiar que acompaña a la audiencia todos los sábados por la tarde. Se regalan premios y se presentan reportajes de las principales ferias de Honduras, que transportará a los televidentes a distintos rincones del país.</desc>
+  </programme>
+  <programme start="20240714100000 +0000" stop="20240714120000 +0000" channel="canal5.hn">
+    <title lang="es">Las mañanas del 5</title>
+    <desc lang="es">Una revista matutina, con información actual y útil. Un programa interactivo con un gran elenco de presentadores que te mantendrán informado de una forma jovial y casual con consejos prácticos y útiles para toda la familia.</desc>
+  </programme>
+  <programme start="20240714120000 +0000" stop="20240714140000 +0000" channel="canal5.hn">
+    <title lang="es">Cantinflas</title>
+    <desc lang="es">Disfruta de las diferentes aventuras de Cantinflas, un divertido y humilde personaje que atraviesa diversas situaciones mientras trata de ser feliz con lo poco que tiene, brindando excelentes reflexiones de vida.</desc>
+  </programme>
+  <programme start="20240714140000 +0000" stop="20240714180000 +0000" channel="canal5.hn">
+    <title lang="es">Cinco deportivo</title>
+    <desc lang="es">Disfrute de resúmenes con las mejores jugadas y goles del campeonato de la liga nacional de fútbol de Honduras. Cubrimos, además, las actuaciones de los futbolistas nacionales que participan en equipos del extranjero.</desc>
+  </programme>
+  <programme start="20240714180000 +0000" stop="20240714203000 +0000" channel="canal5.hn">
+    <title lang="es">X-0 da dinero</title>
+    <desc lang="es">Segmento entretenido y educativo que con juegos, música y concursos logra una sana diversión para toda la familia, realizado en locaciones diferentes como parques acuáticos, colegios, circos y al aire libre.</desc>
+  </programme>
+  <programme start="20240714203000 +0000" stop="20240714220000 +0000" channel="canal5.hn">
+    <title lang="es">Cine matineé</title>
+    <desc lang="es">Disfruta de un segmento especial donde podrás observar, junto a tu familia y seres queridos, las mejores producciones cinematográficas, de todos los géneros y con tus artistas favoritos.</desc>
+  </programme>
+  <programme start="20240714220000 +0000" stop="20240715000000 +0000" channel="canal5.hn">
+    <title lang="es">Cine matineé</title>
+    <desc lang="es">Disfruta de un segmento especial donde podrás observar, junto a tu familia y seres queridos, las mejores producciones cinematográficas, de todos los géneros y con tus artistas favoritos.</desc>
+  </programme>
+  <programme start="20240715000000 +0000" stop="20240715010000 +0000" channel="canal5.hn">
+    <title lang="es">TN5 Dominical</title>
+    <desc lang="es">Ulises Aguirre y Eunice López, en compañía de un equipo de periodistas, le toman el pulso al país y al mundo para llevarle un completo panorama informativo de los hechos noticiosos del fin de semana y de la agenda que marcará la noticia.</desc>
+  </programme>
+  <programme start="20240715010000 +0000" stop="20240715020000 +0000" channel="canal5.hn">
+    <title lang="es">¿Es neta Eva?</title>
+    <desc lang="es">Cuenta las aventuras personales y profesionales de una mujer divorciada con tres hijos.</desc>
+  </programme>
+  <programme start="20240715020000 +0000" stop="20240715040000 +0000" channel="canal5.hn">
+    <title lang="es">Noche de gala</title>
+    <desc lang="es">Termina el día con una dosis de emociones a través de las historias que trae para ti el cine, de la mano de los mejores guionistas, directores y tus actores favoritos.</desc>
+  </programme>
+  <programme start="20240715040000 +0000" stop="20240715050000 +0000" channel="canal5.hn">
+    <title lang="es">Los del cuarto</title>
+    <desc lang="es">Muestra de manera jocosa la problemática del país, a través de parodias, sketches satíricos, música en vivo, personajes invitados y doblajes de personalidades relevantes del ámbito político, social, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20240715050000 +0000" stop="20240715060000 +0000" channel="canal5.hn">
+    <title lang="es">TN5 Dominical</title>
+    <desc lang="es">Ulises Aguirre y Eunice López, en compañía de un equipo de periodistas, le toman el pulso al país y al mundo para llevarle un completo panorama informativo de los hechos noticiosos del fin de semana y de la agenda que marcará la noticia.</desc>
+  </programme>
+  <programme start="20240715060000 +0000" stop="20240715070500 +0000" channel="canal5.hn">
+    <title lang="es">La cocina del Cinco</title>
+    <desc lang="es">Una clase de cocina con la chef Laura Pérez, donde acompañará a todos aquellos que quieran preparar una comida diferente y especial para la familia en sus días de descanso.</desc>
+  </programme>
+  <programme start="20240715070500 +0000" stop="20240715104500 +0000" channel="canal5.hn">
+    <title lang="es">X-0 da dinero</title>
+    <desc lang="es">Segmento entretenido y educativo que con juegos, música y concursos logra una sana diversión para toda la familia, realizado en locaciones diferentes como parques acuáticos, colegios, circos y al aire libre.</desc>
+  </programme>
+  <programme start="20240715104500 +0000" stop="20240715114000 +0000" channel="canal5.hn">
+    <title lang="es">TN5 Dominical</title>
+    <desc lang="es">Ulises Aguirre y Eunice López, en compañía de un equipo de periodistas, le toman el pulso al país y al mundo para llevarle un completo panorama informativo de los hechos noticiosos del fin de semana y de la agenda que marcará la noticia.</desc>
+  </programme>
+  <programme start="20240715114000 +0000" stop="20240715130000 +0000" channel="canal5.hn">
+    <title lang="es">TN5 Matutino</title>
+    <desc lang="es">La primera emisión noticiosa más importante del país, los patrulleros te informarán los sucesos nacionales. Conoce los temas que marcarán la agenda informativa de Honduras y el mundo.</desc>
+  </programme>
+  <programme start="20240715130000 +0000" stop="20240715150000 +0000" channel="canal5.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240715150000 +0000" stop="20240715180000 +0000" channel="canal5.hn">
+    <title lang="es">Las mañanas del 5</title>
+    <desc lang="es">Una revista matutina, con información actual y útil. Un programa interactivo con un gran elenco de presentadores que te mantendrán informado de una forma jovial y casual con consejos prácticos y útiles para toda la familia.</desc>
+  </programme>
+  <programme start="20240715180000 +0000" stop="20240715190000 +0000" channel="canal5.hn">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+  </programme>
+  <programme start="20240715190000 +0000" stop="20240715200000 +0000" channel="canal5.hn">
+    <title lang="es">Mi secreto</title>
+    <desc lang="es">La historia de una chica que se vio en la obligación de adoptar la identidad de su mejor amiga, a la que considera muerta, para evitar ser arrestada e ir a la cárcel por un delito que no cometió. Pero esto no será nada sencillo.</desc>
+  </programme>
+  <programme start="20240715200000 +0000" stop="20240715210000 +0000" channel="canal5.hn">
+    <title lang="es">Minas de pasión</title>
+    <desc lang="es">Emilia, una madre soltera que trabaja en una mina, se enamora de Leonardo el hijo de Roberta Castro, la mujer más poderosa del pueblo, quien le hará la vida imposible.</desc>
+  </programme>
+  <programme start="20240715210000 +0000" stop="20240715230000 +0000" channel="canal5.hn">
+    <title lang="es">Con todo</title>
+    <desc lang="es">Un programa de concursos, lleno de entretenimiento, dirigido a las familias hondureñas que disfrutarán de una competencia de juegos populares y sencillos que se presentan en un nivel pro.</desc>
+  </programme>
+  <programme start="20240715230000 +0000" stop="20240716000000 +0000" channel="canal5.hn">
+    <title lang="es">El hilo</title>
+    <desc lang="es">Un programa alegre, actual y moderno que brinda información y una plataforma para los artistas, dando a conocer lo más destacado en los diferentes escenarios del espectáculo, con cobertura de los acontecimientos diarios.</desc>
+  </programme>
+  <programme start="20240716000000 +0000" stop="20240716010000 +0000" channel="canal5.hn">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+  </programme>
+  <programme start="20240716010000 +0000" stop="20240716020000 +0000" channel="canal5.hn">
+    <title lang="es">Hasta que la plata nos separe</title>
+    <desc lang="es">La vida de Rafael Méndez, quien una noche saca accidentalmente de la carretera a Alejandra Maldonado. El auto de la mujer rueda por un abismo, él la rescata y la lleva a una clínica. A partir de ahí, la vida de él sufre un giro inesperado.</desc>
+  </programme>
+  <programme start="20240716020000 +0000" stop="20240716030000 +0000" channel="canal5.hn">
+    <title lang="es">Tierra de esperanza</title>
+    <desc lang="es">Relata la vida de María Teresa, una joven empresaria que se ve obligada a manejar una hacienda cuando su padre es encarcelado. En su camino se encontrará con Santos, un capataz que tiene un carácter indomable.</desc>
+  </programme>
+  <programme start="20240716030000 +0000" stop="20240716043000 +0000" channel="canal5.hn">
+    <title lang="es">Noticiero TN5 Estelar</title>
+    <desc lang="es">El noticiero número uno del país. Cuenta con la fuerza informativa más grande y profesional, desplegada a lo largo del territorio nacional. Con un estilo periodístico de calidad que ha informado a Honduras a lo largo de su existencia.</desc>
+  </programme>
+  <programme start="20240716043000 +0000" stop="20240716063000 +0000" channel="canal5.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240716063000 +0000" stop="20240716093000 +0000" channel="canal5.hn">
+    <title lang="es">Las mañanas del 5</title>
+    <desc lang="es">Una revista matutina, con información actual y útil. Un programa interactivo con un gran elenco de presentadores que te mantendrán informado de una forma jovial y casual con consejos prácticos y útiles para toda la familia.</desc>
+  </programme>
+  <programme start="20240716093000 +0000" stop="20240716102000 +0000" channel="canal5.hn">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+  </programme>
+  <programme start="20240716102000 +0000" stop="20240716114000 +0000" channel="canal5.hn">
+    <title lang="es">Noticiero TN5 Estelar</title>
+    <desc lang="es">El noticiero número uno del país. Cuenta con la fuerza informativa más grande y profesional, desplegada a lo largo del territorio nacional. Con un estilo periodístico de calidad que ha informado a Honduras a lo largo de su existencia.</desc>
+  </programme>
+  <programme start="20240716114000 +0000" stop="20240716130000 +0000" channel="canal5.hn">
+    <title lang="es">TN5 Matutino</title>
+    <desc lang="es">La primera emisión noticiosa más importante del país, los patrulleros te informarán los sucesos nacionales. Conoce los temas que marcarán la agenda informativa de Honduras y el mundo.</desc>
+  </programme>
+  <programme start="20240716130000 +0000" stop="20240716150000 +0000" channel="canal5.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240716150000 +0000" stop="20240716180000 +0000" channel="canal5.hn">
+    <title lang="es">Las mañanas del 5</title>
+    <desc lang="es">Una revista matutina, con información actual y útil. Un programa interactivo con un gran elenco de presentadores que te mantendrán informado de una forma jovial y casual con consejos prácticos y útiles para toda la familia.</desc>
+  </programme>
+  <programme start="20240716180000 +0000" stop="20240716190000 +0000" channel="canal5.hn">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.</desc>
+  </programme>
+  <programme start="20240716190000 +0000" stop="20240716200000 +0000" channel="canal5.hn">
+    <title lang="es">Mi secreto</title>
+    <desc lang="es">La historia de una chica que se vio en la obligación de adoptar la identidad de su mejor amiga, a la que considera muerta, para evitar ser arrestada e ir a la cárcel por un delito que no cometió. Pero esto no será nada sencillo.</desc>
+  </programme>
+  <programme start="20240716200000 +0000" stop="20240716210000 +0000" channel="canal5.hn">
+    <title lang="es">Minas de pasión</title>
+    <desc lang="es">Emilia, una madre soltera que trabaja en una mina, se enamora de Leonardo el hijo de Roberta Castro, la mujer más poderosa del pueblo, quien le hará la vida imposible.</desc>
+  </programme>
+  <programme start="20240716210000 +0000" stop="20240716230000 +0000" channel="canal5.hn">
+    <title lang="es">Con todo</title>
+    <desc lang="es">Un programa de concursos, lleno de entretenimiento, dirigido a las familias hondureñas que disfrutarán de una competencia de juegos populares y sencillos que se presentan en un nivel pro.</desc>
+  </programme>
+  <programme start="20240712040000 +0000" stop="20240712053000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Rebelde</title>
+    <desc lang="es">El 'Elite Way School' es un colegio, cuya fama trasciende las fronteras del país. La mayor parte del alumnado pertenece a la clase alta. En este ambiente elitista y conservador, los chicos deben transitar su adolescencia.</desc>
+  </programme>
+  <programme start="20240712053000 +0000" stop="20240712130000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Cierre</title>
+  </programme>
+  <programme start="20240712130000 +0000" stop="20240712150000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240712150000 +0000" stop="20240712160000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Al banquillo</title>
+    <desc lang="es">Programa de entrevistas edición especial, donde conocerán a los personajes más influyentes en Honduras y el mundo, sin importar su campo de acción tendrán que estar Al Banquillo.</desc>
+  </programme>
+  <programme start="20240712160000 +0000" stop="20240712170000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl de Molina y Lili Estefan son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo. Ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas.</desc>
+  </programme>
+  <programme start="20240712170000 +0000" stop="20240712180000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">El hilo</title>
+    <desc lang="es">Un programa alegre, actual y moderno que brinda información y una plataforma para los artistas, dando a conocer lo más destacado en los diferentes escenarios del espectáculo, con cobertura de los acontecimientos diarios.</desc>
+  </programme>
+  <programme start="20240712180000 +0000" stop="20240712190000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Vencer la culpa</title>
+    <desc lang="es">Los destinos de cuatro mujeres de distintas edades y niveles socioeconómicos se entrelazan debido a la desaparición de una misteriosa joven. En el proceso para encontrarla, varios secretos salen a la luz.</desc>
+  </programme>
+  <programme start="20240712190000 +0000" stop="20240712210000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240712210000 +0000" stop="20240712220000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Mi camino es amarte</title>
+    <desc lang="es">Guillermo un hombre humilde y trabajador, descubre que tiene una hija que fue dada en adopción. Mientras, Daniela busca formar una familia pero, naturalmente, no puede. Sus vidas se entrelazan provocando un enamoramiento inesperado.</desc>
+  </programme>
+  <programme start="20240712220000 +0000" stop="20240712233000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Rebelde</title>
+    <desc lang="es">El 'Elite Way School' es un colegio, cuya fama trasciende las fronteras del país. La mayor parte del alumnado pertenece a la clase alta. En este ambiente elitista y conservador, los chicos deben transitar su adolescencia.</desc>
+  </programme>
+  <programme start="20240712233000 +0000" stop="20240713010000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Abriendo brecha</title>
+    <desc lang="es">Noticias nacionales e internacionales, el estado del tiempo, noticias financieras y deportes.</desc>
+  </programme>
+  <programme start="20240713010000 +0000" stop="20240713020000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl de Molina y Lili Estefan son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo. Ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas.</desc>
+  </programme>
+  <programme start="20240713020000 +0000" stop="20240713040000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Vencer la culpa</title>
+    <desc lang="es">Los destinos de cuatro mujeres de distintas edades y niveles socioeconómicos se entrelazan debido a la desaparición de una misteriosa joven. En el proceso para encontrarla, varios secretos salen a la luz.</desc>
+  </programme>
+  <programme start="20240713040000 +0000" stop="20240713053000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Rebelde</title>
+    <desc lang="es">El 'Elite Way School' es un colegio, cuya fama trasciende las fronteras del país. La mayor parte del alumnado pertenece a la clase alta. En este ambiente elitista y conservador, los chicos deben transitar su adolescencia.</desc>
+  </programme>
+  <programme start="20240713053000 +0000" stop="20240713130000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Cierre</title>
+  </programme>
+  <programme start="20240713130000 +0000" stop="20240713133000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Infantiles</title>
+    <desc lang="es">Caricaturas para niños</desc>
+  </programme>
+  <programme start="20240713133000 +0000" stop="20240713140000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Infantiles</title>
+    <desc lang="es">Caricaturas para niños</desc>
+  </programme>
+  <programme start="20240713140000 +0000" stop="20240713163000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Infantiles</title>
+    <desc lang="es">Caricaturas para niños</desc>
+  </programme>
+  <programme start="20240713163000 +0000" stop="20240713173000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Infantiles</title>
+    <desc lang="es">Caricaturas para niños</desc>
+  </programme>
+  <programme start="20240713173000 +0000" stop="20240713190000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Infantiles</title>
+    <desc lang="es">Caricaturas para niños</desc>
+  </programme>
+  <programme start="20240713190000 +0000" stop="20240713200000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Marathón TV</title>
+    <desc lang="es">Un programa que aborda el mundo de las maratones con reportajes y videos de distintas épocas. El conductor Juan José Martínez repasa los momentos y competencias más destacados y brinda la información más completa.</desc>
+  </programme>
+  <programme start="20240713200000 +0000" stop="20240713220000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Sábado feliz</title>
+    <desc lang="es">Revista familiar que acompaña a la audiencia todos los sábados por la tarde. Se regalan premios y se presentan reportajes de las principales ferias de Honduras, que transportará a los televidentes a distintos rincones del país.</desc>
+  </programme>
+  <programme start="20240713220000 +0000" stop="20240714020000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">El premio mayor</title>
+    <desc lang="es">Entre la crónica de amores y desamores y las aberraciones del dinero; la serie presenta el retrato crítico, divertido y trágico, de un grupo de personas que conviven en una misma sociedad, llena de contrastes socioeconómicos.</desc>
+  </programme>
+  <programme start="20240714020000 +0000" stop="20240714030000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Los del cuarto</title>
+    <desc lang="es">Muestra de manera jocosa la problemática del país, a través de parodias, sketches satíricos, música en vivo, personajes invitados y doblajes de personalidades relevantes del ámbito político, social, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20240714030000 +0000" stop="20240714050000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Cine de la tarde</title>
+  </programme>
+  <programme start="20240714050000 +0000" stop="20240714130000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Cierre</title>
+  </programme>
+  <programme start="20240714130000 +0000" stop="20240714140000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Cambiando vidas</title>
+    <desc lang="es">Disfrute de la mejor música cristiana.</desc>
+  </programme>
+  <programme start="20240714140000 +0000" stop="20240714150000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Estableciendo el reino de Jesucristo</title>
+  </programme>
+  <programme start="20240714150000 +0000" stop="20240714163000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Abriendo brecha</title>
+    <desc lang="es">Noticias nacionales e internacionales, el estado del tiempo, noticias financieras y deportes.</desc>
+  </programme>
+  <programme start="20240714163000 +0000" stop="20240714200000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Amigas y rivales</title>
+    <desc lang="es">La vida de cuatro hermosas chicas de 21 años y cómo se esfuerzan por alcanzar sus sueños. Laura, una chica de clase media, Jimena y Ofelia, dos jóvenes frívolas y de clase alta, y Nayeli, quien es la empleada doméstica de la casa de Jimena.</desc>
+  </programme>
+  <programme start="20240714200000 +0000" stop="20240714220000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Cantinflas</title>
+    <desc lang="es">Disfruta de las diferentes aventuras de Cantinflas, un divertido y humilde personaje que atraviesa diversas situaciones mientras trata de ser feliz con lo poco que tiene, brindando excelentes reflexiones de vida.</desc>
+  </programme>
+  <programme start="20240714220000 +0000" stop="20240715020000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">El premio mayor</title>
+    <desc lang="es">Entre la crónica de amores y desamores y las aberraciones del dinero; la serie presenta el retrato crítico, divertido y trágico, de un grupo de personas que conviven en una misma sociedad, llena de contrastes socioeconómicos.</desc>
+  </programme>
+  <programme start="20240715020000 +0000" stop="20240715043000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">¿Quién es la máscara?</title>
+    <desc lang="es">Se trata de un show en el que celebridades mexicanas se disfrazarán y realizarán una actuación enfrente de "investigadores" que calificarán su destreza e intentarán descubrir quién se oculta bajo la máscara.</desc>
+  </programme>
+  <programme start="20240715043000 +0000" stop="20240715130000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Cierre</title>
+  </programme>
+  <programme start="20240715130000 +0000" stop="20240715150000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240715150000 +0000" stop="20240715160000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Al banquillo</title>
+    <desc lang="es">Programa de entrevistas edición especial, donde conocerán a los personajes más influyentes en Honduras y el mundo, sin importar su campo de acción tendrán que estar Al Banquillo.</desc>
+  </programme>
+  <programme start="20240715160000 +0000" stop="20240715170000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl de Molina y Lili Estefan son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo. Ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas.</desc>
+  </programme>
+  <programme start="20240715170000 +0000" stop="20240715180000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">El hilo</title>
+    <desc lang="es">Un programa alegre, actual y moderno que brinda información y una plataforma para los artistas, dando a conocer lo más destacado en los diferentes escenarios del espectáculo, con cobertura de los acontecimientos diarios.</desc>
+  </programme>
+  <programme start="20240715180000 +0000" stop="20240715190000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Vencer la culpa</title>
+    <desc lang="es">Los destinos de cuatro mujeres de distintas edades y niveles socioeconómicos se entrelazan debido a la desaparición de una misteriosa joven. En el proceso para encontrarla, varios secretos salen a la luz.</desc>
+  </programme>
+  <programme start="20240715190000 +0000" stop="20240715210000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240715210000 +0000" stop="20240715220000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Mi camino es amarte</title>
+    <desc lang="es">Guillermo un hombre humilde y trabajador, descubre que tiene una hija que fue dada en adopción. Mientras, Daniela busca formar una familia pero, naturalmente, no puede. Sus vidas se entrelazan provocando un enamoramiento inesperado.</desc>
+  </programme>
+  <programme start="20240715220000 +0000" stop="20240715233000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Rebelde</title>
+    <desc lang="es">El 'Elite Way School' es un colegio, cuya fama trasciende las fronteras del país. La mayor parte del alumnado pertenece a la clase alta. En este ambiente elitista y conservador, los chicos deben transitar su adolescencia.</desc>
+  </programme>
+  <programme start="20240715233000 +0000" stop="20240716010000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Abriendo brecha</title>
+    <desc lang="es">Noticias nacionales e internacionales, el estado del tiempo, noticias financieras y deportes.</desc>
+  </programme>
+  <programme start="20240716010000 +0000" stop="20240716020000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl de Molina y Lili Estefan son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo. Ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas.</desc>
+  </programme>
+  <programme start="20240716020000 +0000" stop="20240716040000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Vencer la culpa</title>
+    <desc lang="es">Los destinos de cuatro mujeres de distintas edades y niveles socioeconómicos se entrelazan debido a la desaparición de una misteriosa joven. En el proceso para encontrarla, varios secretos salen a la luz.</desc>
+  </programme>
+  <programme start="20240716040000 +0000" stop="20240716053000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Rebelde</title>
+    <desc lang="es">El 'Elite Way School' es un colegio, cuya fama trasciende las fronteras del país. La mayor parte del alumnado pertenece a la clase alta. En este ambiente elitista y conservador, los chicos deben transitar su adolescencia.</desc>
+  </programme>
+  <programme start="20240716053000 +0000" stop="20240716130000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Cierre</title>
+  </programme>
+  <programme start="20240716130000 +0000" stop="20240716150000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240716150000 +0000" stop="20240716160000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Al banquillo</title>
+    <desc lang="es">Programa de entrevistas edición especial, donde conocerán a los personajes más influyentes en Honduras y el mundo, sin importar su campo de acción tendrán que estar Al Banquillo.</desc>
+  </programme>
+  <programme start="20240716160000 +0000" stop="20240716170000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl de Molina y Lili Estefan son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo. Ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas.</desc>
+  </programme>
+  <programme start="20240716170000 +0000" stop="20240716180000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">El hilo</title>
+    <desc lang="es">Un programa alegre, actual y moderno que brinda información y una plataforma para los artistas, dando a conocer lo más destacado en los diferentes escenarios del espectáculo, con cobertura de los acontecimientos diarios.</desc>
+  </programme>
+  <programme start="20240716180000 +0000" stop="20240716190000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Vencer la culpa</title>
+    <desc lang="es">Los destinos de cuatro mujeres de distintas edades y niveles socioeconómicos se entrelazan debido a la desaparición de una misteriosa joven. En el proceso para encontrarla, varios secretos salen a la luz.</desc>
+  </programme>
+  <programme start="20240716190000 +0000" stop="20240716210000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Frente a frente</title>
+    <desc lang="es">El tema de conversación del día se debate cada mañana con el respetado periodista Renato Álvarez y acompañado por expertos que argumentan sobre materia política, social y económica.</desc>
+  </programme>
+  <programme start="20240716210000 +0000" stop="20240716220000 +0000" channel="telecadena7y4.hn">
+    <title lang="es">Mi camino es amarte</title>
+    <desc lang="es">Guillermo un hombre humilde y trabajador, descubre que tiene una hija que fue dada en adopción. Mientras, Daniela busca formar una familia pero, naturalmente, no puede. Sus vidas se entrelazan provocando un enamoramiento inesperado.</desc>
+  </programme>
+  <programme start="20240712050000 +0000" stop="20240712060000 +0000" channel="vtv.hn">
+    <title lang="es">Impacto VTV Estelar: El poder de la noticia</title>
+    <desc lang="es">Noticiero de inmediatez que informa al pueblo y se da seguimiento a cada noticia nacional e internacional.</desc>
+  </programme>
+  <programme start="20240712060000 +0000" stop="20240712070000 +0000" channel="vtv.hn">
+    <title lang="es">Los misterios de Laura</title>
+    <desc lang="es">Laura Lebrel tiene que compatibilizar sus labores de esposa, ama de casa y madre de dos gemelos de cinco años con su trabajo como inspectora de policía. Pero no es una inspectora cualquiera...</desc>
+  </programme>
+  <programme start="20240712070000 +0000" stop="20240712080000 +0000" channel="vtv.hn">
+    <title lang="es">Highlander: el inmortal</title>
+    <desc lang="es">Duncan MacLeod es miembro de un clan que se encuentra acechado, no sólo por otros inmortales que intentan matarlo, sino también por una sociedad de mortales que se llaman "The Watchers", por lo que deberá lidiar con peligrosas situaciones.</desc>
+  </programme>
+  <programme start="20240712080000 +0000" stop="20240712090000 +0000" channel="vtv.hn">
+    <title lang="es">La taxista</title>
+    <desc lang="es">Rosita es una taxista que vive en Guayaquil desde hace muchos años. Su vida parecía ya estar resuelta al tener todo listo para su compromiso con su novio Marcelo Guamán. Sin embargo, sufrirá una gran desilusión al ser traicionada por él.</desc>
+  </programme>
+  <programme start="20240712090000 +0000" stop="20240712110000 +0000" channel="vtv.hn">
+    <title lang="es">Una melodía infinita</title>
+    <desc lang="es">Una joven vive una infancia dolorosa de abuso y abandono. se convierte en madre a los 15 años. Su padrastro vende al bebé a una familia rica. Ella huye y se refugia en un club nocturno donde se convierte en la cantante principal.</desc>
+  </programme>
+  <programme start="20240712110000 +0000" stop="20240712120000 +0000" channel="vtv.hn">
+    <title lang="es">Las mil y una noches</title>
+    <desc lang="es">Basada en los célebres cuentos de Oriente Medio, se enfoca en una mujer independiente y moderna que se desempeña como arquitecta en una importante empresa, a la vez que cuida amorosamente de su único hijo, de seis años.</desc>
+  </programme>
+  <programme start="20240712120000 +0000" stop="20240712130000 +0000" channel="vtv.hn">
+    <title lang="es">Amanecer</title>
+    <desc lang="es">Espacio que ofrece imágenes e información meteorológica en tiempo real de Oviedo y Gijón.</desc>
+  </programme>
+  <programme start="20240712130000 +0000" stop="20240712150000 +0000" channel="vtv.hn">
+    <title lang="es">Hola Honduras</title>
+    <desc lang="es">Noticas matutinas y consejos con expertos en salud y otras ramas.</desc>
+  </programme>
+  <programme start="20240712150000 +0000" stop="20240712170000 +0000" channel="vtv.hn">
+    <title lang="es">Café caliente</title>
+    <desc lang="es">Contamos con diversas secciones donde el principal objetivo es dar un entretenimiento familiar. También ofrecemos una amplia gama de oportunidades comerciales para que los clientes puedan colocar sus marcas de modo efectivo y dinámico.</desc>
+  </programme>
+  <programme start="20240712170000 +0000" stop="20240712180000 +0000" channel="vtv.hn">
+    <title lang="es">El Juez Franco</title>
+    <desc lang="es">El abogado Manuel Franco recibe en el estrado de su corte a diversos testigos que pretenden resolver su caso. Cada episodio trae consigo nuevas problemáticas para resolver, las cuales finalizan con el golpe del mazo del Juez.</desc>
+  </programme>
+  <programme start="20240712180000 +0000" stop="20240712190000 +0000" channel="vtv.hn">
+    <title lang="es">Huérfanas</title>
+    <desc lang="es">Eylül, una humilde adolescente, es dejada en un orfanato porque su madre prefiere seguir con su matrimonio y quedarse junto al abusador de su hija. Allí se hará amiga de cuatro chicas, que se convertirán en sus hermanas.</desc>
+  </programme>
+  <programme start="20240712190000 +0000" stop="20240712210000 +0000" channel="vtv.hn">
+    <title lang="es">Impacto VTV Meridiano: El poder de la noticia</title>
+    <desc lang="es">Noticiero de inmediatez que informa al pueblo y se da seguimiento a cada noticia nacional e internacional.</desc>
+  </programme>
+  <programme start="20240712210000 +0000" stop="20240712220000 +0000" channel="vtv.hn">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.</desc>
+  </programme>
+  <programme start="20240712220000 +0000" stop="20240712230000 +0000" channel="vtv.hn">
+    <title lang="es">La taxista</title>
+    <desc lang="es">Rosita es una taxista que vive en Guayaquil desde hace muchos años. Su vida parecía ya estar resuelta al tener todo listo para su compromiso con su novio Marcelo Guamán. Sin embargo, sufrirá una gran desilusión al ser traicionada por él.</desc>
+  </programme>
+  <programme start="20240712230000 +0000" stop="20240713010000 +0000" channel="vtv.hn">
+    <title lang="es">Legado de amor</title>
+    <desc lang="es">Cuando fallece el patriarca de una casa, la vida de sus herederos cambia. Durante la lectura del testamento aparece Sara, la hermana que los jóvenes hijos no sabían que existía.</desc>
+  </programme>
+  <programme start="20240713010000 +0000" stop="20240713020000 +0000" channel="vtv.hn">
+    <title lang="es">Impacto VTV Estelar: El poder de la noticia</title>
+    <desc lang="es">Noticiero de inmediatez que informa al pueblo y se da seguimiento a cada noticia nacional e internacional.</desc>
+  </programme>
+  <programme start="20240713020000 +0000" stop="20240713040000 +0000" channel="vtv.hn">
+    <title lang="es">Las mil y una noches</title>
+    <desc lang="es">Basada en los célebres cuentos de Oriente Medio, se enfoca en una mujer independiente y moderna que se desempeña como arquitecta en una importante empresa, a la vez que cuida amorosamente de su único hijo, de seis años.</desc>
+  </programme>
+  <programme start="20240713040000 +0000" stop="20240713050000 +0000" channel="vtv.hn">
+    <title lang="es">Estrella de amor</title>
+    <desc lang="es">Yildiz y Kuzey deciden casarse con el consentimiento de sus familias. Pero antes Kuzey viaja a Estambul, donde se olvida de su compromiso y comienza una nueva vida. 20 años después se reencuentran.</desc>
+  </programme>
+  <programme start="20240713050000 +0000" stop="20240713060000 +0000" channel="vtv.hn">
+    <title lang="es">Impacto VTV Estelar: El poder de la noticia</title>
+    <desc lang="es">Noticiero de inmediatez que informa al pueblo y se da seguimiento a cada noticia nacional e internacional.</desc>
+  </programme>
+  <programme start="20240713060000 +0000" stop="20240713070000 +0000" channel="vtv.hn">
+    <title lang="es">Los misterios de Laura</title>
+    <desc lang="es">Laura Lebrel tiene que compatibilizar sus labores de esposa, ama de casa y madre de dos gemelos de cinco años con su trabajo como inspectora de policía. Pero no es una inspectora cualquiera...</desc>
+  </programme>
+  <programme start="20240713070000 +0000" stop="20240713080000 +0000" channel="vtv.hn">
+    <title lang="es">Highlander: el inmortal</title>
+    <desc lang="es">Duncan MacLeod es miembro de un clan que se encuentra acechado, no sólo por otros inmortales que intentan matarlo, sino también por una sociedad de mortales que se llaman "The Watchers", por lo que deberá lidiar con peligrosas situaciones.</desc>
+  </programme>
+  <programme start="20240713080000 +0000" stop="20240713090000 +0000" channel="vtv.hn">
+    <title lang="es">La taxista</title>
+    <desc lang="es">Rosita es una taxista que vive en Guayaquil desde hace muchos años. Su vida parecía ya estar resuelta al tener todo listo para su compromiso con su novio Marcelo Guamán. Sin embargo, sufrirá una gran desilusión al ser traicionada por él.</desc>
+  </programme>
+  <programme start="20240713090000 +0000" stop="20240713110000 +0000" channel="vtv.hn">
+    <title lang="es">No matarás</title>
+    <desc lang="es">Muestra la historia del Padre Simón Castell y la inspectora de la policía de Munich Maria Blank, que investigan un violento crimen en el Vaticano.</desc>
+  </programme>
+  <programme start="20240713110000 +0000" stop="20240713130000 +0000" channel="vtv.hn">
+    <title lang="es">Las mil y una noches</title>
+    <desc lang="es">Basada en los célebres cuentos de Oriente Medio, se enfoca en una mujer independiente y moderna que se desempeña como arquitecta en una importante empresa, a la vez que cuida amorosamente de su único hijo, de seis años.</desc>
+  </programme>
+  <programme start="20240713130000 +0000" stop="20240713143000 +0000" channel="vtv.hn">
+    <title lang="es">Dino Ranch</title>
+    <desc lang="es">Acompaña a la familia Cassidy mientras se enfrenta a la vida de la granja en este entorno fantástico y prehistórico en el que los dinosaurios aún rugen.</desc>
+  </programme>
+  <programme start="20240713143000 +0000" stop="20240713153000 +0000" channel="vtv.hn">
+    <title lang="es">El correcaminos</title>
+    <desc lang="es">En las desiertas carreteras del desierto al suroeste de Estados Unidos, Wile E. Coyote agota cada una de sus ideas, todas fallidas, para lograr atrapar al mega veloz Correcaminos. Ambos viven en una constante persecución.</desc>
+  </programme>
+  <programme start="20240713153000 +0000" stop="20240713160000 +0000" channel="vtv.hn">
+    <title lang="es">El show de Tom y Jerry</title>
+    <desc lang="es">¡Acompaña a Tom y Jerry en el show en el que vivirán nuevas y divertidísimas aventuras mientras pelean por su territorio! Este travieso dúo está listo para volver a la acción con nuevas diabluras. ¿Los atraparán esta vez?</desc>
+  </programme>
+  <programme start="20240713160000 +0000" stop="20240713170000 +0000" channel="vtv.hn">
+    <title lang="es">Los Picapiedra</title>
+    <desc lang="es">Desde el pueblo de Pietrópolis, Pedro, Vilma y su hija Pebbles hacen que los problemas prehistóricos se transformen en carcajadas del siglo XXI, junto a sus vecinos Pablo y Betty Mármol.</desc>
+  </programme>
+  <programme start="20240713170000 +0000" stop="20240713180000 +0000" channel="vtv.hn">
+    <title lang="es">Raw</title>
+    <desc lang="es">Disfruta de lo mejor de la lucha libre profesional, en este espacio que te trae los combates más fuertes y disputados entre los principales peleadores a nivel mundial.</desc>
+  </programme>
+  <programme start="20240713180000 +0000" stop="20240713190000 +0000" channel="vtv.hn">
+    <title lang="es">Desafío extremo</title>
+    <desc lang="es">Acompaña al escalador y piloto leonés Jesús Calleja en sus aventuras a lo largo y ancho del planeta.</desc>
+  </programme>
+  <programme start="20240713190000 +0000" stop="20240713200000 +0000" channel="vtv.hn">
+    <title lang="es">Saber y ganar</title>
+    <desc lang="es">Una serie de participantes se enfrentan en unos duelos de conocimientos sin concesiones, en los que tendrán que hacer uso de su inteligencia, memoria y sus habilidades estratégicas para salir vencedores del combate.</desc>
+  </programme>
+  <programme start="20240713200000 +0000" stop="20240713230000 +0000" channel="vtv.hn">
+    <title lang="es">XRC Extreme Reality</title>
+    <desc lang="es">Impactante programa de acción extrema en la vida real. Adrenalina en persecuciones, tiroteos, rescates, incendios interminables y más.</desc>
+  </programme>
+  <programme start="20240713230000 +0000" stop="20240714000000 +0000" channel="vtv.hn">
+    <title lang="es">Raw</title>
+    <desc lang="es">Disfruta de lo mejor de la lucha libre profesional, en este espacio que te trae los combates más fuertes y disputados entre los principales peleadores a nivel mundial.</desc>
+  </programme>
+  <programme start="20240714000000 +0000" stop="20240714050000 +0000" channel="vtv.hn">
+    <title lang="es">Al sur de la frontera</title>
+  </programme>
+  <programme start="20240714050000 +0000" stop="20240714060000 +0000" channel="vtv.hn">
+    <title lang="es">Spartacus</title>
+    <desc lang="es">El poderoso guerrero Espartaco es esclavizado y obligado a convertirse en gladiador si quiere volver a ver a su esposa. En la escuela de gladiadores, aprenderá a convertirse en el más formidable de los luchadores.</desc>
+  </programme>
+  <programme start="20240714060000 +0000" stop="20240714080000 +0000" channel="vtv.hn">
+    <title lang="es">La reina blanca</title>
+    <desc lang="es">The White Queen es una apasionante historia de mujeres atrapadas en el conflicto provocado por la lucha por el trono. La historia transcurre en Inglaterra, en el año 1464, y la disputa por el trono es entre dos bandos de la misma familia.</desc>
+  </programme>
+  <programme start="20240714080000 +0000" stop="20240714100000 +0000" channel="vtv.hn">
+    <title lang="es">Sexo en la ciudad</title>
+    <desc lang="es">Las aventuras amorosas y sexuales de cuatro solteras independientes de la ciudad de Nueva York. Se trata de mujeres que se confían unas a otras sus siempre cambiantes vidas sexuales, tan diferentes como sus personalidades.</desc>
+  </programme>
+  <programme start="20240714100000 +0000" stop="20240714130000 +0000" channel="vtv.hn">
+    <title lang="es">Intelligence</title>
+    <desc lang="es">En el Comando Cibernético de EE.UU., se ha creado una unidad en torno a un agente (Josh Holloway) con un don muy especial - un microchip le fue implantado en el cerebro, lo que le permite acceder a todo el espectro electromagnético.</desc>
+  </programme>
+  <programme start="20240714130000 +0000" stop="20240714143000 +0000" channel="vtv.hn">
+    <title lang="es">Dino Ranch</title>
+    <desc lang="es">Acompaña a la familia Cassidy mientras se enfrenta a la vida de la granja en este entorno fantástico y prehistórico en el que los dinosaurios aún rugen.</desc>
+  </programme>
+  <programme start="20240714143000 +0000" stop="20240714153000 +0000" channel="vtv.hn">
+    <title lang="es">El correcaminos</title>
+    <desc lang="es">En las desiertas carreteras del desierto al suroeste de Estados Unidos, Wile E. Coyote agota cada una de sus ideas, todas fallidas, para lograr atrapar al mega veloz Correcaminos. Ambos viven en una constante persecución.</desc>
+  </programme>
+  <programme start="20240714153000 +0000" stop="20240714160000 +0000" channel="vtv.hn">
+    <title lang="es">El show de Tom y Jerry</title>
+    <desc lang="es">¡Acompaña a Tom y Jerry en el show en el que vivirán nuevas y divertidísimas aventuras mientras pelean por su territorio! Este travieso dúo está listo para volver a la acción con nuevas diabluras. ¿Los atraparán esta vez?</desc>
+  </programme>
+  <programme start="20240714160000 +0000" stop="20240714170000 +0000" channel="vtv.hn">
+    <title lang="es">Los Picapiedra</title>
+    <desc lang="es">Desde el pueblo de Pietrópolis, Pedro, Vilma y su hija Pebbles hacen que los problemas prehistóricos se transformen en carcajadas del siglo XXI, junto a sus vecinos Pablo y Betty Mármol.</desc>
+  </programme>
+  <programme start="20240714170000 +0000" stop="20240714180000 +0000" channel="vtv.hn">
+    <title lang="es">SmackDown</title>
+    <desc lang="es">Las superestrellas del Entretenimiento del Mundo de la Lucha, Edge, Big Show, Christian, Rey Mysterio y muchos otros más, se enfrentan entre ellos en competencias de lucha libre elaboradas y extensas.</desc>
+  </programme>
+  <programme start="20240714180000 +0000" stop="20240714190000 +0000" channel="vtv.hn">
+    <title lang="es">Desafío extremo</title>
+    <desc lang="es">Acompaña al escalador y piloto leonés Jesús Calleja en sus aventuras a lo largo y ancho del planeta.</desc>
+  </programme>
+  <programme start="20240714190000 +0000" stop="20240714200000 +0000" channel="vtv.hn">
+    <title lang="es">Saber y ganar</title>
+    <desc lang="es">Una serie de participantes se enfrentan en unos duelos de conocimientos sin concesiones, en los que tendrán que hacer uso de su inteligencia, memoria y sus habilidades estratégicas para salir vencedores del combate.</desc>
+  </programme>
+  <programme start="20240714200000 +0000" stop="20240714220000 +0000" channel="vtv.hn">
+    <title lang="es">XRC Extreme Reality</title>
+    <desc lang="es">Impactante programa de acción extrema en la vida real. Adrenalina en persecuciones, tiroteos, rescates, incendios interminables y más.</desc>
+  </programme>
+  <programme start="20240714220000 +0000" stop="20240714230000 +0000" channel="vtv.hn">
+    <title lang="es">Deportes VTV</title>
+    <desc lang="es">Un resumen deportivo en el cual te llevamos toda la información de lo ocurrido en el ámbito de las competencias, donde damos prioridad al desempeño de los venezolanos que se destacan en nuestro territorio y fuera de las fronteras.</desc>
+  </programme>
+  <programme start="20240714230000 +0000" stop="20240715050000 +0000" channel="vtv.hn">
+    <title lang="es">SmackDown</title>
+    <desc lang="es">Las superestrellas del Entretenimiento del Mundo de la Lucha, Edge, Big Show, Christian, Rey Mysterio y muchos otros más, se enfrentan entre ellos en competencias de lucha libre elaboradas y extensas.</desc>
+  </programme>
+  <programme start="20240715050000 +0000" stop="20240715060000 +0000" channel="vtv.hn">
+    <title lang="es">Spartacus</title>
+    <desc lang="es">El poderoso guerrero Espartaco es esclavizado y obligado a convertirse en gladiador si quiere volver a ver a su esposa. En la escuela de gladiadores, aprenderá a convertirse en el más formidable de los luchadores.</desc>
+  </programme>
+  <programme start="20240715060000 +0000" stop="20240715080000 +0000" channel="vtv.hn">
+    <title lang="es">La reina blanca</title>
+    <desc lang="es">The White Queen es una apasionante historia de mujeres atrapadas en el conflicto provocado por la lucha por el trono. La historia transcurre en Inglaterra, en el año 1464, y la disputa por el trono es entre dos bandos de la misma familia.</desc>
+  </programme>
+  <programme start="20240715080000 +0000" stop="20240715100000 +0000" channel="vtv.hn">
+    <title lang="es">Sexo en la ciudad</title>
+    <desc lang="es">Las aventuras amorosas y sexuales de cuatro solteras independientes de la ciudad de Nueva York. Se trata de mujeres que se confían unas a otras sus siempre cambiantes vidas sexuales, tan diferentes como sus personalidades.</desc>
+  </programme>
+  <programme start="20240715100000 +0000" stop="20240715120000 +0000" channel="vtv.hn">
+    <title lang="es">Intelligence</title>
+    <desc lang="es">En el Comando Cibernético de EE.UU., se ha creado una unidad en torno a un agente (Josh Holloway) con un don muy especial - un microchip le fue implantado en el cerebro, lo que le permite acceder a todo el espectro electromagnético.</desc>
+  </programme>
+  <programme start="20240715120000 +0000" stop="20240715130000 +0000" channel="vtv.hn">
+    <title lang="es">Amanecer</title>
+    <desc lang="es">Espacio que ofrece imágenes e información meteorológica en tiempo real de Oviedo y Gijón.</desc>
+  </programme>
+  <programme start="20240715130000 +0000" stop="20240715150000 +0000" channel="vtv.hn">
+    <title lang="es">Hola Honduras</title>
+    <desc lang="es">Noticas matutinas y consejos con expertos en salud y otras ramas.</desc>
+  </programme>
+  <programme start="20240715150000 +0000" stop="20240715170000 +0000" channel="vtv.hn">
+    <title lang="es">Café caliente</title>
+    <desc lang="es">Contamos con diversas secciones donde el principal objetivo es dar un entretenimiento familiar. También ofrecemos una amplia gama de oportunidades comerciales para que los clientes puedan colocar sus marcas de modo efectivo y dinámico.</desc>
+  </programme>
+  <programme start="20240715170000 +0000" stop="20240715180000 +0000" channel="vtv.hn">
+    <title lang="es">El Juez Franco</title>
+    <desc lang="es">El abogado Manuel Franco recibe en el estrado de su corte a diversos testigos que pretenden resolver su caso. Cada episodio trae consigo nuevas problemáticas para resolver, las cuales finalizan con el golpe del mazo del Juez.</desc>
+  </programme>
+  <programme start="20240715180000 +0000" stop="20240715190000 +0000" channel="vtv.hn">
+    <title lang="es">Mar negro</title>
+    <desc lang="es">Una historia de desafío al maltrato nos llevará a seguir a Nefes en un viaje por salvar su vida y la de su hijo, Yigit, de las garras de Vedat, el hombre que compró el derecho a tenerla bajo su tutela hasta que ella decida casarse con él.</desc>
+  </programme>
+  <programme start="20240715190000 +0000" stop="20240715210000 +0000" channel="vtv.hn">
+    <title lang="es">Impacto VTV Meridiano: El poder de la noticia</title>
+    <desc lang="es">Noticiero de inmediatez que informa al pueblo y se da seguimiento a cada noticia nacional e internacional.</desc>
+  </programme>
+  <programme start="20240715210000 +0000" stop="20240715220000 +0000" channel="vtv.hn">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.</desc>
+  </programme>
+  <programme start="20240715220000 +0000" stop="20240715230000 +0000" channel="vtv.hn">
+    <title lang="es">La taxista</title>
+    <desc lang="es">Rosita es una taxista que vive en Guayaquil desde hace muchos años. Su vida parecía ya estar resuelta al tener todo listo para su compromiso con su novio Marcelo Guamán. Sin embargo, sufrirá una gran desilusión al ser traicionada por él.</desc>
+  </programme>
+  <programme start="20240715230000 +0000" stop="20240716010000 +0000" channel="vtv.hn">
+    <title lang="es">Legado de amor</title>
+    <desc lang="es">Cuando fallece el patriarca de una casa, la vida de sus herederos cambia. Durante la lectura del testamento aparece Sara, la hermana que los jóvenes hijos no sabían que existía.</desc>
+  </programme>
+  <programme start="20240716010000 +0000" stop="20240716020000 +0000" channel="vtv.hn">
+    <title lang="es">Impacto VTV Estelar: El poder de la noticia</title>
+    <desc lang="es">Noticiero de inmediatez que informa al pueblo y se da seguimiento a cada noticia nacional e internacional.</desc>
+  </programme>
+  <programme start="20240716020000 +0000" stop="20240716040000 +0000" channel="vtv.hn">
+    <title lang="es">Las mil y una noches</title>
+    <desc lang="es">Basada en los célebres cuentos de Oriente Medio, se enfoca en una mujer independiente y moderna que se desempeña como arquitecta en una importante empresa, a la vez que cuida amorosamente de su único hijo, de seis años.</desc>
+  </programme>
+  <programme start="20240716040000 +0000" stop="20240716050000 +0000" channel="vtv.hn">
+    <title lang="es">Estrella de amor</title>
+    <desc lang="es">Yildiz y Kuzey deciden casarse con el consentimiento de sus familias. Pero antes Kuzey viaja a Estambul, donde se olvida de su compromiso y comienza una nueva vida. 20 años después se reencuentran.</desc>
+  </programme>
+  <programme start="20240716050000 +0000" stop="20240716060000 +0000" channel="vtv.hn">
+    <title lang="es">Impacto VTV Estelar: El poder de la noticia</title>
+    <desc lang="es">Noticiero de inmediatez que informa al pueblo y se da seguimiento a cada noticia nacional e internacional.</desc>
+  </programme>
+  <programme start="20240716060000 +0000" stop="20240716070000 +0000" channel="vtv.hn">
+    <title lang="es">Los misterios de Laura</title>
+    <desc lang="es">Laura Lebrel tiene que compatibilizar sus labores de esposa, ama de casa y madre de dos gemelos de cinco años con su trabajo como inspectora de policía. Pero no es una inspectora cualquiera...</desc>
+  </programme>
+  <programme start="20240716070000 +0000" stop="20240716080000 +0000" channel="vtv.hn">
+    <title lang="es">Highlander: el inmortal</title>
+    <desc lang="es">Duncan MacLeod es miembro de un clan que se encuentra acechado, no sólo por otros inmortales que intentan matarlo, sino también por una sociedad de mortales que se llaman "The Watchers", por lo que deberá lidiar con peligrosas situaciones.</desc>
+  </programme>
+  <programme start="20240716080000 +0000" stop="20240716090000 +0000" channel="vtv.hn">
+    <title lang="es">La taxista</title>
+    <desc lang="es">Rosita es una taxista que vive en Guayaquil desde hace muchos años. Su vida parecía ya estar resuelta al tener todo listo para su compromiso con su novio Marcelo Guamán. Sin embargo, sufrirá una gran desilusión al ser traicionada por él.</desc>
+  </programme>
+  <programme start="20240716090000 +0000" stop="20240716110000 +0000" channel="vtv.hn">
+    <title lang="es">Legado de amor</title>
+    <desc lang="es">Cuando fallece el patriarca de una casa, la vida de sus herederos cambia. Durante la lectura del testamento aparece Sara, la hermana que los jóvenes hijos no sabían que existía.</desc>
+  </programme>
+  <programme start="20240716110000 +0000" stop="20240716120000 +0000" channel="vtv.hn">
+    <title lang="es">Las mil y una noches</title>
+    <desc lang="es">Basada en los célebres cuentos de Oriente Medio, se enfoca en una mujer independiente y moderna que se desempeña como arquitecta en una importante empresa, a la vez que cuida amorosamente de su único hijo, de seis años.</desc>
+  </programme>
+  <programme start="20240716120000 +0000" stop="20240716130000 +0000" channel="vtv.hn">
+    <title lang="es">Amanecer</title>
+    <desc lang="es">Espacio que ofrece imágenes e información meteorológica en tiempo real de Oviedo y Gijón.</desc>
+  </programme>
+  <programme start="20240716130000 +0000" stop="20240716150000 +0000" channel="vtv.hn">
+    <title lang="es">Hola Honduras</title>
+    <desc lang="es">Noticas matutinas y consejos con expertos en salud y otras ramas.</desc>
+  </programme>
+  <programme start="20240716150000 +0000" stop="20240716170000 +0000" channel="vtv.hn">
+    <title lang="es">Café caliente</title>
+    <desc lang="es">Contamos con diversas secciones donde el principal objetivo es dar un entretenimiento familiar. También ofrecemos una amplia gama de oportunidades comerciales para que los clientes puedan colocar sus marcas de modo efectivo y dinámico.</desc>
+  </programme>
+  <programme start="20240716170000 +0000" stop="20240716180000 +0000" channel="vtv.hn">
+    <title lang="es">El Juez Franco</title>
+    <desc lang="es">El abogado Manuel Franco recibe en el estrado de su corte a diversos testigos que pretenden resolver su caso. Cada episodio trae consigo nuevas problemáticas para resolver, las cuales finalizan con el golpe del mazo del Juez.</desc>
+  </programme>
+  <programme start="20240716180000 +0000" stop="20240716190000 +0000" channel="vtv.hn">
+    <title lang="es">Mar negro</title>
+    <desc lang="es">Una historia de desafío al maltrato nos llevará a seguir a Nefes en un viaje por salvar su vida y la de su hijo, Yigit, de las garras de Vedat, el hombre que compró el derecho a tenerla bajo su tutela hasta que ella decida casarse con él.</desc>
+  </programme>
+  <programme start="20240716190000 +0000" stop="20240716210000 +0000" channel="vtv.hn">
+    <title lang="es">Impacto VTV Meridiano: El poder de la noticia</title>
+    <desc lang="es">Noticiero de inmediatez que informa al pueblo y se da seguimiento a cada noticia nacional e internacional.</desc>
+  </programme>
+  <programme start="20240716210000 +0000" stop="20240716220000 +0000" channel="vtv.hn">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.</desc>
+  </programme>
+  <programme start="20240716220000 +0000" stop="20240716230000 +0000" channel="vtv.hn">
+    <title lang="es">La taxista</title>
+    <desc lang="es">Rosita es una taxista que vive en Guayaquil desde hace muchos años. Su vida parecía ya estar resuelta al tener todo listo para su compromiso con su novio Marcelo Guamán. Sin embargo, sufrirá una gran desilusión al ser traicionada por él.</desc>
+  </programme>
+  <programme start="20240712044500 +0000" stop="20240712054500 +0000" channel="televen.ve">
+    <title>El noticiero</title>
+  </programme>
+  <programme start="20240712054500 +0000" stop="20240712064500 +0000" channel="televen.ve">
+    <title>La bomba</title>
+    <desc>Los chismes más polémicos sobre las personalidades de la vida pública venezolana es decir, cualquiera que aparezca en la portada de una revista será el detonante para que te enteres de todo lo que quieres saber.</desc>
+  </programme>
+  <programme start="20240712064500 +0000" stop="20240712074500 +0000" channel="televen.ve">
+    <title>La vitrina</title>
+  </programme>
+  <programme start="20240712074500 +0000" stop="20240712084500 +0000" channel="televen.ve">
+    <title>Lo actual</title>
+    <desc>Lo Actual es una revista matinal de eventos de actualidad, música, arte, cultura, más una combinación de noticias y entretenimiento.</desc>
+  </programme>
+  <programme start="20240712084500 +0000" stop="20240712090000 +0000" channel="televen.ve">
+    <title>Carros clásicos</title>
+    <desc>Carros clásicos es una serie que brinda imágenes espectaculares del cromo brillante y la pintura pulida de los autos más venerados de antaño.</desc>
+  </programme>
+  <programme start="20240712090000 +0000" stop="20240712093000 +0000" channel="televen.ve">
+    <title>La iglesia de Dios</title>
+    <desc>Espacio dedicado a la Iglesia de Dios.</desc>
+  </programme>
+  <programme start="20240712093000 +0000" stop="20240712094500 +0000" channel="televen.ve">
+    <title>Naturaleza salvaje</title>
+    <desc>Un documental que explora el mundo animal y las formas en que cada especie sobrevive. El público podrá conocer el día a día de distintos animales así como sus hábitos, alimentación y mucho más.</desc>
+  </programme>
+  <programme start="20240712094500 +0000" stop="20240712100000 +0000" channel="televen.ve">
+    <title>Regiones</title>
+    <desc>Un programa que presenta los hechos más destacados de la agenda de noticias nacional. Un equipo de periodistas analiza los acontecimientos diarios en las diferentes regiones de Colombia.</desc>
+  </programme>
+  <programme start="20240712100000 +0000" stop="20240712120000 +0000" channel="televen.ve">
+    <title>El noticiero - Primera emisión</title>
+  </programme>
+  <programme start="20240712120000 +0000" stop="20240712123000 +0000" channel="televen.ve">
+    <title>Más allá de las estrellas</title>
+    <desc>Magazín de corte esotérico donde se busca ir más allá de la astrología, tarot y ocultismo presentando las técnicas espirituales que están en tendencia, adicionalmente se facilitaran herramientas de crecimiento personal.</desc>
+  </programme>
+  <programme start="20240712123000 +0000" stop="20240712130000 +0000" channel="televen.ve">
+    <title>Palabra cierta</title>
+  </programme>
+  <programme start="20240712130000 +0000" stop="20240712140000 +0000" channel="televen.ve">
+    <title>Lo actual</title>
+    <desc>Lo Actual es una revista matinal de eventos de actualidad, música, arte, cultura, más una combinación de noticias y entretenimiento.</desc>
+  </programme>
+  <programme start="20240712140000 +0000" stop="20240712150000 +0000" channel="televen.ve">
+    <title>La vitrina</title>
+  </programme>
+  <programme start="20240712150000 +0000" stop="20240712160000 +0000" channel="televen.ve">
+    <title>La bomba</title>
+    <desc>Los chismes más polémicos sobre las personalidades de la vida pública venezolana es decir, cualquiera que aparezca en la portada de una revista será el detonante para que te enteres de todo lo que quieres saber.</desc>
+  </programme>
+  <programme start="20240712160000 +0000" stop="20240712170000 +0000" channel="televen.ve">
+    <title>Tu voz estéreo</title>
+    <desc>En cada capítulo se desarrolla una historia distinta, con personajes y temas diferentes, la cual, generalmente, presenta situaciones difíciles que se resuelven de manera positiva y finalizan a modo de moraleja.</desc>
+  </programme>
+  <programme start="20240712170000 +0000" stop="20240712180000 +0000" channel="televen.ve">
+    <title>Nadie como tú</title>
+    <desc>Historia de amor, intriga y suspenso en el mundo de la producción del mezcal.</desc>
+  </programme>
+  <programme start="20240712180000 +0000" stop="20240712190000 +0000" channel="televen.ve">
+    <title>Calle luna, calle sol</title>
+    <desc>Manuel se une en matrimonio civil con Gabriela. La pareja es felicitada por los presentes cuando de repente Mastronardi recibe una llamada.</desc>
+  </programme>
+  <programme start="20240712190000 +0000" stop="20240712200000 +0000" channel="televen.ve">
+    <title>Un amor duradero</title>
+    <desc>Los caminos de Andrea, con un profundo dolor después de la traición de su ex prometido, y Anton, padre soltero que dirige una prestigiosa empresa, se cruzan. Pero su amor se pone a prueba con el regreso de Grace, la ex mujer de Anton.</desc>
+  </programme>
+  <programme start="20240712200000 +0000" stop="20240712210000 +0000" channel="televen.ve">
+    <title>Dios sabe cómo hace sus cosas</title>
+    <desc>Cuenta una serie de historias unitarias que le suceden a la gente común, en las cuales interviene un acto de fe en quienes acuden a los diferentes santos, para que así, les ayuden a solucionar sus problemas.</desc>
+  </programme>
+  <programme start="20240712210000 +0000" stop="20240712220000 +0000" channel="televen.ve">
+    <title>Lo que callamos las mujeres</title>
+    <desc>Presenta la dramatización de historias que actualmente viven las mujeres en su entorno social, ilustrando un tema específico. Para ayuda del público se dan consejos para sobrellevar el problema.</desc>
+  </programme>
+  <programme start="20240712220000 +0000" stop="20240712230000 +0000" channel="televen.ve">
+    <title>Se ha dicho</title>
+    <desc>Es un programa donde los participantes vendrán a contar su historia, buscarán ayuda a sus problemas y se educará a la audiencia sobre una variedad de temas relacionados con el Derecho.</desc>
+  </programme>
+  <programme start="20240712230000 +0000" stop="20240713010000 +0000" channel="televen.ve">
+    <title>Héroes del fútbol</title>
+  </programme>
+  <programme start="20240713010000 +0000" stop="20240713020000 +0000" channel="televen.ve">
+    <title>Ventino</title>
+    <desc>Tras dar a luz a su hija, Martina Pumarejo la abandona para no poner su reputación en riesgo. 20 años después es la reconocida juez de un importante reality show. Pero a su vida llega Natalia, una joven cantante que amenaza su estabilidad.</desc>
+  </programme>
+  <programme start="20240713020000 +0000" stop="20240713030000 +0000" channel="televen.ve">
+    <title>Ana de nadie</title>
+    <desc>Ana, una mujer de 50 años, deberá replantear aspectos claves de su vida al descubrir que su marido con el que ha estado 25 años le es infiel.</desc>
+  </programme>
+  <programme start="20240713030000 +0000" stop="20240713040000 +0000" channel="televen.ve">
+    <title>La ley secreta</title>
+    <desc>Sandra, Amelia y Tatiana, tres agentes secretas ponen en riesgo no solo sus vidas, sino también las de sus familiares, al infiltrarse en grandes bandas criminales para desmantelarlas y así poder cumplir la función de la ley.</desc>
+  </programme>
+  <programme start="20240713040000 +0000" stop="20240713044500 +0000" channel="televen.ve">
+    <title>No desista</title>
+    <desc>Un programa que tiene como objetivo brindar mensajes motivacionales y de fe basados en la palabra de Dios. Está dirigido a personas que están considerando desistir de la vida.</desc>
+  </programme>
+  <programme start="20240713044500 +0000" stop="20240713054500 +0000" channel="televen.ve">
+    <title>El noticiero</title>
+  </programme>
+  <programme start="20240713054500 +0000" stop="20240713064500 +0000" channel="televen.ve">
+    <title>La bomba</title>
+    <desc>Los chismes más polémicos sobre las personalidades de la vida pública venezolana es decir, cualquiera que aparezca en la portada de una revista será el detonante para que te enteres de todo lo que quieres saber.</desc>
+  </programme>
+  <programme start="20240713064500 +0000" stop="20240713074500 +0000" channel="televen.ve">
+    <title>La vitrina</title>
+  </programme>
+  <programme start="20240713074500 +0000" stop="20240713084500 +0000" channel="televen.ve">
+    <title>Lo actual</title>
+    <desc>Lo Actual es una revista matinal de eventos de actualidad, música, arte, cultura, más una combinación de noticias y entretenimiento.</desc>
+  </programme>
+  <programme start="20240713084500 +0000" stop="20240713090000 +0000" channel="televen.ve">
+    <title>Carros clásicos</title>
+    <desc>Carros clásicos es una serie que brinda imágenes espectaculares del cromo brillante y la pintura pulida de los autos más venerados de antaño.</desc>
+  </programme>
+  <programme start="20240713090000 +0000" stop="20240713093000 +0000" channel="televen.ve">
+    <title>La iglesia de Dios</title>
+    <desc>Espacio dedicado a la Iglesia de Dios.</desc>
+  </programme>
+  <programme start="20240713093000 +0000" stop="20240713100000 +0000" channel="televen.ve">
+    <title>Naturaleza salvaje</title>
+    <desc>Un documental que explora el mundo animal y las formas en que cada especie sobrevive. El público podrá conocer el día a día de distintos animales así como sus hábitos, alimentación y mucho más.</desc>
+  </programme>
+  <programme start="20240713100000 +0000" stop="20240713120000 +0000" channel="televen.ve">
+    <title>La cueva encantada</title>
+    <desc>Existe una cueva mágica que contiene tesoros, reliquias y joyas pero estos elementos están malditos y nadie puede llevárselos. Sin embargo, la joven Lena, a pesar de las advertencias, no puede superar su deseo y las toma.</desc>
+  </programme>
+  <programme start="20240713120000 +0000" stop="20240713123000 +0000" channel="televen.ve">
+    <title>Más allá de las estrellas</title>
+    <desc>Magazín de corte esotérico donde se busca ir más allá de la astrología, tarot y ocultismo presentando las técnicas espirituales que están en tendencia, adicionalmente se facilitaran herramientas de crecimiento personal.</desc>
+  </programme>
+  <programme start="20240713123000 +0000" stop="20240713130000 +0000" channel="televen.ve">
+    <title>Palabra cierta</title>
+  </programme>
+  <programme start="20240713130000 +0000" stop="20240713140000 +0000" channel="televen.ve">
+    <title>Se ha dicho</title>
+    <desc>Es un programa donde los participantes vendrán a contar su historia, buscarán ayuda a sus problemas y se educará a la audiencia sobre una variedad de temas relacionados con el Derecho.</desc>
+  </programme>
+  <programme start="20240713140000 +0000" stop="20240713150000 +0000" channel="televen.ve">
+    <title>Consentidos estrellas</title>
+    <desc>Un espacio que está inspirado en todas las fantasías de los infantes de la casa, donde ellos como protagonistas tendrán la oportunidad de animar, cantar, bailar, imitar, actuar y aprender sanamente.</desc>
+  </programme>
+  <programme start="20240713150000 +0000" stop="20240713160000 +0000" channel="televen.ve">
+    <title>Gente como uno</title>
+    <desc>Invita a la audiencia a reflexionar, a sentarse a escuchar sobre la inspiración que logra gente común, corriente, ciudadanos de primera, que no se han ido del país.</desc>
+  </programme>
+  <programme start="20240713160000 +0000" stop="20240713170000 +0000" channel="televen.ve">
+    <title>Ella era bonita</title>
+    <desc>Ji era un chico tímido, pero su vida cambia cuando conoce a Kim y se enamoran mutuamente. Sin embargo, su familia decide emigrar a los Estados Unidos y ellos deben separarse, sin imaginar que la pubertad los cambiaría drásticamente.</desc>
+  </programme>
+  <programme start="20240713170000 +0000" stop="20240713180000 +0000" channel="televen.ve">
+    <title>Nadie como tú</title>
+    <desc>Historia de amor, intriga y suspenso en el mundo de la producción del mezcal.</desc>
+  </programme>
+  <programme start="20240713180000 +0000" stop="20240713190000 +0000" channel="televen.ve">
+    <title>Calle luna, calle sol</title>
+    <desc>Manuel se une en matrimonio civil con Gabriela. La pareja es felicitada por los presentes cuando de repente Mastronardi recibe una llamada.</desc>
+  </programme>
+  <programme start="20240713190000 +0000" stop="20240713200000 +0000" channel="televen.ve">
+    <title>Un amor duradero</title>
+    <desc>Los caminos de Andrea, con un profundo dolor después de la traición de su ex prometido, y Anton, padre soltero que dirige una prestigiosa empresa, se cruzan. Pero su amor se pone a prueba con el regreso de Grace, la ex mujer de Anton.</desc>
+  </programme>
+  <programme start="20240713200000 +0000" stop="20240713230000 +0000" channel="televen.ve">
+    <title>Kansas City Royals vs. Boston Red Sox</title>
+    <desc>Una cobertura de la liga de béisbol más importante del mundo.</desc>
+  </programme>
+  <programme start="20240713230000 +0000" stop="20240714010000 +0000" channel="televen.ve">
+    <title>Soldado universal: El regreso</title>
+    <desc>SETH, el androide que comanda el nuevo grupo de soldados, de repente desarrolla una mente asesina por sí solo. Pronto, liderará a sus compañeros máquinas de guerra en una serie de eventos violentos. Luc será el único capaz de detenerlos.</desc>
+  </programme>
+  <programme start="20240712050000 +0000" stop="20240712070000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240712070000 +0000" stop="20240712090000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240712090000 +0000" stop="20240712100000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240712100000 +0000" stop="20240712110000 +0000" channel="tvn.pa">
+    <title lang="es">Alas rotas</title>
+  </programme>
+  <programme start="20240712110000 +0000" stop="20240712130000 +0000" channel="tvn.pa">
+    <title lang="es">Noticiero AM</title>
+  </programme>
+  <programme start="20240712130000 +0000" stop="20240712160000 +0000" channel="tvn.pa">
+    <title lang="es">Jelou!</title>
+  </programme>
+  <programme start="20240712160000 +0000" stop="20240712163000 +0000" channel="tvn.pa">
+    <title lang="es">Pasión de Gavilanes</title>
+    <desc lang="es">Juan (Mario Cimarro), Oscar (Alfonso Baptista) y Franco Reyes (Michel Brown) son tres hermanos que tienen una hermana menor, Libia (Ana Lucía Domínguez). Libia se enamora de Bernardo Elizondo, un hombre adinerado que es dueño de un rancho y además padre de Norma (Danna Garcia) Jimena (Paola Rey) y Sariata Elizondo (Natasha Klauss). A pesar de la diferencia de edades, Libia queda embarazada pero un día el ya mayor hombre muere y ella estaba tan enamorada que se suicida. Sus tres hermanos creen que todo esto se debe a Bernardo así que ellos deciden vengarse de todos los Elizondo haciéndose pasar por trabajadores de la hacienda. Ya introducidos como trabajadores los tres hermanos conocen a las tres hijas de Bernardo Elizondo y ellos deciden que la mejor forma de vengarse es engañar a las tres hermanas tal y cómo Bernardo lo hizo con su única hermana Libia</desc>
+  </programme>
+  <programme start="20240712163000 +0000" stop="20240712170000 +0000" channel="tvn.pa">
+    <title lang="es">TVN Noticias -medio día-</title>
+  </programme>
+  <programme start="20240712170000 +0000" stop="20240712180000 +0000" channel="tvn.pa">
+    <title lang="es">Show TVN</title>
+  </programme>
+  <programme start="20240712180000 +0000" stop="20240712190000 +0000" channel="tvn.pa">
+    <title lang="es">Al rojo vivo</title>
+  </programme>
+  <programme start="20240712190000 +0000" stop="20240712203000 +0000" channel="tvn.pa">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20240712203000 +0000" stop="20240712220000 +0000" channel="tvn.pa">
+    <title lang="es">Si nos dejan</title>
+  </programme>
+  <programme start="20240712220000 +0000" stop="20240713000000 +0000" channel="tvn.pa">
+    <title lang="es">Noticiero Estelar</title>
+  </programme>
+  <programme start="20240713000000 +0000" stop="20240713010000 +0000" channel="tvn.pa">
+    <title lang="es">La gran mentira</title>
+  </programme>
+  <programme start="20240713010000 +0000" stop="20240713020000 +0000" channel="tvn.pa">
+    <title lang="es">Almas de fuego</title>
+  </programme>
+  <programme start="20240713020000 +0000" stop="20240713030000 +0000" channel="tvn.pa">
+    <title lang="es">Propuesta indecente</title>
+  </programme>
+  <programme start="20240713030000 +0000" stop="20240713050000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240713050000 +0000" stop="20240713070000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240713070000 +0000" stop="20240713090000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240713090000 +0000" stop="20240713100000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240713100000 +0000" stop="20240713110000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240713110000 +0000" stop="20240713130000 +0000" channel="tvn.pa">
+    <title lang="es">Casper</title>
+  </programme>
+  <programme start="20240713130000 +0000" stop="20240713143000 +0000" channel="tvn.pa">
+    <title lang="es">La casa de muñecas de Gabby</title>
+  </programme>
+  <programme start="20240713143000 +0000" stop="20240713160000 +0000" channel="tvn.pa">
+    <title lang="es">Kung Fu Panda Las patitas</title>
+  </programme>
+  <programme start="20240713160000 +0000" stop="20240713163000 +0000" channel="tvn.pa">
+    <title lang="es">Gato con botas</title>
+  </programme>
+  <programme start="20240713163000 +0000" stop="20240713180000 +0000" channel="tvn.pa">
+    <title lang="es">Problem child</title>
+  </programme>
+  <programme start="20240713180000 +0000" stop="20240713200000 +0000" channel="tvn.pa">
+    <title lang="es">Polvo carnavalero</title>
+  </programme>
+  <programme start="20240713200000 +0000" stop="20240713220000 +0000" channel="tvn.pa">
+    <title lang="es">Daddy day camp</title>
+  </programme>
+  <programme start="20240713220000 +0000" stop="20240713230000 +0000" channel="tvn.pa">
+    <title lang="es">Noticiero fin de semana</title>
+  </programme>
+  <programme start="20240713230000 +0000" stop="20240714000000 +0000" channel="tvn.pa">
+    <title lang="es">Hecho en Panamá</title>
+  </programme>
+  <programme start="20240714000000 +0000" stop="20240714013000 +0000" channel="tvn.pa">
+    <title lang="es">La cáscara</title>
+  </programme>
+  <programme start="20240714013000 +0000" stop="20240714033000 +0000" channel="tvn.pa">
+    <title lang="es">Crimen de sangre</title>
+  </programme>
+  <programme start="20240714033000 +0000" stop="20240714050000 +0000" channel="tvn.pa">
+    <title lang="es">Los reyes del humor</title>
+  </programme>
+  <programme start="20240714050000 +0000" stop="20240714070000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240714070000 +0000" stop="20240714090000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240714090000 +0000" stop="20240714100000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240714100000 +0000" stop="20240714110000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240714110000 +0000" stop="20240714123000 +0000" channel="tvn.pa">
+    <title lang="es">Resumen Pasión de Gavilanes</title>
+  </programme>
+  <programme start="20240714123000 +0000" stop="20240714130000 +0000" channel="tvn.pa">
+    <title lang="es">Agro tv</title>
+  </programme>
+  <programme start="20240714130000 +0000" stop="20240714140000 +0000" channel="tvn.pa">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20240714140000 +0000" stop="20240714153000 +0000" channel="tvn.pa">
+    <title lang="es">Radar</title>
+  </programme>
+  <programme start="20240714153000 +0000" stop="20240714160000 +0000" channel="tvn.pa">
+    <title lang="es">De frente con Sabrina</title>
+  </programme>
+  <programme start="20240714160000 +0000" stop="20240714163000 +0000" channel="tvn.pa">
+    <title lang="es">Inversiones de Negocios</title>
+  </programme>
+  <programme start="20240714163000 +0000" stop="20240714190000 +0000" channel="tvn.pa">
+    <title lang="es">Pop Corn</title>
+  </programme>
+  <programme start="20240714190000 +0000" stop="20240714193000 +0000" channel="tvn.pa">
+    <title lang="es">La lotería</title>
+  </programme>
+  <programme start="20240714193000 +0000" stop="20240714220000 +0000" channel="tvn.pa">
+    <title lang="es">Red</title>
+  </programme>
+  <programme start="20240714220000 +0000" stop="20240714230000 +0000" channel="tvn.pa">
+    <title lang="es">Noticiero fin de semana</title>
+  </programme>
+  <programme start="20240714230000 +0000" stop="20240715010000 +0000" channel="tvn.pa">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+    <desc lang="es">McCall (Denzel Washington), un hombre que ha dejado atrás su vida misteriosa en el pasado y ahora vive una nueva y tranquila vida. Pero todo esto está por cambiar cuando conoce a Teri (Chloë Grace Moretz), una chica controlada por unos mafiosos rusos, que hace que cambie de opinión sobre su vida tranquila. Armado con habilidades ocultas lo ayudaran a vengar a todo aquel que maltrate al inocente, McCall sale de su descanso para encontrar su deseo de justicia</desc>
+  </programme>
+  <programme start="20240715010000 +0000" stop="20240715030000 +0000" channel="tvn.pa">
+    <title lang="es">Resident Evil: Capítulo Final</title>
+    <desc lang="es">Alice (Milla Jovovich) es la única sobreviviente de Ciudad Raccoon, lo que se suponía iba ser la última esperanza para combatir a los zombis. Ahora, ella deberá regresar donde la pesadilla comenzó &#x2013; La colmena en la Ciudad Raccoon, donde la Corporación Umbrella está reunendo sus fuerzas para un último ataque contra los únicos sobrevivientes del apocalipsis, entre ellos Wesker (Shawn Roberts), el Dr. Isaacs (Iain Glen), Abigail (Ruby Rose), Claire Redfield (Ali Larter), Christian (William Levy), Cobalt (Rola), Doc (Eoin Macken), Michael (Fraser James) y Lee (Lee Joon Gi)</desc>
+  </programme>
+  <programme start="20240715030000 +0000" stop="20240715050000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240715050000 +0000" stop="20240715070000 +0000" channel="tvn.pa">
+    <title lang="es">TVN 2</title>
+  </programme>
+  <programme start="20240712050000 +0000" stop="20240712060000 +0000" channel="venevision.ve">
+    <title>Casos de familia</title>
+    <desc>Un foro para hablar de la familia.</desc>
+  </programme>
+  <programme start="20240712060000 +0000" stop="20240712070000 +0000" channel="venevision.ve">
+    <title>Casos de familia</title>
+    <desc>Un foro para hablar de la familia.</desc>
+  </programme>
+  <programme start="20240712070000 +0000" stop="20240712080000 +0000" channel="venevision.ve">
+    <title>Entre mujeres</title>
+    <desc>Un espacio para debatir diversos temas relacionados a las mujeres.</desc>
+  </programme>
+  <programme start="20240712080000 +0000" stop="20240712090000 +0000" channel="venevision.ve">
+    <title>¿Quién tiene la razón?</title>
+    <desc>Se escuchan los problemas de las partes en conflicto para decidir quién tiene la razón.</desc>
+  </programme>
+  <programme start="20240712090000 +0000" stop="20240712100000 +0000" channel="venevision.ve">
+    <title>Casos de familia</title>
+    <desc>Un foro para hablar de la familia.</desc>
+  </programme>
+  <programme start="20240712100000 +0000" stop="20240712110000 +0000" channel="venevision.ve">
+    <title>Casos de familia</title>
+    <desc>Un foro para hablar de la familia.</desc>
+  </programme>
+  <programme start="20240712110000 +0000" stop="20240712120000 +0000" channel="venevision.ve">
+    <title>¿Quién tiene la razón?</title>
+    <desc>Todos alguna vez hemos pasado por situaciones difíciles en nuestro entorno familiar, amoroso y hasta con nuestras amistades. Llegar a un acuerdo donde ambas partes sean beneficiadas no es tan fácil de lograr. Es por eso que este espacio analiza...</desc>
+  </programme>
+  <programme start="20240712120000 +0000" stop="20240712130000 +0000" channel="venevision.ve">
+    <title>Vida holistica</title>
+    <desc>Vida holística nos enseña que es posible transformar nuestra salud.</desc>
+  </programme>
+  <programme start="20240712130000 +0000" stop="20240712140000 +0000" channel="venevision.ve">
+    <title>Los astros</title>
+    <desc>Programa local.</desc>
+  </programme>
+  <programme start="20240712140000 +0000" stop="20240712150000 +0000" channel="venevision.ve">
+    <title>Necesito una amiga</title>
+    <desc>"Necesito una Amiga" es un programa diferente y único.</desc>
+  </programme>
+  <programme start="20240712150000 +0000" stop="20240712160000 +0000" channel="venevision.ve">
+    <title>¿Quién tiene la razón?</title>
+    <desc>Se escuchan los problemas de las partes en conflicto para decidir quién tiene la razón.</desc>
+  </programme>
+  <programme start="20240712160000 +0000" stop="20240712170000 +0000" channel="venevision.ve">
+    <title>Casos de familia</title>
+    <desc>Un foro para hablar de la familia.</desc>
+  </programme>
+  <programme start="20240712170000 +0000" stop="20240712180000 +0000" channel="venevision.ve">
+    <title>¿Quién tiene la razón?</title>
+    <desc>Todos alguna vez hemos pasado por situaciones difíciles en nuestro entorno familiar, amoroso y hasta con nuestras amistades. Llegar a un acuerdo donde ambas partes sean beneficiadas no es tan fácil de lograr. Es por eso que este espacio analiza...</desc>
+  </programme>
+  <programme start="20240712180000 +0000" stop="20240712190000 +0000" channel="venevision.ve">
+    <title>Corazón apasionado</title>
+    <desc>Historia de un amor lleno de obstáculos entre la heredera de una hacienda y un capataz, quienes tienen un pasado amoroso que les impone nuevos retos.</desc>
+  </programme>
+  <programme start="20240712190000 +0000" stop="20240712200000 +0000" channel="venevision.ve">
+    <title>Aunque Mal Paguen</title>
+    <desc>Las vidas entrelazadas de los habitantes del pueblo El Guayabo.</desc>
+  </programme>
+  <programme start="20240712200000 +0000" stop="20240712210000 +0000" channel="venevision.ve">
+    <title>Casos de familia</title>
+    <desc>Un foro para hablar de la familia.</desc>
+  </programme>
+  <programme start="20240712210000 +0000" stop="20240712220000 +0000" channel="venevision.ve">
+    <title>En dos platos</title>
+  </programme>
+  <programme start="20240712220000 +0000" stop="20240712230000 +0000" channel="venevision.ve">
+    <title>Necesito una amiga</title>
+    <desc>"Necesito una Amiga" es un programa diferente y único.</desc>
+  </programme>
+  <programme start="20240712230000 +0000" stop="20240713000000 +0000" channel="venevision.ve">
+    <title>Aunque Mal Paguen</title>
+    <desc>Las vidas entrelazadas de los habitantes del pueblo El Guayabo.</desc>
+  </programme>
+  <programme start="20240713000000 +0000" stop="20240713010000 +0000" channel="venevision.ve">
+    <title>¿Quién tiene la razón?</title>
+    <desc>Se escuchan los problemas de las partes en conflicto para decidir quién tiene la razón.</desc>
+  </programme>
+  <programme start="20240713010000 +0000" stop="20240713020000 +0000" channel="venevision.ve">
+    <title>Casos de familia</title>
+    <desc>Un foro para hablar de la familia.</desc>
+  </programme>
+  <programme start="20240713020000 +0000" stop="20240713030000 +0000" channel="venevision.ve">
+    <title>Necesito una amiga</title>
+    <desc>"Necesito una Amiga" es un programa diferente y único.</desc>
+  </programme>
+  <programme start="20240713030000 +0000" stop="20240713040000 +0000" channel="venevision.ve">
+    <title>En dos platos</title>
+  </programme>
+  <programme start="20240713040000 +0000" stop="20240713050000 +0000" channel="venevision.ve">
+    <title>¿Quién tiene la razón?</title>
+    <desc>Se escuchan los problemas de las partes en conflicto para decidir quién tiene la razón.</desc>
+  </programme>
+  <programme start="20240713050000 +0000" stop="20240713060000 +0000" channel="venevision.ve">
+    <title>Casos de familia</title>
+    <desc>Un foro para hablar de la familia.</desc>
+  </programme>
+  <programme start="20240713060000 +0000" stop="20240713070000 +0000" channel="venevision.ve">
+    <title>Casos de familia</title>
+    <desc>Un foro para hablar de la familia.</desc>
+  </programme>
+  <programme start="20240713070000 +0000" stop="20240713080000 +0000" channel="venevision.ve">
+    <title>En dos platos</title>
+  </programme>
+  <programme start="20240713080000 +0000" stop="20240713090000 +0000" channel="venevision.ve">
+    <title>¿Quién tiene la razón?</title>
+    <desc>Se escuchan los problemas de las partes en conflicto para decidir quién tiene la razón.</desc>
+  </programme>
+  <programme start="20240713090000 +0000" stop="20240713100000 +0000" channel="venevision.ve">
+    <title>Casos de familia</title>
+    <desc>Un foro para hablar de la familia.</desc>
+  </programme>
+  <programme start="20240713100000 +0000" stop="20240713110000 +0000" channel="venevision.ve">
+    <title>¿Quién tiene la razón?</title>
+    <desc>Todos alguna vez hemos pasado por situaciones difíciles en nuestro entorno familiar, amoroso y hasta con nuestras amistades. Llegar a un acuerdo donde ambas partes sean beneficiadas no es tan fácil de lograr. Es por eso que este espacio analiza...</desc>
+  </programme>
+  <programme start="20240713110000 +0000" stop="20240713120000 +0000" channel="venevision.ve">
+    <title>Necesito una amiga</title>
+    <desc>"Necesito una Amiga" es un programa diferente y único.</desc>
+  </programme>
+  <programme start="20240713120000 +0000" stop="20240713130000 +0000" channel="venevision.ve">
+    <title>¿Quién tiene la razón?</title>
+    <desc>Se escuchan los problemas de las partes en conflicto para decidir quién tiene la razón.</desc>
+  </programme>
+  <programme start="20240713130000 +0000" stop="20240713140000 +0000" channel="venevision.ve">
+    <title>¿Quién tiene la razón?</title>
+    <desc>Se escuchan los problemas de las partes en conflicto para decidir quién tiene la razón.</desc>
+  </programme>
+  <programme start="20240712050000 +0000" stop="20240712053000 +0000" channel="ivc.ve">
+    <title>Entre Redes</title>
+    <desc>Espacio ideal para todos aquellos que son fanáticos y participantes de sitios sociales en internet.</desc>
+  </programme>
+  <programme start="20240712053000 +0000" stop="20240712073000 +0000" channel="ivc.ve">
+    <title>Vive La Gran Pantalla</title>
+    <desc>Programa de entretenimiento.</desc>
+  </programme>
+  <programme start="20240712073000 +0000" stop="20240712083000 +0000" channel="ivc.ve">
+    <title>Planeta Tierra</title>
+    <desc>Un vistazo a la diversidad de climas y hábitats en la Tierra.</desc>
+  </programme>
+  <programme start="20240712083000 +0000" stop="20240712090000 +0000" channel="ivc.ve">
+    <title>Paso a Paso</title>
+    <desc>Un contratista divorciado y una esteticista viuda se casan impulsivamente, arrastrando a sus hijos tranquilos a sus locuras. La serie se estrenó en la cadena ABC el 21 de septiembre de 1991.</desc>
+  </programme>
+  <programme start="20240712090000 +0000" stop="20240712093000 +0000" channel="ivc.ve">
+    <title>Los Comemáiz</title>
+  </programme>
+  <programme start="20240712093000 +0000" stop="20240712100000 +0000" channel="ivc.ve">
+    <title>China desde el cielo</title>
+    <desc>China es una tierra con una inmensa diversidad, historia y cultura milenaria. Mientras sus ciudades y su infraestructura cambian, mantiene intacta su antigua tradición. Cualquier rincón del país es mágico y más si se lo mira desde el aire.</desc>
+  </programme>
+  <programme start="20240712100000 +0000" stop="20240712103000 +0000" channel="ivc.ve">
+    <title>Diarios de viaje</title>
+    <desc>Se muestra la gran diversidad existente en China, a través de entretenidos y cautivadores viajes alrededor del país.</desc>
+  </programme>
+  <programme start="20240712103000 +0000" stop="20240712113000 +0000" channel="ivc.ve">
+    <title>Secretos de la Naturaleza</title>
+  </programme>
+  <programme start="20240712113000 +0000" stop="20240712120000 +0000" channel="ivc.ve">
+    <title>Fruto Cimarrón</title>
+    <desc>Programa de entretenimiento.</desc>
+  </programme>
+  <programme start="20240712120000 +0000" stop="20240712123000 +0000" channel="ivc.ve">
+    <title>Óptica Nacional</title>
+    <desc>Documental.</desc>
+  </programme>
+  <programme start="20240712123000 +0000" stop="20240712130000 +0000" channel="ivc.ve">
+    <title>Documentales RT</title>
+    <desc>Reportajes especiales de temas frente a los cuales es difícil permanecer indiferente.</desc>
+  </programme>
+  <programme start="20240712130000 +0000" stop="20240712133000 +0000" channel="ivc.ve">
+    <title>Óptica Mundial</title>
+    <desc>Documental.</desc>
+  </programme>
+  <programme start="20240712133000 +0000" stop="20240712140000 +0000" channel="ivc.ve">
+    <title>Entre Redes</title>
+    <desc>Espacio ideal para todos aquellos que son fanáticos y participantes de sitios sociales en internet.</desc>
+  </programme>
+  <programme start="20240712140000 +0000" stop="20240712150000 +0000" channel="ivc.ve">
+    <title>A Bite of China</title>
+    <desc>Serie de televisión documental china sobre la historia de la comida, y la cocina en China.</desc>
+  </programme>
+  <programme start="20240712150000 +0000" stop="20240712153000 +0000" channel="ivc.ve">
+    <title>Así Es China</title>
+    <desc>Una mirada a la República Popular China.</desc>
+  </programme>
+  <programme start="20240712153000 +0000" stop="20240712160000 +0000" channel="ivc.ve">
+    <title>Sabor a Pueblo</title>
+    <desc>Se preparan comidas venezolanas tradicionales.</desc>
+  </programme>
+  <programme start="20240712160000 +0000" stop="20240712170000 +0000" channel="ivc.ve">
+    <title>Óptica Nacional</title>
+    <desc>Documental.</desc>
+  </programme>
+  <programme start="20240712170000 +0000" stop="20240712180000 +0000" channel="ivc.ve">
+    <title>Secretos de la Naturaleza</title>
+  </programme>
+  <programme start="20240712180000 +0000" stop="20240712183000 +0000" channel="ivc.ve">
+    <title>El Sol Oculto</title>
+    <desc>Esta serie documental muestra el proceso de la producción del combustible nuclear en Irán y los diferentes usos de la tecnología nuclear.</desc>
+  </programme>
+  <programme start="20240712183000 +0000" stop="20240712190000 +0000" channel="ivc.ve">
+    <title>Ciencias para Llevar</title>
+  </programme>
+  <programme start="20240712190000 +0000" stop="20240712193000 +0000" channel="ivc.ve">
+    <title>123 TV: Así es mi comunidad</title>
+    <desc>Programa de entretenimiento.</desc>
+  </programme>
+  <programme start="20240712193000 +0000" stop="20240712200000 +0000" channel="ivc.ve">
+    <title>123 TV: Uno, dos, tres... a jugar</title>
+    <desc>Cada capítulo desarrolla un juego para que los niños lo puedan realizar mientras miran la televisión o para que posteriormente lo jueguen con sus amigos o padres. La idea de estos juegos es realizarlos al aire libre y sin juguetes sofisticados ni costosos.</desc>
+  </programme>
+  <programme start="20240712200000 +0000" stop="20240712203000 +0000" channel="ivc.ve">
+    <title>Diarios de viaje</title>
+    <desc>Se muestra la gran diversidad existente en China, a través de entretenidos y cautivadores viajes alrededor del país.</desc>
+  </programme>
+  <programme start="20240712203000 +0000" stop="20240712210000 +0000" channel="ivc.ve">
+    <title>Querencia Andina</title>
+    <desc>Serie de documentales que destacan los valores patrimoniales y la cultura de los estados andinos.</desc>
+  </programme>
+  <programme start="20240712210000 +0000" stop="20240712213000 +0000" channel="ivc.ve">
+    <title>La lista de Erick</title>
+    <desc>Un periodista latinoamericano llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras. Les invitamos a cumplir junto a Erick las tareas de su lista pasando por situaciones misteriosas, divertidas, riesgosas e inesperadas que nos lleva la aventura.</desc>
+  </programme>
+  <programme start="20240712213000 +0000" stop="20240712220000 +0000" channel="ivc.ve">
+    <title>Ahí nos vemos</title>
+    <desc>Un espacio dedicado a la ciudad de caracas, capital de la República Bolivariana de Venezuela.</desc>
+  </programme>
+  <programme start="20240712220000 +0000" stop="20240712223000 +0000" channel="ivc.ve">
+    <title>Vive con Cancha</title>
+    <desc>Programa de actualidad. Presenta vídeos musicales, agendas semanales, iniciativas colectivas y más.</desc>
+  </programme>
+  <programme start="20240712223000 +0000" stop="20240712230000 +0000" channel="ivc.ve">
+    <title>Óptica Mundial</title>
+    <desc>Documental.</desc>
+  </programme>
+  <programme start="20240712230000 +0000" stop="20240713000000 +0000" channel="ivc.ve">
+    <title>Óptica Nacional</title>
+    <desc>Documental.</desc>
+  </programme>
+  <programme start="20240713000000 +0000" stop="20240713003000 +0000" channel="ivc.ve">
+    <title>Hollywood Cut</title>
+    <desc>Programa que investiga, analiza y estudia el cine estadounidense para conocer el contexto verdadero que nos quieren brindar a través de sus grandes producciones.</desc>
+  </programme>
+  <programme start="20240713003000 +0000" stop="20240713010000 +0000" channel="ivc.ve">
+    <title>La butaca</title>
+    <desc>La mejor información del séptimo arte.</desc>
+  </programme>
+  <programme start="20240713010000 +0000" stop="20240713030000 +0000" channel="ivc.ve">
+    <title>Vive La Gran Pantalla</title>
+    <desc>Programa de entretenimiento.</desc>
+  </programme>
+  <programme start="20240713030000 +0000" stop="20240713040000 +0000" channel="ivc.ve">
+    <title>Planeta Tierra</title>
+    <desc>Un vistazo a la diversidad de climas y hábitats en la Tierra.</desc>
+  </programme>
+  <programme start="20240713040000 +0000" stop="20240713043000 +0000" channel="ivc.ve">
+    <title>La lista de Erick</title>
+    <desc>Un periodista latinoamericano llega a Rusia para descubrir el país tal como es, sin prejuicios. Vamos a revelar todos los detalles y secretos que suelen quedar detrás de las cámaras. Les invitamos a cumplir junto a Erick las tareas de su lista pasando por situaciones misteriosas, divertidas, riesgosas e inesperadas que nos lleva la aventura.</desc>
+  </programme>
+  <programme start="20240713043000 +0000" stop="20240713053000 +0000" channel="ivc.ve">
+    <title>A Bite of China</title>
+    <desc>Serie de televisión documental china sobre la historia de la comida, y la cocina en China.</desc>
+  </programme>
+  <programme start="20240712050000 +0000" stop="20240712060000 +0000" channel="vtv.ve">
+    <title>El mundo en contexto</title>
+    <desc>Programa de actualidad internacional e información de interés con un toque musical.</desc>
+  </programme>
+  <programme start="20240712060000 +0000" stop="20240712063000 +0000" channel="vtv.ve">
+    <title>Tras la noticia</title>
+    <desc>Un espacio para el análisis en profundidad sobre uno o varios temas de la actualidad (Repeat).</desc>
+  </programme>
+  <programme start="20240712063000 +0000" stop="20240712070000 +0000" channel="vtv.ve">
+    <title>Telesur Noticias</title>
+    <desc>Noticias de interés de la vida política, económica y social de toda América Latina.</desc>
+  </programme>
+  <programme start="20240712070000 +0000" stop="20240712080000 +0000" channel="vtv.ve">
+    <title>Noticiero Estelar</title>
+    <desc>Noticias nacionales y internacionales. Información detallada y actualizada continuamente. (Repeat).</desc>
+  </programme>
+  <programme start="20240712080000 +0000" stop="20240712100000 +0000" channel="vtv.ve">
+    <title>Zurda Konducta</title>
+    <desc>Programa humorístico que presenta algunas coyunturas políticas. (Repeat).</desc>
+  </programme>
+  <programme start="20240712100000 +0000" stop="20240712100500 +0000" channel="vtv.ve">
+    <title>Himno Nacional</title>
+    <desc>Himno Nacional de la República.</desc>
+  </programme>
+  <programme start="20240712100500 +0000" stop="20240712110000 +0000" channel="vtv.ve">
+    <title>Dale play</title>
+    <desc>Programa de entretenimiento.</desc>
+  </programme>
+  <programme start="20240712110000 +0000" stop="20240712120000 +0000" channel="vtv.ve">
+    <title>Al aire</title>
+    <desc>Un magazine informativo en el cual podrás enterarte de los últimos acontecimientos ocurridos en el mundo del espectáculo, así como también sobre diversos temas interesantes que, generalmente, no son tratados en los noticieros comunes. (Live).</desc>
+  </programme>
+  <programme start="20240712120000 +0000" stop="20240712123000 +0000" channel="vtv.ve">
+    <title>30 minutos</title>
+    <desc>Un programa informativo que busca brindar los principales titulares del acontecer nacional con notas frescas, amigables y ocurrentes para que estés al tanto de todo lo importante mientras te preparas para iniciar tu día. (Live).</desc>
+  </programme>
+  <programme start="20240712123000 +0000" stop="20240712140000 +0000" channel="vtv.ve">
+    <title>Buena vibra</title>
+    <desc>Una revista informativa que incluye temas de interés de salud, y el bienestar humano, que presenta contenidos específicos, con consejos prácticos y tips sobre temas de salud y bienestar, que contiene una guía informativa e ilustrativa con... (Live).</desc>
+  </programme>
+  <programme start="20240712140000 +0000" stop="20240712143000 +0000" channel="vtv.ve">
+    <title>Noticias Regionales</title>
+    <desc>Noticias y actualidades del ámbito regional. (Live).</desc>
+  </programme>
+  <programme start="20240712143000 +0000" stop="20240712150000 +0000" channel="vtv.ve">
+    <title>Deportes VTV</title>
+    <desc>Programa deportivo. (Live).</desc>
+  </programme>
+  <programme start="20240712150000 +0000" stop="20240712160000 +0000" channel="vtv.ve">
+    <title>Café en la mañana</title>
+    <desc>Programa informativo que incluye diversos géneros de temas de interés general, adaptado al acontecer diario, pasando por temas tantos políticos, actualidad e interés social. presenta una guía informativa del acontecer diario, político y social... (Live).</desc>
+  </programme>
+  <programme start="20240712160000 +0000" stop="20240712173000 +0000" channel="vtv.ve">
+    <title>La noticia meridiana</title>
+    <desc>Información actualizada y análisis de las noticias mediodía. (Live).</desc>
+  </programme>
+  <programme start="20240712173000 +0000" stop="20240712180000 +0000" channel="vtv.ve">
+    <title>Telesur Noticias</title>
+    <desc>Noticias de interés de la vida política, económica y social de toda América Latina.</desc>
+  </programme>
+  <programme start="20240712180000 +0000" stop="20240712190000 +0000" channel="vtv.ve">
+    <title>Al dia</title>
+    <desc>Programa radial que será ahora televisada para llevarle a la audiencia lo mejor de la información noticiosa y veraz en toda su magnitud. (Live).</desc>
+  </programme>
+  <programme start="20240712190000 +0000" stop="20240712193000 +0000" channel="vtv.ve">
+    <title>Noticias Regionales</title>
+    <desc>Noticias y actualidades del ámbito regional. (Live).</desc>
+  </programme>
+  <programme start="20240712193000 +0000" stop="20240712203000 +0000" channel="vtv.ve">
+    <title>Tiempo deportivo</title>
+    <desc>Un programa que aborda los hechos más destacados del mundo deportivo en Venezuela. (Live).</desc>
+  </programme>
+  <programme start="20240712203000 +0000" stop="20240712210000 +0000" channel="vtv.ve">
+    <title>Tras la noticia</title>
+    <desc>Un espacio para el análisis en profundidad sobre uno o varios temas de la actualidad (Live).</desc>
+  </programme>
+  <programme start="20240712210000 +0000" stop="20240712220000 +0000" channel="vtv.ve">
+    <title>Noticia vespertina</title>
+    <desc>Espacio que pasea por los hechos que han transcendido en el país y el mundo, con informaciones detalladas de los acontecimientos más destacados hasta el momento. (Live).</desc>
+  </programme>
+  <programme start="20240712220000 +0000" stop="20240713000000 +0000" channel="vtv.ve">
+    <title>360</title>
+    <desc>Análisis y opinión sobre temas nacionales en formatos variados. e información detallada. (Live).</desc>
+  </programme>
+  <programme start="20240713000000 +0000" stop="20240713010000 +0000" channel="vtv.ve">
+    <title>Noticiero Estelar</title>
+    <desc>Noticias nacionales y internacionales. Información detallada y actualizada continuamente. (Live).</desc>
+  </programme>
+  <programme start="20240713010000 +0000" stop="20240713020000 +0000" channel="vtv.ve">
+    <title>El mundo en contexto</title>
+    <desc>Programa de actualidad internacional e información de interés con un toque musical. (Live).</desc>
+  </programme>
+  <programme start="20240713020000 +0000" stop="20240713033000 +0000" channel="vtv.ve">
+    <title>A Pulso</title>
+    <desc>Un viaje por Colombia, con una mirada a los talentos y empresarios de dicho país.</desc>
+  </programme>
+  <programme start="20240713033000 +0000" stop="20240713040000 +0000" channel="vtv.ve">
+    <title>En el mapa</title>
+  </programme>
+  <programme start="20240713040000 +0000" stop="20240713040500 +0000" channel="vtv.ve">
+    <title>Himno Nacional</title>
+    <desc>Himno Nacional de la República.</desc>
+  </programme>
+  <programme start="20240713040500 +0000" stop="20240713050000 +0000" channel="vtv.ve">
+    <title>Noticiero Estelar</title>
+    <desc>Noticias nacionales y internacionales. Información detallada y actualizada continuamente. (Repeat).</desc>
+  </programme>
+  <programme start="20240713050000 +0000" stop="20240713053000 +0000" channel="vtv.ve">
+    <title>Tras la noticia</title>
+    <desc>Un espacio para el análisis en profundidad sobre uno o varios temas de la actualidad (Repeat).</desc>
+  </programme>
+  <programme start="20240713053000 +0000" stop="20240713060000 +0000" channel="vtv.ve">
+    <title>Telesur Noticias</title>
+    <desc>Noticias de interés de la vida política, económica y social de toda América Latina. (Repeat).</desc>
+  </programme>
+  <programme start="20240713060000 +0000" stop="20240713070000 +0000" channel="vtv.ve">
+    <title>A Pulso</title>
+    <desc>Un viaje por Colombia, con una mirada a los talentos y empresarios de dicho país. (Repeat).</desc>
+  </programme>
+  <programme start="20240713070000 +0000" stop="20240713080000 +0000" channel="vtv.ve">
+    <title>Noticiero Estelar</title>
+    <desc>Noticias nacionales y internacionales. Información detallada y actualizada continuamente. (Repeat).</desc>
+  </programme>
+  <programme start="20240713080000 +0000" stop="20240713090000 +0000" channel="vtv.ve">
+    <title>El mundo en contexto</title>
+    <desc>Programa de actualidad internacional e información de interés con un toque musical. (Repeat).</desc>
+  </programme>
+  <programme start="20240713090000 +0000" stop="20240713093000 +0000" channel="vtv.ve">
+    <title>En el mapa</title>
+    <desc>(Repeat).</desc>
+  </programme>
+  <programme start="20240713093000 +0000" stop="20240713100000 +0000" channel="vtv.ve">
+    <title>Telesur Noticias</title>
+    <desc>Noticias de interés de la vida política, económica y social de toda América Latina. (Repeat).</desc>
+  </programme>
+  <programme start="20240713100000 +0000" stop="20240713100500 +0000" channel="vtv.ve">
+    <title>Himno nacional de la República Bolivariana de Venezuela</title>
+  </programme>
+  <programme start="20240713100500 +0000" stop="20240713110000 +0000" channel="vtv.ve">
+    <title>Rostros de Venezuela</title>
+    <desc>Un repaso por la vida de las grandes personalidades de todos los tiempos de Venezuela. En este programa conoceremos la obra de diferentes figuras que, con su aporte han enriquecido culturalmente al país. Así evocaremos a grandes artistas, músicos, escritores y profesionales exitosos de diversos ámbitos.</desc>
+  </programme>
+  <programme start="20240713110000 +0000" stop="20240713113000 +0000" channel="vtv.ve">
+    <title>Actitud saludable</title>
+    <desc>(Repeat).</desc>
+  </programme>
+  <programme start="20240713113000 +0000" stop="20240713120000 +0000" channel="vtv.ve">
+    <title>NanoUniverso</title>
+    <desc>Introducción a este programa que trata de avances científicos.</desc>
+  </programme>
+  <programme start="20240713120000 +0000" stop="20240713123000 +0000" channel="vtv.ve">
+    <title>Notables</title>
+    <desc>Conoce de cerca el testimonio y la vida de personajes que han dejado huella en el mundo de la música, los medios, la política y las artes escénicas de Venezuela.</desc>
+  </programme>
+  <programme start="20240713123000 +0000" stop="20240713130000 +0000" channel="vtv.ve">
+    <title>Fiesta en mi pueblo</title>
+  </programme>
+  <programme start="20240713130000 +0000" stop="20240713140000 +0000" channel="vtv.ve">
+    <title>Librería mediática</title>
+    <desc>Programas sobre libros. (Live).</desc>
+  </programme>
+  <programme start="20240713140000 +0000" stop="20240713150000 +0000" channel="vtv.ve">
+    <title>Dale play</title>
+    <desc>Programa de entretenimiento.</desc>
+  </programme>
+  <programme start="20240713150000 +0000" stop="20240713153000 +0000" channel="vtv.ve">
+    <title>Punto verde</title>
+    <desc>Programa ecológico que informa y entretiene en temas de medio ambiente.</desc>
+  </programme>
+  <programme start="20240713153000 +0000" stop="20240713160000 +0000" channel="vtv.ve">
+    <title>Chávez siempre Chávez</title>
+    <desc>Un programa que recuerda los discursos más importantes del ex presindente Hugo Chávez.</desc>
+  </programme>
+  <programme start="20240713160000 +0000" stop="20240713173000 +0000" channel="vtv.ve">
+    <title>La noticia meridiana</title>
+    <desc>Información actualizada y análisis de las noticias mediodía. (Live).</desc>
+  </programme>
+  <programme start="20240713173000 +0000" stop="20240713180000 +0000" channel="vtv.ve">
+    <title>Telesur Noticias</title>
+    <desc>Noticias de interés de la vida política, económica y social de toda América Latina.</desc>
+  </programme>
+  <programme start="20240713180000 +0000" stop="20240713183000 +0000" channel="vtv.ve">
+    <title>Deportes VTV</title>
+    <desc>Programa deportivo. (Live).</desc>
+  </programme>
+  <programme start="20240713183000 +0000" stop="20240713190000 +0000" channel="vtv.ve">
+    <title>Atomun</title>
+    <desc>Espacio informativo enfocado en las noticias del ámbito científico y tecnológico.</desc>
+  </programme>
+  <programme start="20240713190000 +0000" stop="20240713193000 +0000" channel="vtv.ve">
+    <title>30 minutos</title>
+    <desc>Un programa informativo que busca brindar los principales titulares del acontecer nacional con notas frescas, amigables y ocurrentes para que estés al tanto de todo lo importante mientras te preparas para iniciar tu día. (Live).</desc>
+  </programme>
+  <programme start="20240713193000 +0000" stop="20240713200000 +0000" channel="vtv.ve">
+    <title>En el mapa</title>
+    <desc>(Repeat).</desc>
+  </programme>
+  <programme start="20240713200000 +0000" stop="20240713210000 +0000" channel="vtv.ve">
+    <title>A todo motor por Venezuela</title>
+  </programme>
+  <programme start="20240713210000 +0000" stop="20240713213000 +0000" channel="vtv.ve">
+    <title>Venezuela tricolor</title>
+    <desc>Programa informativo conducido por Manuel Quevedo, máxima autoridad de la Gran Misión Vivienda Venezuela, cuyo objetivo es mostrarle al país la reurbanización de las diferentes comunidades y las bondades de los barrios Nuevo y Tricolor.</desc>
+  </programme>
+  <programme start="20240713213000 +0000" stop="20240713220000 +0000" channel="vtv.ve">
+    <title>Telesur Noticias</title>
+    <desc>Noticias de interés de la vida política, económica y social de toda América Latina.</desc>
+  </programme>
+  <programme start="20240713220000 +0000" stop="20240713230000 +0000" channel="vtv.ve">
+    <title>La noticia estelar</title>
+    <desc>Noticiero estelar con las últimas noticias nacionales e internacionales. Información.</desc>
+  </programme>
+  <programme start="20240713230000 +0000" stop="20240714010000 +0000" channel="vtv.ve">
+    <title>Viva Venezuela mi patria querida</title>
+    <desc>Un programa que descubre tradiciones y costumbres desde cada uno de los estados de Venezuela.</desc>
+  </programme>
+  <programme start="20240714010000 +0000" stop="20240714020000 +0000" channel="vtv.ve">
+    <title>Cambiando Vidas</title>
+    <desc>Historias personales de quienes han transformado sus vidas.</desc>
+  </programme>
+  <programme start="20240714020000 +0000" stop="20240714040500 +0000" channel="vtv.ve">
+    <title>La hojilla con Mario Silva</title>
+    <desc>Entrevistas, análisis y denuncias sobre la problemática de la política en Venezuela. El anfitrión recibe en su programa a personalidades locales del mundo de la política, la cultura y el arte, entre otros rubros. Con ellos, desmenuza la actualidad del país e intercambia opiniones acerca de la vida social de la nación. (Live).</desc>
+  </programme>
+  <programme start="20240714040500 +0000" stop="20240714060000 +0000" channel="vtv.ve">
+    <title>Viva Venezuela mi patria querida</title>
+    <desc>Un programa que descubre tradiciones y costumbres desde cada uno de los estados de Venezuela. (Repeat).</desc>
+  </programme>
+  <programme start="20240714060000 +0000" stop="20240714070000 +0000" channel="vtv.ve">
+    <title>Noticiero Estelar</title>
+    <desc>Noticias nacionales y internacionales. Información detallada y actualizada continuamente. (Repeat).</desc>
+  </programme>
+  <programme start="20240714070000 +0000" stop="20240714073000 +0000" channel="vtv.ve">
+    <title>Telesur Noticias</title>
+    <desc>Noticias de interés de la vida política, económica y social de toda América Latina. (Repeat).</desc>
+  </programme>
+  <programme start="20240714073000 +0000" stop="20240714080000 +0000" channel="vtv.ve">
+    <title>En el mapa</title>
+    <desc>(Repeat).</desc>
+  </programme>
+  <programme start="20240714080000 +0000" stop="20240714100000 +0000" channel="vtv.ve">
+    <title>La hojilla con Mario Silva</title>
+    <desc>Entrevistas, análisis y denuncias sobre la problemática de la política en Venezuela. El anfitrión recibe en su programa a personalidades locales del mundo de la política, la cultura y el arte, entre otros rubros. Con ellos, desmenuza la actualidad del país e intercambia opiniones acerca de la vida social de la nación. (Repeat).</desc>
+  </programme>
+  <programme start="20240714100000 +0000" stop="20240714100500 +0000" channel="vtv.ve">
+    <title>Himno nacional de la República Bolivariana de Venezuela</title>
+  </programme>
+  <programme start="20240714100500 +0000" stop="20240714103000 +0000" channel="vtv.ve">
+    <title>Noticiero astronómico</title>
+    <desc>Viaje por el cosmos: de civilizaciones antiguas a la astronomía actual.</desc>
+  </programme>
+  <programme start="20240714103000 +0000" stop="20240714110000 +0000" channel="vtv.ve">
+    <title>Salud al Natural</title>
+    <desc>Consejos para estar saludable, cocina y plantas medicinales, historia de los alimentos y más.</desc>
+  </programme>
+  <programme start="20240714110000 +0000" stop="20240714113000 +0000" channel="vtv.ve">
+    <title>Actitud saludable</title>
+    <desc>(Repeat).</desc>
+  </programme>
+  <programme start="20240714113000 +0000" stop="20240714120000 +0000" channel="vtv.ve">
+    <title>Independencia tecnológica</title>
+    <desc>Un programa que explora el mundo de los innovadores y tecnólogos con su inventiva diaria.</desc>
+  </programme>
+  <programme start="20240714120000 +0000" stop="20240714123000 +0000" channel="vtv.ve">
+    <title>Notables</title>
+    <desc>Conoce de cerca el testimonio y la vida de personajes que han dejado huella en el mundo de la música, los medios, la política y las artes escénicas de Venezuela.</desc>
+  </programme>
+  <programme start="20240714123000 +0000" stop="20240714130000 +0000" channel="vtv.ve">
+    <title>La Santa misa</title>
+    <desc>Debido a la pandemia COVID-19 (coronavirus), la Arquidiócesis de Los Ángeles transmitira las Misas celebradas en privado por el Arzobispo José H. Gomez y los sacerdotes en la Catedral de Nuestra Señora de los Ángeles, y en otras parroquias de la Arquidiócesis, se ofrecen a través de la transmisión en vivo para los fieles.</desc>
+  </programme>
+  <programme start="20240714130000 +0000" stop="20240714140000 +0000" channel="vtv.ve">
+    <title>Cultivando Patria</title>
+    <desc>Espacio dedicado a resaltar la diversidad cultural del país, en su aspecto musical y gastronómico. (Repeat).</desc>
+  </programme>
+  <programme start="20240714140000 +0000" stop="20240714150000 +0000" channel="vtv.ve">
+    <title>Dale play</title>
+    <desc>Programa de entretenimiento. (Repeat).</desc>
+  </programme>
+  <programme start="20240714150000 +0000" stop="20240714160000 +0000" channel="vtv.ve">
+    <title>Resumen Aló Presidente</title>
+    <desc>El presidente Hugo Chávez habla sobre Venezuela y contesta llamadas de los televidentes.</desc>
+  </programme>
+  <programme start="20240714160000 +0000" stop="20240714173000 +0000" channel="vtv.ve">
+    <title>La noticia meridiana</title>
+    <desc>Información actualizada y análisis de las noticias mediodía. (Live).</desc>
+  </programme>
+  <programme start="20240714173000 +0000" stop="20240714180000 +0000" channel="vtv.ve">
+    <title>Telesur Noticias</title>
+    <desc>Noticias de interés de la vida política, económica y social de toda América Latina.</desc>
+  </programme>
+  <programme start="20240714180000 +0000" stop="20240714183000 +0000" channel="vtv.ve">
+    <title>Deportes VTV</title>
+    <desc>Programa deportivo. (Live).</desc>
+  </programme>
+  <programme start="20240714183000 +0000" stop="20240714193000 +0000" channel="vtv.ve">
+    <title>Librería mediática</title>
+    <desc>Programas sobre libros. (Repeat).</desc>
+  </programme>
+  <programme start="20240714193000 +0000" stop="20240714200000 +0000" channel="vtv.ve">
+    <title>30 minutos</title>
+    <desc>Un programa informativo que busca brindar los principales titulares del acontecer nacional con notas frescas, amigables y ocurrentes para que estés al tanto de todo lo importante mientras te preparas para iniciar tu día. (Live).</desc>
+  </programme>
+  <programme start="20240714200000 +0000" stop="20240714210000 +0000" channel="vtv.ve">
+    <title>A todo motor por Venezuela</title>
+    <desc>(Repeat).</desc>
+  </programme>
+  <programme start="20240714210000 +0000" stop="20240714220000 +0000" channel="vtv.ve">
+    <title>La noticia vespertina</title>
+    <desc>Espacio que pasea por los hechos que han transcendido en el país y en el mundo. (Live).</desc>
+  </programme>
+  <programme start="20240714220000 +0000" stop="20240714230000 +0000" channel="vtv.ve">
+    <title>Guia cultural</title>
+  </programme>
+  <programme start="20240714230000 +0000" stop="20240715000000 +0000" channel="vtv.ve">
+    <title>Sin etiquetas</title>
+    <desc>Un programa dedicado al aprendizaje, la sorodidad y el crecimiento, con toda la información de profesionales de diversas áreas para ayudar a todas las mujeres. (Repeat).</desc>
+  </programme>
+  <programme start="20240715000000 +0000" stop="20240715010000 +0000" channel="vtv.ve">
+    <title>La noticia estelar</title>
+    <desc>Noticiero estelar con las últimas noticias nacionales e internacionales. Información. (Live).</desc>
+  </programme>
+  <programme start="20240715010000 +0000" stop="20240715030000 +0000" channel="vtv.ve">
+    <title>Podcast</title>
+  </programme>
+  <programme start="20240715030000 +0000" stop="20240715040000 +0000" channel="vtv.ve">
+    <title>Kultura Rock</title>
+    <desc>Espacio lleno de rock, dedicado a rendirle tributo a la música de las décadas de los '60 y '70.</desc>
+  </programme>
+  <programme start="20240715040000 +0000" stop="20240715040500 +0000" channel="vtv.ve">
+    <title>Himno Nacional</title>
+    <desc>Himno Nacional de la República.</desc>
+  </programme>
+  <programme start="20240715040500 +0000" stop="20240715050000 +0000" channel="vtv.ve">
+    <title>Sin etiquetas</title>
+    <desc>Un programa dedicado al aprendizaje, la sorodidad y el crecimiento, con toda la información de profesionales de diversas áreas para ayudar a todas las mujeres. (Repeat).</desc>
+  </programme>
+  <programme start="20240715050000 +0000" stop="20240715060000 +0000" channel="vtv.ve">
+    <title>La noticia estelar</title>
+    <desc>Noticiero estelar con las últimas noticias nacionales e internacionales. Información. (Repeat).</desc>
+  </programme>
+  <programme start="20240715060000 +0000" stop="20240715080000 +0000" channel="vtv.ve">
+    <title>Podcast</title>
+    <desc>(Repeat).</desc>
+  </programme>
+  <programme start="20240715080000 +0000" stop="20240715090000 +0000" channel="vtv.ve">
+    <title>Guia cultural</title>
+    <desc>(Repeat).</desc>
+  </programme>
+  <programme start="20240715090000 +0000" stop="20240715100000 +0000" channel="vtv.ve">
+    <title>Kultura Rock</title>
+    <desc>Espacio lleno de rock, dedicado a rendirle tributo a la música de las décadas de los '60 y '70. (Repeat).</desc>
+  </programme>
+  <programme start="20240715100000 +0000" stop="20240715100500 +0000" channel="vtv.ve">
+    <title>Himno Nacional</title>
+    <desc>Himno Nacional de la República.</desc>
+  </programme>
+  <programme start="20240715100500 +0000" stop="20240715110000 +0000" channel="vtv.ve">
+    <title>Dale play</title>
+    <desc>Programa de entretenimiento. (Repeat).</desc>
+  </programme>
+  <programme start="20240715110000 +0000" stop="20240715120000 +0000" channel="vtv.ve">
+    <title>Al aire</title>
+    <desc>Un magazine informativo en el cual podrás enterarte de los últimos acontecimientos ocurridos en el mundo del espectáculo, así como también sobre diversos temas interesantes que, generalmente, no son tratados en los noticieros comunes. (Live).</desc>
+  </programme>
+  <programme start="20240715120000 +0000" stop="20240715123000 +0000" channel="vtv.ve">
+    <title>30 minutos</title>
+    <desc>Un programa informativo que busca brindar los principales titulares del acontecer nacional con notas frescas, amigables y ocurrentes para que estés al tanto de todo lo importante mientras te preparas para iniciar tu día. (Live).</desc>
+  </programme>
   <programme start="20240711180000 +0000" stop="20240711190000 +0000" channel="radioagricultura.cl">
     <title lang="es">Radio Agricultura</title>
   </programme>
