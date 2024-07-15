@@ -180,6 +180,133 @@
     <display-name>Willax</display-name>
     <display-name>Discovery Theater HD</display-name>
   </channel>
+  
+  <channel lang="es" id="punto2.pr">
+    <display-name>Punto 2</display-name>
+    <display-name>DHE HD</display-name>
+  </channel>
+  <programme start="20240715040000 +0000" stop="20240715043000 +0000" channel="punto2.pr">
+    <title lang="es">Tertuliando con Carlos Salgado</title>
+  </programme>
+  <programme start="20240715043000 +0000" stop="20240715050000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240715050000 +0000" stop="20240715060000 +0000" channel="punto2.pr">
+    <title lang="es">Pa'lante boricua</title>
+  </programme>
+  <programme start="20240715060000 +0000" stop="20240715070000 +0000" channel="punto2.pr">
+    <title lang="es">Top Chef VIP</title>
+  </programme>
+  <programme start="20240715070000 +0000" stop="20240715090000 +0000" channel="punto2.pr">
+    <title lang="es">Top Chef VIP</title>
+  </programme>
+  <programme start="20240715090000 +0000" stop="20240715100000 +0000" channel="punto2.pr">
+    <title lang="es">Sueiro directo</title>
+  </programme>
+  <programme start="20240715100000 +0000" stop="20240715110000 +0000" channel="punto2.pr">
+    <title lang="es">Señora Acero</title>
+  </programme>
+  <programme start="20240715110000 +0000" stop="20240715120000 +0000" channel="punto2.pr">
+    <title lang="es">Señora Acero</title>
+  </programme>
+  <programme start="20240715120000 +0000" stop="20240715130000 +0000" channel="punto2.pr">
+    <title lang="es">Decisiones extremas</title>
+  </programme>
+  <programme start="20240715130000 +0000" stop="20240715140000 +0000" channel="punto2.pr">
+    <title lang="es">Decisiones: unos ganan, otros pierden</title>
+  </programme>
+  <programme start="20240715140000 +0000" stop="20240715150000 +0000" channel="punto2.pr">
+    <title lang="es">Señora Acero</title>
+  </programme>
+  <programme start="20240715150000 +0000" stop="20240715160000 +0000" channel="punto2.pr">
+    <title lang="es">Señora Acero</title>
+  </programme>
+  <programme start="20240715160000 +0000" stop="20240715170000 +0000" channel="punto2.pr">
+    <title lang="es">En casa con Telemundo</title>
+  </programme>
+  <programme start="20240715170000 +0000" stop="20240715180000 +0000" channel="punto2.pr">
+    <title lang="es">Comienza el Día con la Pastora Wanda Rolon</title>
+  </programme>
+  <programme start="20240715180000 +0000" stop="20240715183000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240715183000 +0000" stop="20240715190000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240715190000 +0000" stop="20240715193000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240715193000 +0000" stop="20240715200000 +0000" channel="punto2.pr">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20240715200000 +0000" stop="20240715203000 +0000" channel="punto2.pr">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20240715203000 +0000" stop="20240715210000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240715210000 +0000" stop="20240715213000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240715213000 +0000" stop="20240715220000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240715220000 +0000" stop="20240715223000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240715223000 +0000" stop="20240715230000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240715230000 +0000" stop="20240715233000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240715233000 +0000" stop="20240716000000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240716000000 +0000" stop="20240716003000 +0000" channel="punto2.pr">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20240716003000 +0000" stop="20240716010000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240716010000 +0000" stop="20240716013000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240716013000 +0000" stop="20240716020000 +0000" channel="punto2.pr">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20240716020000 +0000" stop="20240716030000 +0000" channel="punto2.pr">
+    <title lang="es">Bajo el mismo cielo</title>
+  </programme>
+  <programme start="20240716030000 +0000" stop="20240716040000 +0000" channel="punto2.pr">
+    <title lang="es">Decisiones de mujeres</title>
+  </programme>
+  <programme start="20240716040000 +0000" stop="20240716050000 +0000" channel="punto2.pr">
+    <title lang="es">En casa con Telemundo</title>
+  </programme>
+  <programme start="20240716050000 +0000" stop="20240716060000 +0000" channel="punto2.pr">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20240716060000 +0000" stop="20240716070000 +0000" channel="punto2.pr">
+    <title lang="es">El Señor de los Cielos</title>
+    <desc lang="es">La vida de Amado Carrillo Fuentes, conocido como &#x201C;El Señor de los Cielos&#x201D;, uno de los cabecillas del Cuartel de Juárez.</desc>
+  </programme>
+  <programme start="20240716070000 +0000" stop="20240716080000 +0000" channel="punto2.pr">
+    <title lang="es">La mesa caliente</title>
+  </programme>
+  <programme start="20240718040000 +0000" stop="20240718050000 +0000" channel="punto2.pr">
+    <title lang="es">En casa con Telemundo</title>
+  </programme>
+  <programme start="20240718050000 +0000" stop="20240718060000 +0000" channel="punto2.pr">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20240718060000 +0000" stop="20240718070000 +0000" channel="punto2.pr">
+    <title lang="es">El Señor de los Cielos</title>
+    <desc lang="es">La vida de Amado Carrillo Fuentes, conocido como &#x201C;El Señor de los Cielos&#x201D;, uno de los cabecillas del Cuartel de Juárez.</desc>
+  </programme>
+  <programme start="20240718070000 +0000" stop="20240718090000 +0000" channel="punto2.pr">
+    <title lang="es">Criollos de Caguas vs. Santeros de Aguada</title>
+  </programme>
   <programme start="20240713143000 +0000" stop="20240713150000 +0000" channel="clarosports2.ec">
     <title>Tokyo 2020</title>
     <desc>Atletismo Finales Salto Triple y 100 M Varonil.</desc>
