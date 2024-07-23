@@ -4,31 +4,11 @@
     <display-name>Star Channel</display-name>
     <display-name>FX</display-name>
   </channel>
-  <programme start="20240722161800 +0000" stop="20240722171200 +0000" channel="starchannel.cl">
-    <title lang="es">Jack y las habichuelas mágicas: un tiempo después</title>
-    <desc lang="es">Después de caer del tallo de frijoles, el Gigante derrotado se despierta sin recordar los eventos anteriores. Para evitar ser devorado, Jack finge que los dos son amigos y accede a ayudar al Gigante a volver a casa.</desc>
-  </programme>
-  <programme start="20240722171200 +0000" stop="20240722191800 +0000" channel="starchannel.cl">
-    <title lang="es">La mujer de mis pesadillas</title>
-    <desc lang="es">Eddie, soltero e indeciso, empieza a salir con Lila. Pronto, él le pide matrimonio. Sin embargo, no tardará en descubrir su error cuando Lila revele su auténtica y horrible personalidad durante la luna de miel en México.</desc>
-  </programme>
-  <programme start="20240722191800 +0000" stop="20240722193300 +0000" channel="starchannel.cl">
-    <title lang="es">La mujer de mis pesadillas</title>
-    <desc lang="es">Eddie, soltero e indeciso, empieza a salir con Lila. Pronto, él le pide matrimonio. Sin embargo, no tardará en descubrir su error cuando Lila revele su auténtica y horrible personalidad durante la luna de miel en México.</desc>
-  </programme>
-  <programme start="20240722193300 +0000" stop="20240722211800 +0000" channel="starchannel.cl">
-    <title lang="es">Red de corrupción</title>
-    <desc lang="es">Cuando Chris, un mensajero, es silenciado por haber visto un asesinato, su hermana Danni comienza a investigar lo que le sucedió y descubre el soborno y la corrupción dentro de la comunidad de mensajería y más allá.</desc>
-  </programme>
-  <programme start="20240722211800 +0000" stop="20240722213000 +0000" channel="starchannel.cl">
-    <title lang="es">Red de corrupción</title>
-    <desc lang="es">Cuando Chris, un mensajero, es silenciado por haber visto un asesinato, su hermana Danni comienza a investigar lo que le sucedió y descubre el soborno y la corrupción dentro de la comunidad de mensajería y más allá.</desc>
-  </programme>
-  <programme start="20240722213000 +0000" stop="20240722213900 +0000" channel="starchannel.cl">
-    <title lang="es">Red de corrupción</title>
-    <desc lang="es">Cuando Chris, un mensajero, es silenciado por haber visto un asesinato, su hermana Danni comienza a investigar lo que le sucedió y descubre el soborno y la corrupción dentro de la comunidad de mensajería y más allá.</desc>
-  </programme>
-  <programme start="20240722213900 +0000" stop="20240722230100 +0000" channel="starchannel.cl">
+  <channel lang="es" id="tnt.cl">
+    <display-name>TNT</display-name>
+    <display-name>HBO</display-name>
+  </channel>
+  <programme start="20240722211800 +0000" stop="20240722230100 +0000" channel="starchannel.cl">
     <title lang="es">Búsqueda implacable</title>
     <desc lang="es">Bryan Mills, un agente jubilado de la CIA y de las Fuerzas Especiales, vuela a Paris a rescatar a su hija Kim de una organización criminal albanokosovar que se dedica a secuestrar mujeres para una red de trata.</desc>
   </programme>
@@ -419,5 +399,317 @@
   <programme start="20240727073000 +0000" stop="20240727093000 +0000" channel="starchannel.cl">
     <title lang="es">¿Bailamos?</title>
     <desc lang="es">John Clark, un abogado de Chicago, sabe que su vida es casi perfecta. Un día se atreve a concretar un sueño: se anota para tomar clases de danza. Entonces su vida y matrimonio se transforman por completo.</desc>
+  </programme>
+  <programme start="20240727093000 +0000" stop="20240727110000 +0000" channel="starchannel.cl">
+    <title lang="es">Cumbia Ninja</title>
+    <desc lang="es">Mientras Cumbia Ninja hace su regreso triunfal a La Cima, John Alex goza de sus nuevos poderes y nadie podrá contra él.</desc>
+  </programme>
+  <programme start="20240727110000 +0000" stop="20240727113000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240727113000 +0000" stop="20240727120000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240727120000 +0000" stop="20240727123000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240727123000 +0000" stop="20240727130000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240727130000 +0000" stop="20240727140000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240722194100 +0000" stop="20240722220900 +0000" channel="tnt.cl">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+    <desc lang="es">La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas para escapar del juego más peligroso del mundo.</desc>
+  </programme>
+  <programme start="20240722220900 +0000" stop="20240722222000 +0000" channel="tnt.cl">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+    <desc lang="es">La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas para escapar del juego más peligroso del mundo.</desc>
+  </programme>
+  <programme start="20240722222000 +0000" stop="20240723020000 +0000" channel="tnt.cl">
+    <title lang="es">Batman: El caballero de la noche asciende</title>
+    <desc lang="es">Ocho años después del reinado de anarquía de Joker, el caballero de la noche es obligado a salir de su exilio voluntario que lo convirtió en fugitivo para salvar a Ciudad Gótica del terrorista Bane, con la ayuda de la enigmática Selina.</desc>
+  </programme>
+  <programme start="20240723020000 +0000" stop="20240723035100 +0000" channel="tnt.cl">
+    <title lang="es">La huida</title>
+    <desc lang="es">En medio de un tiroteo, Smith, un pistolero misterioso y solitario, ayuda en el nacimiento de un bebé. Junto a una hermosa prostituta, intentará proteger a la inocente criatura de una peligrosa banda de criminales.</desc>
+  </programme>
+  <programme start="20240723035100 +0000" stop="20240723060100 +0000" channel="tnt.cl">
+    <title lang="es">La mula</title>
+    <desc lang="es">A Earl Stone, un octogenario que está en quiebra, solo, y que se enfrenta a la ejecución hipotecaria de su negocio, se le ofrece un trabajo aparentemente facil: sólo requiere conducir.</desc>
+  </programme>
+  <programme start="20240723060100 +0000" stop="20240723061300 +0000" channel="tnt.cl">
+    <title lang="es">La mula</title>
+    <desc lang="es">A Earl Stone, un octogenario que está en quiebra, solo, y que se enfrenta a la ejecución hipotecaria de su negocio, se le ofrece un trabajo aparentemente facil: sólo requiere conducir.</desc>
+  </programme>
+  <programme start="20240723061300 +0000" stop="20240723072700 +0000" channel="tnt.cl">
+    <title lang="es">La huida</title>
+    <desc lang="es">En medio de un tiroteo, Smith, un pistolero misterioso y solitario, ayuda en el nacimiento de un bebé. Junto a una hermosa prostituta, intentará proteger a la inocente criatura de una peligrosa banda de criminales.</desc>
+  </programme>
+  <programme start="20240723072700 +0000" stop="20240723073600 +0000" channel="tnt.cl">
+    <title lang="es">La huida</title>
+    <desc lang="es">En medio de un tiroteo, Smith, un pistolero misterioso y solitario, ayuda en el nacimiento de un bebé. Junto a una hermosa prostituta, intentará proteger a la inocente criatura de una peligrosa banda de criminales.</desc>
+  </programme>
+  <programme start="20240723073600 +0000" stop="20240723094900 +0000" channel="tnt.cl">
+    <title lang="es">Buscando justicia</title>
+    <desc lang="es">Bryan Stevenson defiende a quienes han sido condenadas erróneamente o que carecen de recursos para tener una representación legal adecuada. Bryan se ve envuelto en un laberinto de maniobras y de un racismo abierto y descarado.</desc>
+  </programme>
+  <programme start="20240723094900 +0000" stop="20240723095400 +0000" channel="tnt.cl">
+    <title lang="es">Buscando justicia</title>
+    <desc lang="es">Bryan Stevenson defiende a quienes han sido condenadas erróneamente o que carecen de recursos para tener una representación legal adecuada. Bryan se ve envuelto en un laberinto de maniobras y de un racismo abierto y descarado.</desc>
+  </programme>
+  <programme start="20240723095400 +0000" stop="20240723100000 +0000" channel="tnt.cl">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+  </programme>
+  <programme start="20240723100000 +0000" stop="20240723111200 +0000" channel="tnt.cl">
+    <title lang="es">El destino de Júpiter</title>
+    <desc lang="es">Jupiter Jones nació bajo el cielo de la noche, y las señales apuntaban a que estaba destinada a grandes cosas. Aunque sigue soñando con las estrellas, su vida se reduce a la dura realidad de su trabajo y a un sinfín de problemas.</desc>
+  </programme>
+  <programme start="20240723111200 +0000" stop="20240723124500 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam, el juego del siglo</title>
+    <desc lang="es">La súper estrella del baloncesto, Michael Jordan, deberá ayudar en la tierra de Looney Tunes a Bugs Bunny, Lucas y los demás a ganar un partido definitorio contra un grupo de alienígenas que pretende esclavizarlos.</desc>
+  </programme>
+  <programme start="20240723124500 +0000" stop="20240723130700 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam, el juego del siglo</title>
+    <desc lang="es">La súper estrella del baloncesto, Michael Jordan, deberá ayudar en la tierra de Looney Tunes a Bugs Bunny, Lucas y los demás a ganar un partido definitorio contra un grupo de alienígenas que pretende esclavizarlos.</desc>
+  </programme>
+  <programme start="20240723130700 +0000" stop="20240723150200 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam: Una nueva era</title>
+    <desc lang="es">Una inteligencia artificial deshonesta secuestra al hijo del famoso jugador de baloncesto, LeBron James, quien luego tiene que trabajar con Bugs Bunny y el resto de personajes de los Looney Tunes para ganar un partido de baloncesto.</desc>
+  </programme>
+  <programme start="20240723150200 +0000" stop="20240723151700 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam: Una nueva era</title>
+    <desc lang="es">Una inteligencia artificial deshonesta secuestra al hijo del famoso jugador de baloncesto, LeBron James, quien luego tiene que trabajar con Bugs Bunny y el resto de personajes de los Looney Tunes para ganar un partido de baloncesto.</desc>
+  </programme>
+  <programme start="20240723151700 +0000" stop="20240723172600 +0000" channel="tnt.cl">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+    <desc lang="es">La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas para escapar del juego más peligroso del mundo.</desc>
+  </programme>
+  <programme start="20240723172600 +0000" stop="20240723173600 +0000" channel="tnt.cl">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+    <desc lang="es">La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas para escapar del juego más peligroso del mundo.</desc>
+  </programme>
+  <programme start="20240723173600 +0000" stop="20240723210100 +0000" channel="tnt.cl">
+    <title lang="es">Batman: El caballero de la noche asciende</title>
+    <desc lang="es">Ocho años después del reinado de anarquía de Joker, el caballero de la noche es obligado a salir de su exilio voluntario que lo convirtió en fugitivo para salvar a Ciudad Gótica del terrorista Bane, con la ayuda de la enigmática Selina.</desc>
+  </programme>
+  <programme start="20240723210100 +0000" stop="20240723232400 +0000" channel="tnt.cl">
+    <title lang="es">Karate Kid 4</title>
+    <desc lang="es">El enigmático señor Miyagi, un maestro de karate, decide orientar a Julie, de diecisiete años, quien, desde la muerte de sus padres, ha desahogado su ira en los lugares equivocados.</desc>
+  </programme>
+  <programme start="20240723232400 +0000" stop="20240724020000 +0000" channel="tnt.cl">
+    <title lang="es">Reminiscencia</title>
+    <desc lang="es">Un científico descubre una forma de revivir el pasado y utiliza la tecnología para buscar su amor perdido hace mucho tiempo.</desc>
+  </programme>
+  <programme start="20240724020000 +0000" stop="20240724045600 +0000" channel="tnt.cl">
+    <title lang="es">Ciudad de Dios</title>
+    <desc lang="es">Retrata el crecimiento del crimen en Cidade de Deus, la favela mas grande de Río de Janeiro, entre los años 60 y 80. El protagonista es el barrio, el narrador es un joven que creció allí y que halló en la fotografía su salvación.</desc>
+  </programme>
+  <programme start="20240724045600 +0000" stop="20240724062500 +0000" channel="tnt.cl">
+    <title lang="es">Sully, hazaña en el Hudson</title>
+    <desc lang="es">"Sully" Sullenberger es un piloto aéreo que en 2009 se convirtió en un héroe cuando, a poco de despegar, su avión se averió y logró realizar un aterrizaje forzoso del aparato en pleno río Hudson, en Nueva York, con 155 pasajeros a bordo.</desc>
+  </programme>
+  <programme start="20240724062500 +0000" stop="20240724071900 +0000" channel="tnt.cl">
+    <title lang="es">Ciudad de Dios</title>
+    <desc lang="es">Retrata el crecimiento del crimen en Cidade de Deus, la favela mas grande de Río de Janeiro, entre los años 60 y 80. El protagonista es el barrio, el narrador es un joven que creció allí y que halló en la fotografía su salvación.</desc>
+  </programme>
+  <programme start="20240724071900 +0000" stop="20240724084200 +0000" channel="tnt.cl">
+    <title lang="es">Buscando justicia</title>
+    <desc lang="es">Bryan Stevenson defiende a quienes han sido condenadas erróneamente o que carecen de recursos para tener una representación legal adecuada. Bryan se ve envuelto en un laberinto de maniobras y de un racismo abierto y descarado.</desc>
+  </programme>
+  <programme start="20240724084200 +0000" stop="20240724085400 +0000" channel="tnt.cl">
+    <title lang="es">Sully, hazaña en el Hudson</title>
+    <desc lang="es">"Sully" Sullenberger es un piloto aéreo que en 2009 se convirtió en un héroe cuando, a poco de despegar, su avión se averió y logró realizar un aterrizaje forzoso del aparato en pleno río Hudson, en Nueva York, con 155 pasajeros a bordo.</desc>
+  </programme>
+  <programme start="20240724085400 +0000" stop="20240724100000 +0000" channel="tnt.cl">
+    <title lang="es">El francotirador: La última masacre</title>
+    <desc lang="es">El jefe colombiano de la droga Jesús Morales paga secretamente los servicios de un francotirador apodado "El Diablo", capaz de matar uno a uno los enemigos de quien lo contrata.</desc>
+  </programme>
+  <programme start="20240724100000 +0000" stop="20240724111700 +0000" channel="tnt.cl">
+    <title lang="es">Escalofríos 2</title>
+    <desc lang="es">Halloween cobra vida cuando dos niños se enfrentan a un ataque de brujas, monstruos y un muñeco que habla, después de descubrir un misterioso libro.</desc>
+  </programme>
+  <programme start="20240724111700 +0000" stop="20240724124000 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam, el juego del siglo</title>
+    <desc lang="es">La súper estrella del baloncesto, Michael Jordan, deberá ayudar en la tierra de Looney Tunes a Bugs Bunny, Lucas y los demás a ganar un partido definitorio contra un grupo de alienígenas que pretende esclavizarlos.</desc>
+  </programme>
+  <programme start="20240724124000 +0000" stop="20240724125000 +0000" channel="tnt.cl">
+    <title lang="es">Inside Warner: House of the Dragon Season 2</title>
+    <desc lang="es">El elenco de La Casa del Dragón aborda el detrás de escena de esta segunda temporada. La familia Targaryen se enfrenta por la corona y cuatro de los protagonistas hablan en exclusiva con nosotros sobre sus personajes.</desc>
+  </programme>
+  <programme start="20240724125000 +0000" stop="20240724145700 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam: Una nueva era</title>
+    <desc lang="es">Una inteligencia artificial deshonesta secuestra al hijo del famoso jugador de baloncesto, LeBron James, quien luego tiene que trabajar con Bugs Bunny y el resto de personajes de los Looney Tunes para ganar un partido de baloncesto.</desc>
+  </programme>
+  <programme start="20240724145700 +0000" stop="20240724162600 +0000" channel="tnt.cl">
+    <title lang="es">9</title>
+    <desc lang="es">Cuando 9 llega a la vida, se encuentra en un mundo posapocalíptico donde los humanos han desaparecido, y solo por causalidad descubre una pequeña comunidad de otros como él.</desc>
+  </programme>
+  <programme start="20240724162600 +0000" stop="20240724183700 +0000" channel="tnt.cl">
+    <title lang="es">Karate Kid 4</title>
+    <desc lang="es">El enigmático señor Miyagi, un maestro de karate, decide orientar a Julie, de diecisiete años, quien, desde la muerte de sus padres, ha desahogado su ira en los lugares equivocados.</desc>
+  </programme>
+  <programme start="20240724183700 +0000" stop="20240724210100 +0000" channel="tnt.cl">
+    <title lang="es">Reminiscencia</title>
+    <desc lang="es">Un científico descubre una forma de revivir el pasado y utiliza la tecnología para buscar su amor perdido hace mucho tiempo.</desc>
+  </programme>
+  <programme start="20240724210100 +0000" stop="20240724232200 +0000" channel="tnt.cl">
+    <title lang="es">Los rompebodas</title>
+    <desc lang="es">Dos abogados matrimonialistas, socios y amigos de toda la vida, comparten una original afición: colarse en las bodas para tener aventuras con mujeres solteras. Sus vidas cambian cuando uno de ellos se enamora de una dama de honor.</desc>
+  </programme>
+  <programme start="20240724232200 +0000" stop="20240724233200 +0000" channel="tnt.cl">
+    <title lang="es">Inside Warner: House of the Dragon Season 2</title>
+    <desc lang="es">El elenco de La Casa del Dragón aborda el detrás de escena de esta segunda temporada. La familia Targaryen se enfrenta por la corona y cuatro de los protagonistas hablan en exclusiva con nosotros sobre sus personajes.</desc>
+  </programme>
+  <programme start="20240724233200 +0000" stop="20240725020000 +0000" channel="tnt.cl">
+    <title lang="es">Policías de repuesto</title>
+    <desc lang="es">Allen Gamble y Terry Hoitz son un par de policías de Nueva York que viven a la sombra de los héroes del cuerpo, los superagentes Christopher Danson y P.K. Highsmith. Pero esta peculiar pareja tendrá que entrar en acción.</desc>
+  </programme>
+  <programme start="20240725020000 +0000" stop="20240725040700 +0000" channel="tnt.cl">
+    <title lang="es">Sully, hazaña en el Hudson</title>
+    <desc lang="es">"Sully" Sullenberger es un piloto aéreo que en 2009 se convirtió en un héroe cuando, a poco de despegar, su avión se averió y logró realizar un aterrizaje forzoso del aparato en pleno río Hudson, en Nueva York, con 155 pasajeros a bordo.</desc>
+  </programme>
+  <programme start="20240725040700 +0000" stop="20240725063600 +0000" channel="tnt.cl">
+    <title lang="es">El francotirador</title>
+    <desc lang="es">Chris Kyle es un francotirador norteamericano que fue enviado a Irak con la misión de proteger a sus compañeros. Su precisión milimétrica salvó incontables vidas en el campo de batalla, por lo que ganó el apodo de Leyenda.</desc>
+  </programme>
+  <programme start="20240725063600 +0000" stop="20240725081700 +0000" channel="tnt.cl">
+    <title lang="es">Gloria Bell</title>
+    <desc lang="es">Una mujer divorciada, de espíritu libre, pasa los días trabajando en una oficina, mientras que por las noches se desata bailando en discotecas de Los Ángeles. Cuando conoce a Arnold, su vida cambia radicalmente.</desc>
+  </programme>
+  <programme start="20240725081700 +0000" stop="20240725095700 +0000" channel="tnt.cl">
+    <title lang="es">Francotirador 6: El tirador fantasma</title>
+    <desc lang="es">Dos francotiradores de élite deben proteger un gaseoducto que buscan un grupo de terroristas. Cuando varios francotiradores son asesinados por un tirador fantasma que conoce exactamente su localización, la situación comienza a complicarse.</desc>
+  </programme>
+  <programme start="20240725095700 +0000" stop="20240725100000 +0000" channel="tnt.cl">
+    <title lang="es">Francotirador 6: El tirador fantasma</title>
+    <desc lang="es">Dos francotiradores de élite deben proteger un gaseoducto que buscan un grupo de terroristas. Cuando varios francotiradores son asesinados por un tirador fantasma que conoce exactamente su localización, la situación comienza a complicarse.</desc>
+  </programme>
+  <programme start="20240725100000 +0000" stop="20240725112900 +0000" channel="tnt.cl">
+    <title lang="es">Espías en manada</title>
+    <desc lang="es">Vladimir y Héctor, dos agentes secretos que se oponen en todos los sentidos, intentan recuperar un material de alto secreto robado por intrusos desconocidos.</desc>
+  </programme>
+  <programme start="20240725112900 +0000" stop="20240725125500 +0000" channel="tnt.cl">
+    <title lang="es">9</title>
+    <desc lang="es">Cuando 9 llega a la vida, se encuentra en un mundo posapocalíptico donde los humanos han desaparecido, y solo por causalidad descubre una pequeña comunidad de otros como él.</desc>
+  </programme>
+  <programme start="20240725125500 +0000" stop="20240725150600 +0000" channel="tnt.cl">
+    <title lang="es">Los rompebodas</title>
+    <desc lang="es">Dos abogados matrimonialistas, socios y amigos de toda la vida, comparten una original afición: colarse en las bodas para tener aventuras con mujeres solteras. Sus vidas cambian cuando uno de ellos se enamora de una dama de honor.</desc>
+  </programme>
+  <programme start="20240725150600 +0000" stop="20240725171000 +0000" channel="tnt.cl">
+    <title lang="es">Karate Kid 4</title>
+    <desc lang="es">El enigmático señor Miyagi, un maestro de karate, decide orientar a Julie, de diecisiete años, quien, desde la muerte de sus padres, ha desahogado su ira en los lugares equivocados.</desc>
+  </programme>
+  <programme start="20240725171000 +0000" stop="20240725172000 +0000" channel="tnt.cl">
+    <title lang="es">Inside Warner: House of the Dragon Season 2</title>
+    <desc lang="es">El elenco de La Casa del Dragón aborda el detrás de escena de esta segunda temporada. La familia Targaryen se enfrenta por la corona y cuatro de los protagonistas hablan en exclusiva con nosotros sobre sus personajes.</desc>
+  </programme>
+  <programme start="20240725172000 +0000" stop="20240725192400 +0000" channel="tnt.cl">
+    <title lang="es">Píxeles</title>
+    <desc lang="es">Unos extraterrestres malinterpretan las imágenes de las máquinas recreativas como una declaración de guerra y deciden atacar la Tierra, empleando dichos juegos como modelos para el asalto. Solo Sam tiene tiene la estrategia para vencerlos.</desc>
+  </programme>
+  <programme start="20240725192400 +0000" stop="20240725212400 +0000" channel="tnt.cl">
+    <title lang="es">Policías de repuesto</title>
+    <desc lang="es">Allen Gamble y Terry Hoitz son un par de policías de Nueva York que viven a la sombra de los héroes del cuerpo, los superagentes Christopher Danson y P.K. Highsmith. Pero esta peculiar pareja tendrá que entrar en acción.</desc>
+  </programme>
+  <programme start="20240725212400 +0000" stop="20240725213400 +0000" channel="tnt.cl">
+    <title lang="es">Inside Warner: House of the Dragon Season 2</title>
+    <desc lang="es">El elenco de La Casa del Dragón aborda el detrás de escena de esta segunda temporada. La familia Targaryen se enfrenta por la corona y cuatro de los protagonistas hablan en exclusiva con nosotros sobre sus personajes.</desc>
+  </programme>
+  <programme start="20240725213400 +0000" stop="20240725235000 +0000" channel="tnt.cl">
+    <title lang="es">Son como niños</title>
+    <desc lang="es">Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido.</desc>
+  </programme>
+  <programme start="20240725235000 +0000" stop="20240726020000 +0000" channel="tnt.cl">
+    <title lang="es">Son como niños 2</title>
+    <desc lang="es">Lenny decide mudarse junto a su familia a su pueblo natal. Él pensaba que seguía siendo un lugar tranquilo para criar a sus hijos, pero está lleno de personajes problemáticos que lo harán entender que la locura le sigue a donde vaya.</desc>
+  </programme>
+  <programme start="20240726020000 +0000" stop="20240726045300 +0000" channel="tnt.cl">
+    <title lang="es">El francotirador</title>
+    <desc lang="es">Chris Kyle es un francotirador norteamericano que fue enviado a Irak con la misión de proteger a sus compañeros. Su precisión milimétrica salvó incontables vidas en el campo de batalla, por lo que ganó el apodo de Leyenda.</desc>
+  </programme>
+  <programme start="20240726045300 +0000" stop="20240726064000 +0000" channel="tnt.cl">
+    <title lang="es">Gloria Bell</title>
+    <desc lang="es">Una mujer divorciada, de espíritu libre, pasa los días trabajando en una oficina, mientras que por las noches se desata bailando en discotecas de Los Ángeles. Cuando conoce a Arnold, su vida cambia radicalmente.</desc>
+  </programme>
+  <programme start="20240726064000 +0000" stop="20240726081600 +0000" channel="tnt.cl">
+    <title lang="es">Sed de venganza</title>
+    <desc lang="es">Tras un tremendo tiroteo, un misterioso desconocido llega a un hospital herido. Allí le atenderá Suzanne. Tras él, una banda de asesinos armados asaltan el lugar con la intención de acabar con él.</desc>
+  </programme>
+  <programme start="20240726081600 +0000" stop="20240726100000 +0000" channel="tnt.cl">
+    <title lang="es">The Master: todo hombre necesita un guía</title>
+    <desc lang="es">La sociedad estadounidense se encuentra en crisis luego de la Segunda Guerra Mundial. Freddie Quell es un excombatiente que no logra encausar su vida, hasta que comienza a seguir al líder de una dudosa y peligrosa creencia.</desc>
+  </programme>
+  <programme start="20240726100000 +0000" stop="20240726100200 +0000" channel="tnt.cl">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+  </programme>
+  <programme start="20240726100200 +0000" stop="20240726115100 +0000" channel="tnt.cl">
+    <title lang="es">El legado de las mentiras</title>
+    <desc lang="es">Martin Baxter, un exagente del MI6, regresa al mundo del espionaje dentro de las altas esferas. Allí descubre una impactante verdad sobre ciertas operaciones realizadas por servicios secretos desconocidos.</desc>
+  </programme>
+  <programme start="20240726115100 +0000" stop="20240726135300 +0000" channel="tnt.cl">
+    <title lang="es">Policías de repuesto</title>
+    <desc lang="es">Allen Gamble y Terry Hoitz son un par de policías de Nueva York que viven a la sombra de los héroes del cuerpo, los superagentes Christopher Danson y P.K. Highsmith. Pero esta peculiar pareja tendrá que entrar en acción.</desc>
+  </programme>
+  <programme start="20240726135300 +0000" stop="20240726154700 +0000" channel="tnt.cl">
+    <title lang="es">Píxeles</title>
+    <desc lang="es">Unos extraterrestres malinterpretan las imágenes de las máquinas recreativas como una declaración de guerra y deciden atacar la Tierra, empleando dichos juegos como modelos para el asalto. Solo Sam tiene tiene la estrategia para vencerlos.</desc>
+  </programme>
+  <programme start="20240726154700 +0000" stop="20240726175000 +0000" channel="tnt.cl">
+    <title lang="es">Son como niños</title>
+    <desc lang="es">Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido.</desc>
+  </programme>
+  <programme start="20240726175000 +0000" stop="20240726194700 +0000" channel="tnt.cl">
+    <title lang="es">Son como niños 2</title>
+    <desc lang="es">Lenny decide mudarse junto a su familia a su pueblo natal. Él pensaba que seguía siendo un lugar tranquilo para criar a sus hijos, pero está lleno de personajes problemáticos que lo harán entender que la locura le sigue a donde vaya.</desc>
+  </programme>
+  <programme start="20240726194700 +0000" stop="20240726215100 +0000" channel="tnt.cl">
+    <title lang="es">¿Qué pasó ayer?</title>
+    <desc lang="es">Cuatro amigos van a Las Vegas para celebrar la despedida de soltero de uno de ellos. No recuerdan nada de lo ocurrido, pero encuentran en su habitación un tigre y un bebé. En poco tiempo deberán averiguar qué sucedió y dónde está el novio.</desc>
+  </programme>
+  <programme start="20240726215100 +0000" stop="20240726234700 +0000" channel="tnt.cl">
+    <title lang="es">¿Qué pasó ayer? - Parte II</title>
+    <desc lang="es">Alan, Stu y Phil vuelven a despertarse en otra habitación de otro hotel, y, en esta ocasión, tampoco recuerdan nada. Esta vez sólo saben que están en Tailandia, adonde han viajado Junto a Doug para asistir a la boda de Stu.</desc>
+  </programme>
+  <programme start="20240726234700 +0000" stop="20240727020000 +0000" channel="tnt.cl">
+    <title lang="es">¿Qué pasó ayer? - Parte III</title>
+    <desc lang="es">Tras la inesperada muerte de su padre, Alan es llevado por sus amigos Phil, Stu y Doug a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida ¿Qué puede ir mal?</desc>
+  </programme>
+  <programme start="20240727020000 +0000" stop="20240727042700 +0000" channel="tnt.cl">
+    <title lang="es">Rampage: devastación</title>
+    <desc lang="es">El primatólogo Davis Okoye tiene un vínculo con George, un inteligente gorila al que ha estado cuidando. Pronto descubre que el apacible simio y otros animales padecen de una alteración y se convierten en criaturas embravecidas.</desc>
+  </programme>
+  <programme start="20240727042700 +0000" stop="20240727063200 +0000" channel="tnt.cl">
+    <title lang="es">El inmortal</title>
+    <desc lang="es">Charly Matteï es un antiguo miembro de la mafia marsellesa retirado hace ya tres años. Una mañana, unos hombres lo atacan y es dado por muerto después de recibir veintidós balas. Pero sobrevivirá milagrosamente y buscará venganza.</desc>
+  </programme>
+  <programme start="20240727063200 +0000" stop="20240727082900 +0000" channel="tnt.cl">
+    <title lang="es">Parker</title>
+    <desc lang="es">Parker es un ladrón profesional que sólo roba a los ricos. Pero cuando sus traicioneros compañeros lo daban por muerto, Parker decide adoptar una nueva identidad para ir en busca de venganza, y lo hará con la ayuda de una hermosa mujer.</desc>
+  </programme>
+  <programme start="20240727082900 +0000" stop="20240727100000 +0000" channel="tnt.cl">
+    <title lang="es">Possessor</title>
+    <desc lang="es">Tasya Vos, una agente de una organización secreta, utiliza implantes cerebrales para controlar el comportameinto de otras personas y obligarlas a cometer asesinatos que beneficien a los líderes del mundo corporativo.</desc>
+  </programme>
+  <programme start="20240727100000 +0000" stop="20240727105200 +0000" channel="tnt.cl">
+    <title lang="es">Siempre Alice</title>
+    <desc lang="es">Alice Howland está orgullosa de la vida que tanto esfuerzo le ha costado construir. Pero un trágico diagnóstico lo cambia todo: padece el mal de alzhéimer. Esto modificará notoriamente su relación con su familia y con el mundo.</desc>
+  </programme>
+  <programme start="20240727105200 +0000" stop="20240727124200 +0000" channel="tnt.cl">
+    <title lang="es">Píxeles</title>
+    <desc lang="es">Unos extraterrestres malinterpretan las imágenes de las máquinas recreativas como una declaración de guerra y deciden atacar la Tierra, empleando dichos juegos como modelos para el asalto. Solo Sam tiene tiene la estrategia para vencerlos.</desc>
+  </programme>
+  <programme start="20240727124200 +0000" stop="20240727143700 +0000" channel="tnt.cl">
+    <title lang="es">Son como niños</title>
+    <desc lang="es">Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido.</desc>
   </programme>
 </tv>
