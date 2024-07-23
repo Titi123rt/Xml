@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="IPTVEditor 4" generator-info-url="https://iptveditor.com">
+  <channel lang="es" id="starchannel.cl">
+    <display-name>Star Channel</display-name>
+    <display-name>FX</display-name>
+  </channel>
+  <channel lang="es" id="tnt.cl">
+    <display-name>TNT</display-name>
+    <display-name>FX HD</display-name>
+  </channel>
+  <programme start="20240722143000 +0000" stop="20240722163000 +0000" channel="starchannel.cl">
+    <title lang="es">La lista de los deseos</title>
+    <desc lang="es">Dos amigas enfermas de cáncer vivirán el gran viaje de sus vidas cuando decidan alquilar una caravana para salir a la ruta a vivir grandes experiencias.</desc>
+  </programme>
+  <programme start="20240722163000 +0000" stop="20240722171200 +0000" channel="starchannel.cl">
+    <title lang="es">Jack y las habichuelas mágicas: un tiempo después</title>
+    <desc lang="es">Después de caer del tallo de frijoles, el Gigante derrotado se despierta sin recordar los eventos anteriores. Para evitar ser devorado, Jack finge que los dos son amigos y accede a ayudar al Gigante a volver a casa.</desc>
+  </programme>
+  <programme start="20240722171200 +0000" stop="20240722191800 +0000" channel="starchannel.cl">
+    <title lang="es">La mujer de mis pesadillas</title>
+    <desc lang="es">Eddie, soltero e indeciso, empieza a salir con Lila. Pronto, él le pide matrimonio. Sin embargo, no tardará en descubrir su error cuando Lila revele su auténtica y horrible personalidad durante la luna de miel en México.</desc>
+  </programme>
+  <programme start="20240722191800 +0000" stop="20240722193300 +0000" channel="starchannel.cl">
+    <title lang="es">La mujer de mis pesadillas</title>
+    <desc lang="es">Eddie, soltero e indeciso, empieza a salir con Lila. Pronto, él le pide matrimonio. Sin embargo, no tardará en descubrir su error cuando Lila revele su auténtica y horrible personalidad durante la luna de miel en México.</desc>
+  </programme>
+  <programme start="20240722193300 +0000" stop="20240722211800 +0000" channel="starchannel.cl">
+    <title lang="es">Red de corrupción</title>
+    <desc lang="es">Cuando Chris, un mensajero, es silenciado por haber visto un asesinato, su hermana Danni comienza a investigar lo que le sucedió y descubre el soborno y la corrupción dentro de la comunidad de mensajería y más allá.</desc>
+  </programme>
+  <programme start="20240722211800 +0000" stop="20240722213000 +0000" channel="starchannel.cl">
+    <title lang="es">Red de corrupción</title>
+    <desc lang="es">Cuando Chris, un mensajero, es silenciado por haber visto un asesinato, su hermana Danni comienza a investigar lo que le sucedió y descubre el soborno y la corrupción dentro de la comunidad de mensajería y más allá.</desc>
+  </programme>
+  <programme start="20240722213000 +0000" stop="20240722213900 +0000" channel="starchannel.cl">
+    <title lang="es">Red de corrupción</title>
+    <desc lang="es">Cuando Chris, un mensajero, es silenciado por haber visto un asesinato, su hermana Danni comienza a investigar lo que le sucedió y descubre el soborno y la corrupción dentro de la comunidad de mensajería y más allá.</desc>
+  </programme>
+  <programme start="20240722213900 +0000" stop="20240722230100 +0000" channel="starchannel.cl">
+    <title lang="es">Búsqueda implacable</title>
+    <desc lang="es">Bryan Mills, un agente jubilado de la CIA y de las Fuerzas Especiales, vuela a Paris a rescatar a su hija Kim de una organización criminal albanokosovar que se dedica a secuestrar mujeres para una red de trata.</desc>
+  </programme>
+  <programme start="20240722230100 +0000" stop="20240722231500 +0000" channel="starchannel.cl">
+    <title lang="es">Búsqueda implacable</title>
+    <desc lang="es">Bryan Mills, un agente jubilado de la CIA y de las Fuerzas Especiales, vuela a Paris a rescatar a su hija Kim de una organización criminal albanokosovar que se dedica a secuestrar mujeres para una red de trata.</desc>
+  </programme>
+  <programme start="20240722231500 +0000" stop="20240722232000 +0000" channel="starchannel.cl">
+    <title lang="es">Búsqueda implacable</title>
+    <desc lang="es">Bryan Mills, un agente jubilado de la CIA y de las Fuerzas Especiales, vuela a Paris a rescatar a su hija Kim de una organización criminal albanokosovar que se dedica a secuestrar mujeres para una red de trata.</desc>
+  </programme>
+  <programme start="20240722232000 +0000" stop="20240723005600 +0000" channel="starchannel.cl">
+    <title lang="es">Búsqueda implacable 2</title>
+    <desc lang="es">Siguiendo con la historia de la primera parte, Bryan Mills tendrá que volver a demostrar todas sus habilidades como agente retirado de la CIA, para salvar esta vez tanto la vida de su mujer y su hija, como la suya propia.</desc>
+  </programme>
+  <programme start="20240723005600 +0000" stop="20240723010300 +0000" channel="starchannel.cl">
+    <title lang="es">Búsqueda implacable 2</title>
+    <desc lang="es">Siguiendo con la historia de la primera parte, Bryan Mills tendrá que volver a demostrar todas sus habilidades como agente retirado de la CIA, para salvar esta vez tanto la vida de su mujer y su hija, como la suya propia.</desc>
+  </programme>
+  <programme start="20240723010300 +0000" stop="20240723013000 +0000" channel="starchannel.cl">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Maude Flanders, la esposa de Ned, muere tras un inusual accidente y Homero pretende ayudarlo a rehacer su vida al conseguirle citas con otras mujeres.</desc>
+  </programme>
+  <programme start="20240723013000 +0000" stop="20240723013200 +0000" channel="starchannel.cl">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Maude Flanders, la esposa de Ned, muere tras un inusual accidente y Homero pretende ayudarlo a rehacer su vida al conseguirle citas con otras mujeres.</desc>
+  </programme>
+  <programme start="20240723013200 +0000" stop="20240723020000 +0000" channel="starchannel.cl">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Homero debe escapar de Springfield tras donar donar dinero a la televisión pública y arrepentirse. Entonces, va de misionario a una lejana isla del Océano Pacífico Sur, con el fin de acercar a los nativos a la religión.</desc>
+  </programme>
+  <programme start="20240723020000 +0000" stop="20240723035100 +0000" channel="starchannel.cl">
+    <title lang="es">Los mercenarios</title>
+    <desc lang="es">El trabajo del multimillonario Donovan Chalmers es tan valioso que contrata a mercenarios para protegerlo. Pese a ello, un grupo terrorista logra secuestrar a su hija para conseguir acercarse a él.</desc>
+  </programme>
+  <programme start="20240723035100 +0000" stop="20240723061500 +0000" channel="starchannel.cl">
+    <title lang="es">Cristal</title>
+    <desc lang="es">David Dunn busca mantenerse un paso por delante de la ley mientras imparte justicia en las calles de Filadelfia. Sus talentos pronto lo colocan en un curso de colisión con la Bestia, el cual tiene una fuerza sobrehumana y 23 personalidades.</desc>
+  </programme>
+  <programme start="20240723061500 +0000" stop="20240723062600 +0000" channel="starchannel.cl">
+    <title lang="es">Cristal</title>
+    <desc lang="es">David Dunn busca mantenerse un paso por delante de la ley mientras imparte justicia en las calles de Filadelfia. Sus talentos pronto lo colocan en un curso de colisión con la Bestia, el cual tiene una fuerza sobrehumana y 23 personalidades.</desc>
+  </programme>
+  <programme start="20240723062600 +0000" stop="20240723073000 +0000" channel="starchannel.cl">
+    <title lang="es">No le digas a nadie</title>
+    <desc lang="es">Dos hermanos adolescentes llamados Matt y Joey deciden robar algo de dinero para pagar las facturas médicas de su madre enferma. Cuando el guardia de seguridad, el Sr. Hamby, los persigue, termina atrapado en el fondo de un pozo.</desc>
+  </programme>
+  <programme start="20240723073000 +0000" stop="20240723080000 +0000" channel="starchannel.cl">
+    <title lang="es">No le digas a nadie</title>
+    <desc lang="es">Dos hermanos adolescentes llamados Matt y Joey deciden robar algo de dinero para pagar las facturas médicas de su madre enferma. Cuando el guardia de seguridad, el Sr. Hamby, los persigue, termina atrapado en el fondo de un pozo.</desc>
+  </programme>
+  <programme start="20240723080000 +0000" stop="20240723092400 +0000" channel="starchannel.cl">
+    <title lang="es">María Magdalena</title>
+    <desc lang="es">Cuenta la historia de María Magdalena, una joven mujer atrapada en las jerarquías de la época, que desafía a su tradicional familia para unirse a un nuevo movimiento social dirigido por Jesús de Nazaret.</desc>
+  </programme>
+  <programme start="20240723092400 +0000" stop="20240723094900 +0000" channel="starchannel.cl">
+    <title lang="es">María Magdalena</title>
+    <desc lang="es">Cuenta la historia de María Magdalena, una joven mujer atrapada en las jerarquías de la época, que desafía a su tradicional familia para unirse a un nuevo movimiento social dirigido por Jesús de Nazaret.</desc>
+  </programme>
+  <programme start="20240723094900 +0000" stop="20240723101300 +0000" channel="starchannel.cl">
+    <title lang="es">Cumbia Ninja</title>
+    <desc lang="es">Juana y Chopin debutan como dúo en La Colina para salvar a Cumbia Ninja, mientras Tumba recibe el Tercer Golpe Imposible y la 2200 no está dispuesta a ceder espacio en el barrio. Luego, Salmón reta a Hache a una pelea a muerte por el poder.</desc>
+  </programme>
+  <programme start="20240723101300 +0000" stop="20240723110000 +0000" channel="starchannel.cl">
+    <title lang="es">Cumbia Ninja</title>
+    <desc lang="es">Juana y Chopin debutan como dúo en La Colina para salvar a Cumbia Ninja, mientras Tumba recibe el Tercer Golpe Imposible y la 2200 no está dispuesta a ceder espacio en el barrio. Luego, Salmón reta a Hache a una pelea a muerte por el poder.</desc>
+  </programme>
+  <programme start="20240723110000 +0000" stop="20240723113000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240723113000 +0000" stop="20240723120000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240723120000 +0000" stop="20240723123000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240723123000 +0000" stop="20240723130000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240723130000 +0000" stop="20240723133000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240723133000 +0000" stop="20240723140000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240723140000 +0000" stop="20240723141700 +0000" channel="starchannel.cl">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+  </programme>
+  <programme start="20240723141700 +0000" stop="20240723143300 +0000" channel="starchannel.cl">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+  </programme>
+  <programme start="20240723143300 +0000" stop="20240723145000 +0000" channel="starchannel.cl">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+  </programme>
+  <programme start="20240723145000 +0000" stop="20240723151000 +0000" channel="starchannel.cl">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+  </programme>
+  <programme start="20240723151000 +0000" stop="20240723170000 +0000" channel="starchannel.cl">
+    <title lang="es">Last Christmas, otra oportunidad para amar</title>
+    <desc lang="es">Kate no para de tomar malas decisiones. Trabajar de elfa en una tienda de artículos navideños no le ayudará a esta aspirante a cantante. Sin embargo, ahí conocerá a Tom y su vida cambiará por completo.</desc>
+  </programme>
+  <programme start="20240723170000 +0000" stop="20240723183000 +0000" channel="starchannel.cl">
+    <title lang="es">Deseo sobre un unicornio</title>
+    <desc lang="es">Después de la pérdida de su madre, Mia de 8 años y su familia se mudan al rancho de su abuela en Montana. En el bosque, Mia descubre un unicornio, que trae suerte a cualquiera que crea en él pero encontrará la magia en otro lugar.</desc>
+  </programme>
+  <programme start="20240723183000 +0000" stop="20240723184500 +0000" channel="starchannel.cl">
+    <title lang="es">Se puder... dirija!</title>
+    <desc lang="es">John es un padre ausente que se compromete a recoger al niño en la casa de su ex esposa a dar un paseo. Viendo el que llega tarde a la cita, toma prestado el coche de un cliente, sin saber que una serie de imprevistos sucedería.</desc>
+  </programme>
+  <programme start="20240723184500 +0000" stop="20240723202300 +0000" channel="starchannel.cl">
+    <title lang="es">Honey</title>
+    <desc lang="es">Honey es una bailarina de hip-hop de 22 años que sueña con ser coreógrafa. Da clases de hip-hop en un centro juvenil de la zona, pero cuando recibe la oportunidad de su vida, aprende que el éxito repentino tiene su precio.</desc>
+  </programme>
+  <programme start="20240723202300 +0000" stop="20240723204500 +0000" channel="starchannel.cl">
+    <title lang="es">Deseo sobre un unicornio</title>
+    <desc lang="es">Después de la pérdida de su madre, Mia de 8 años y su familia se mudan al rancho de su abuela en Montana. En el bosque, Mia descubre un unicornio, que trae suerte a cualquiera que crea en él pero encontrará la magia en otro lugar.</desc>
+  </programme>
+  <programme start="20240723204500 +0000" stop="20240723221700 +0000" channel="starchannel.cl">
+    <title lang="es">Los mercenarios</title>
+    <desc lang="es">El trabajo del multimillonario Donovan Chalmers es tan valioso que contrata a mercenarios para protegerlo. Pese a ello, un grupo terrorista logra secuestrar a su hija para conseguir acercarse a él.</desc>
+  </programme>
+  <programme start="20240723221700 +0000" stop="20240723223000 +0000" channel="starchannel.cl">
+    <title lang="es">Los mercenarios</title>
+    <desc lang="es">El trabajo del multimillonario Donovan Chalmers es tan valioso que contrata a mercenarios para protegerlo. Pese a ello, un grupo terrorista logra secuestrar a su hija para conseguir acercarse a él.</desc>
+  </programme>
+  <programme start="20240723223000 +0000" stop="20240724010000 +0000" channel="starchannel.cl">
+    <title lang="es">Cristal</title>
+    <desc lang="es">David Dunn busca mantenerse un paso por delante de la ley mientras imparte justicia en las calles de Filadelfia. Sus talentos pronto lo colocan en un curso de colisión con la Bestia, el cual tiene una fuerza sobrehumana y 23 personalidades.</desc>
+  </programme>
+  <programme start="20240724010000 +0000" stop="20240724013000 +0000" channel="starchannel.cl">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Moe se da cuenta de lo feo que es y decide poner solución al problema al someterse a una operación de cirugía plástica.</desc>
+  </programme>
+  <programme start="20240724013000 +0000" stop="20240724020000 +0000" channel="starchannel.cl">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">En un casino de nativos, un indio revela a Bart un episodio de su vida en el futuro, en el que él es un perdedor y Lisa la presidenta de los Estados Unidos.</desc>
+  </programme>
+  <programme start="20240724020000 +0000" stop="20240724033000 +0000" channel="starchannel.cl">
+    <title lang="es">Una película de miedo</title>
+    <desc lang="es">Una parodia a la cultura pop al estilo 'scream', con la relación entre un reportero, una estrella del fútbol, una bella estudiante y un negro, cuando suceden hechos aterradores.</desc>
+  </programme>
+  <programme start="20240724033000 +0000" stop="20240724050000 +0000" channel="starchannel.cl">
+    <title lang="es">Scary Movie 2, otra película de miedo</title>
+    <desc lang="es">Un científico loco recluta a un grupo de estudiantes para pasar un fin de semana en una casa, con el fin de estudiar los desórdenes del sueño. Sin embargo, durante la estadía, los jóvenes descubrirán que la vivienda está embrujada.</desc>
+  </programme>
+  <programme start="20240724050000 +0000" stop="20240724064500 +0000" channel="starchannel.cl">
+    <title lang="es">Boda sangrienta</title>
+    <desc lang="es">Durante la noche de su boda, Grace recibe una invitación de la rica y excéntrica familia de su marido para formar parte de una tradición ancestral. Sin embargo, la reunión acabará convirtiéndose en un juego letal de supervivencia.</desc>
+  </programme>
+  <programme start="20240724064500 +0000" stop="20240724090000 +0000" channel="starchannel.cl">
+    <title lang="es">Un amor inquebrantable</title>
+    <desc lang="es">Joyce Smith y su familia creían que lo habían perdido todo cuando su hijo John cayó en un helado lago. Joyce no estaba dispuesta a renunciar por su hijo, y clamó a Dios por su salvación. Milagrosamente, el corazón de John volvió a latir.</desc>
+  </programme>
+  <programme start="20240724090000 +0000" stop="20240724110000 +0000" channel="starchannel.cl">
+    <title lang="es">Cumbia Ninja</title>
+    <desc lang="es">Hache consigue echar al Grupo Carbajal de La Colina, mientras John Alex descubre el secreto de Bitbox y pretende hacer buen uso de él. Además, Chopín se resigna a perder a Juana para siempre y ella recibe una visita inesperada por la noche.</desc>
+  </programme>
+  <programme start="20240724110000 +0000" stop="20240724113000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240724113000 +0000" stop="20240724120000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240724120000 +0000" stop="20240724123000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240724123000 +0000" stop="20240724130000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240724130000 +0000" stop="20240724133000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240724133000 +0000" stop="20240724140000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240724140000 +0000" stop="20240724141700 +0000" channel="starchannel.cl">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+  </programme>
+  <programme start="20240724141700 +0000" stop="20240724143300 +0000" channel="starchannel.cl">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+  </programme>
+  <programme start="20240724143300 +0000" stop="20240724145000 +0000" channel="starchannel.cl">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+  </programme>
+  <programme start="20240724145000 +0000" stop="20240724150000 +0000" channel="starchannel.cl">
+    <title lang="es">Programación especial</title>
+    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
+  </programme>
+  <programme start="20240724150000 +0000" stop="20240724170000 +0000" channel="starchannel.cl">
+    <title lang="es">Pitch Perfect 3: La última nota</title>
+    <desc lang="es">Tras ganar el campeonato del mundo, las Bellas se separan y descubren que es difícil encontrar trabajo en el mundo de la música. Pero cuando tienen la oportunidad de reunirse para un tour en el extranjero, el grupo volverá a hacer música.</desc>
+  </programme>
+  <programme start="20240724170000 +0000" stop="20240724193000 +0000" channel="starchannel.cl">
+    <title lang="es">Talentos ocultos</title>
+    <desc lang="es">Cuenta la historia de un equipo de mujeres afro-americanas de matemáticas quienes fueron una parte vital de NASA en los primeros años del programa espacial de los Estados Unidos.</desc>
+  </programme>
+  <programme start="20240724193000 +0000" stop="20240724220000 +0000" channel="starchannel.cl">
+    <title lang="es">Kingsman: Servicio secreto</title>
+    <desc lang="es">Un veterano agente secreto inglés debe entrenar a un joven sin refinar, pero que promete convertirse en un competitivo agente gracias a un ultra-programa de entrenamiento, mientras una amenaza global emerge procedente de un genio retorcido.</desc>
+  </programme>
+  <programme start="20240724220000 +0000" stop="20240725010000 +0000" channel="starchannel.cl">
+    <title lang="es">Kingsman: El círculo dorado</title>
+    <desc lang="es">Después de que la base de operaciones de los Kingsman explote por los aires, Gary Inwin deberá viajar a Estados Unidos para unirse a la agencia secreta de élite Statesman, para acabar con una villana que amenaza con destruir el mundo.</desc>
+  </programme>
+  <programme start="20240725010000 +0000" stop="20240725013000 +0000" channel="starchannel.cl">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Barney se da cuenta del patético borracho que es después de ver un video de su fiesta de cumpleaños, y decide dejar el alcohol para siempre.</desc>
+  </programme>
+  <programme start="20240725013000 +0000" stop="20240725020000 +0000" channel="starchannel.cl">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Lisa se convierte en bailarina de tap tras haber sido inspirada por una película sobre una chica que entra en un concurso de tango y gana. Mientras, Bart y Milhouse se esconden en el centro comercial para escapar del campamento de verano.</desc>
+  </programme>
+  <programme start="20240725020000 +0000" stop="20240725040000 +0000" channel="starchannel.cl">
+    <title lang="es">Amigos de las vacaciones</title>
+    <desc lang="es">Marcus y Emily se vuelven amigos de los fiesteros en busca de emociones fuertes, Ron y Kyla, en un resort. Al vivir al momento, Marcus y Emily disfrutan una semana salvaje de diversión y libertinaje con sus amigos de las vacaciones.</desc>
+  </programme>
+  <programme start="20240725040000 +0000" stop="20240725054500 +0000" channel="starchannel.cl">
+    <title lang="es">Dos corazones</title>
+    <desc lang="es">Para dos parejas, el futuro se desarrolla en diferentes décadas y diferentes lugares, pero una conexión oculta los unirá de una manera que nadie podría haber predicho.</desc>
+  </programme>
+  <programme start="20240725054500 +0000" stop="20240725073000 +0000" channel="starchannel.cl">
+    <title lang="es">Los mercenarios</title>
+    <desc lang="es">El trabajo del multimillonario Donovan Chalmers es tan valioso que contrata a mercenarios para protegerlo. Pese a ello, un grupo terrorista logra secuestrar a su hija para conseguir acercarse a él.</desc>
+  </programme>
+  <programme start="20240725073000 +0000" stop="20240725091500 +0000" channel="starchannel.cl">
+    <title lang="es">Florece la esperanza</title>
+    <desc lang="es">Un artista británico descubre que Vera, el amor de su vida, se va a casar con otro. Desesperado, toma un avión hacia Estados Unidos y termina en los brazos de otra mujer. Pero justo cuando comienza a enamorarse, Vera aparece.</desc>
+  </programme>
+  <programme start="20240725091500 +0000" stop="20240725110000 +0000" channel="starchannel.cl">
+    <title lang="es">Cumbia Ninja</title>
+    <desc lang="es">León es secuestrado y amenazado para lograr su misión en La Colina mientras Xiang Wu descubre quién será el próximo guardián. Entretanto, Juana le confía sus secretos a Hache a la vez que Italo y Aurelia planean deshacerse de su enemiga.</desc>
+  </programme>
+  <programme start="20240725110000 +0000" stop="20240725113000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240725113000 +0000" stop="20240725120000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240725120000 +0000" stop="20240725123000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240725123000 +0000" stop="20240725130000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240725130000 +0000" stop="20240725133000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240725133000 +0000" stop="20240725144500 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240725144500 +0000" stop="20240725164500 +0000" channel="starchannel.cl">
+    <title lang="es">Miamor perdido</title>
+    <desc lang="es">Mario y Olivia se conocen y se enamoran instantáneamente. Sin embargo, con el tiempo, se separan. En medio del dolor, el gato de ambos escapa y con él desaparece el amor.</desc>
+  </programme>
+  <programme start="20240725164500 +0000" stop="20240725183000 +0000" channel="starchannel.cl">
+    <title lang="es">Country at Heart</title>
+    <desc lang="es">Dos artistas musicales se conocen y se inspiran mutuamente. Resulta que terminan trabajando juntos y triunfan así en el amor y en el arte.</desc>
+  </programme>
+  <programme start="20240725183000 +0000" stop="20240725204500 +0000" channel="starchannel.cl">
+    <title lang="es">¿Bailamos?</title>
+    <desc lang="es">John Clark, un abogado de Chicago, sabe que su vida es casi perfecta. Un día se atreve a concretar un sueño: se anota para tomar clases de danza. Entonces su vida y matrimonio se transforman por completo.</desc>
+  </programme>
+  <programme start="20240725204500 +0000" stop="20240725224500 +0000" channel="starchannel.cl">
+    <title lang="es">Dos corazones</title>
+    <desc lang="es">Para dos parejas, el futuro se desarrolla en diferentes décadas y diferentes lugares, pero una conexión oculta los unirá de una manera que nadie podría haber predicho.</desc>
+  </programme>
+  <programme start="20240725224500 +0000" stop="20240726010000 +0000" channel="starchannel.cl">
+    <title lang="es">¡Esto es guerra!</title>
+    <desc lang="es">Dos agentes de la CIA, y grandes amigos desde la infancia, se enamoran de la misma mujer. A partir de ese momento, harán todo lo que esté en sus manos por destruirse mutuamente con tal de conseguir quedarse con la chica.</desc>
+  </programme>
+  <programme start="20240726010000 +0000" stop="20240726013000 +0000" channel="starchannel.cl">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">En busca de curar su insomnio a causa del estrés, Homero y el resto de la familia van a Florida a pasar las vacaciones, hasta que un accidente los convierte en fugitivos.</desc>
+  </programme>
+  <programme start="20240726013000 +0000" stop="20240726020000 +0000" channel="starchannel.cl">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">La influyente presencia de Becky en la casa hace que Marge se ponga muy nerviosa y celosa y, alentada por sus hermanas Patty y Selma, pretende deshacerse de Becky, aunque solo logre que la sentencien a pasar un tiempo en el manicomio.</desc>
+  </programme>
+  <programme start="20240726020000 +0000" stop="20240726040000 +0000" channel="starchannel.cl">
+    <title lang="es">The King's Man</title>
+    <desc lang="es">Un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas, y un hombre tendrá que luchar a contrarreloj para detenerlos.</desc>
+  </programme>
+  <programme start="20240726040000 +0000" stop="20240726053000 +0000" channel="starchannel.cl">
+    <title lang="es">Una película de miedo</title>
+    <desc lang="es">Una parodia a la cultura pop al estilo 'scream', con la relación entre un reportero, una estrella del fútbol, una bella estudiante y un negro, cuando suceden hechos aterradores.</desc>
+  </programme>
+  <programme start="20240726053000 +0000" stop="20240726070000 +0000" channel="starchannel.cl">
+    <title lang="es">Scary Movie 2, otra película de miedo</title>
+    <desc lang="es">Un científico loco recluta a un grupo de estudiantes para pasar un fin de semana en una casa, con el fin de estudiar los desórdenes del sueño. Sin embargo, durante la estadía, los jóvenes descubrirán que la vivienda está embrujada.</desc>
+  </programme>
+  <programme start="20240726070000 +0000" stop="20240726093000 +0000" channel="starchannel.cl">
+    <title lang="es">Los aliens me robaron el cuerpo</title>
+    <desc lang="es">El cuerpo de Rod Allbright ha sido robado por el villano más temible de toda la galaxia, B'KR. Los jóvenes héroes emprenden la búsqueda de la única persona capaz de detener al malvado antagonista; el caminante del tiempo Alt Allbright.</desc>
+  </programme>
+  <programme start="20240726093000 +0000" stop="20240726110000 +0000" channel="starchannel.cl">
+    <title lang="es">Cumbia Ninja</title>
+    <desc lang="es">Hache lleva a Juana a conocer la Cámara del Dragón, sin saber que alguien los seguirá muy de cerca y el secreto del Cuarto Golpe Imposible terminará en las manos menos deseadas. Ignorando el nuevo peligro que los acecha, Juana y Hache se</desc>
+  </programme>
+  <programme start="20240726110000 +0000" stop="20240726113000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240726113000 +0000" stop="20240726120000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240726120000 +0000" stop="20240726123000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240726123000 +0000" stop="20240726130000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240726130000 +0000" stop="20240726133000 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240726133000 +0000" stop="20240726144500 +0000" channel="starchannel.cl">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
+  </programme>
+  <programme start="20240726144500 +0000" stop="20240726164500 +0000" channel="starchannel.cl">
+    <title lang="es">Deseo sobre un unicornio</title>
+    <desc lang="es">Después de la pérdida de su madre, Mia de 8 años y su familia se mudan al rancho de su abuela en Montana. En el bosque, Mia descubre un unicornio, que trae suerte a cualquiera que crea en él pero encontrará la magia en otro lugar.</desc>
+  </programme>
+  <programme start="20240726164500 +0000" stop="20240726190000 +0000" channel="starchannel.cl">
+    <title lang="es">Mamma Mia! Vamos otra vez</title>
+    <desc lang="es">Mientras Sophie se prepara para la reapertura del Hotel Bella Donna, viajaremos al pasado, al verano mágico de finales de la década del 70, donde descubriremos a una joven y apasionada Donna, acompañada de sus dos mejores amigas.</desc>
+  </programme>
+  <programme start="20240726190000 +0000" stop="20240726210000 +0000" channel="starchannel.cl">
+    <title lang="es">¡Esto es guerra!</title>
+    <desc lang="es">Dos agentes de la CIA, y grandes amigos desde la infancia, se enamoran de la misma mujer. A partir de ese momento, harán todo lo que esté en sus manos por destruirse mutuamente con tal de conseguir quedarse con la chica.</desc>
+  </programme>
+  <programme start="20240726210000 +0000" stop="20240726230000 +0000" channel="starchannel.cl">
+    <title lang="es">El mejor lugar del mundo</title>
+    <desc lang="es">Una pareja que espera su primer hijo viaja por EE. UU. en busca del sitio ideal para establecerse como familia. En el camino sufren inconvenientes y se reencuentran con viejos amigos y familiares.</desc>
+  </programme>
+  <programme start="20240726230000 +0000" stop="20240727010000 +0000" channel="starchannel.cl">
+    <title lang="es">Amigos de las vacaciones</title>
+    <desc lang="es">Marcus y Emily se vuelven amigos de los fiesteros en busca de emociones fuertes, Ron y Kyla, en un resort. Al vivir al momento, Marcus y Emily disfrutan una semana salvaje de diversión y libertinaje con sus amigos de las vacaciones.</desc>
+  </programme>
+  <programme start="20240727010000 +0000" stop="20240727013000 +0000" channel="starchannel.cl">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Homero huye de un distinguido caballero sureño al cual había desafiado y lleva a la familia a una granja que era propiedad del Abuelo para vivir allí.</desc>
+  </programme>
+  <programme start="20240727013000 +0000" stop="20240727020000 +0000" channel="starchannel.cl">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Un documental "tras bambalinas" sobre la vida de los Simpson, en el que un narrador nos cuenta cómo el enorme éxito de la familia ocultó el infierno que vivía.</desc>
+  </programme>
+  <programme start="20240727020000 +0000" stop="20240727034500 +0000" channel="starchannel.cl">
+    <title lang="es">Feliz día de tu muerte</title>
+    <desc lang="es">Una estudiante universitaria debe revivir el día de su asesinato una y otra vez, en un ciclo que terminará solo cuando descubra la identidad de su asesino.</desc>
+  </programme>
+  <programme start="20240727034500 +0000" stop="20240727054500 +0000" channel="starchannel.cl">
+    <title lang="es">Búsqueda implacable 3</title>
+    <desc lang="es">El ex agente especial Bryan Mills es acusado de un brutal asesinato que no cometió ni presenció. Mientras es rastreado y perseguido, Mills usará su particular serie de habilidades para encontrar al verdadero asesino y limpiar su nombre.</desc>
+  </programme>
+  <programme start="20240727054500 +0000" stop="20240727073000 +0000" channel="starchannel.cl">
+    <title lang="es">El hada de los dientes</title>
+    <desc lang="es">Cuenta la leyenda que una anciana loca, el hada de los dientes, vivía en una mansión y allí asesinaba niños. La antigua casa se convirtió en una posada y Pamela y su madre son huéspedes. Ahora el hada ha vuelto para continuar su venganza.</desc>
+  </programme>
+  <programme start="20240727073000 +0000" stop="20240727093000 +0000" channel="starchannel.cl">
+    <title lang="es">¿Bailamos?</title>
+    <desc lang="es">John Clark, un abogado de Chicago, sabe que su vida es casi perfecta. Un día se atreve a concretar un sueño: se anota para tomar clases de danza. Entonces su vida y matrimonio se transforman por completo.</desc>
+  </programme>
+  <programme start="20240722140800 +0000" stop="20240722164800 +0000" channel="tnt.cl">
+    <title lang="es">Spider-Man: de regreso a casa</title>
+    <desc lang="es">Bajo la atenta mirada de su mentor Tony Stark, Peter Parker intenta mantener una vida normal, pero el nuevo villano Vulture interrumpe en su rutina diaria y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.</desc>
+  </programme>
+  <programme start="20240722164800 +0000" stop="20240722171900 +0000" channel="tnt.cl">
+    <title lang="es">Spider-Man: de regreso a casa</title>
+    <desc lang="es">Bajo la atenta mirada de su mentor Tony Stark, Peter Parker intenta mantener una vida normal, pero el nuevo villano Vulture interrumpe en su rutina diaria y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.</desc>
+  </programme>
+  <programme start="20240722171900 +0000" stop="20240722194100 +0000" channel="tnt.cl">
+    <title lang="es">El destino de Júpiter</title>
+    <desc lang="es">Jupiter Jones nació bajo el cielo de la noche, y las señales apuntaban a que estaba destinada a grandes cosas. Aunque sigue soñando con las estrellas, su vida se reduce a la dura realidad de su trabajo y a un sinfín de problemas.</desc>
+  </programme>
+  <programme start="20240722194100 +0000" stop="20240722195000 +0000" channel="tnt.cl">
+    <title lang="es">El destino de Júpiter</title>
+    <desc lang="es">Jupiter Jones nació bajo el cielo de la noche, y las señales apuntaban a que estaba destinada a grandes cosas. Aunque sigue soñando con las estrellas, su vida se reduce a la dura realidad de su trabajo y a un sinfín de problemas.</desc>
+  </programme>
+  <programme start="20240722195000 +0000" stop="20240722220900 +0000" channel="tnt.cl">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+    <desc lang="es">La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas para escapar del juego más peligroso del mundo.</desc>
+  </programme>
+  <programme start="20240722220900 +0000" stop="20240722222000 +0000" channel="tnt.cl">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+    <desc lang="es">La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas para escapar del juego más peligroso del mundo.</desc>
+  </programme>
+  <programme start="20240722222000 +0000" stop="20240723020000 +0000" channel="tnt.cl">
+    <title lang="es">Batman: El caballero de la noche asciende</title>
+    <desc lang="es">Ocho años después del reinado de anarquía de Joker, el caballero de la noche es obligado a salir de su exilio voluntario que lo convirtió en fugitivo para salvar a Ciudad Gótica del terrorista Bane, con la ayuda de la enigmática Selina.</desc>
+  </programme>
+  <programme start="20240723020000 +0000" stop="20240723035100 +0000" channel="tnt.cl">
+    <title lang="es">La huida</title>
+    <desc lang="es">En medio de un tiroteo, Smith, un pistolero misterioso y solitario, ayuda en el nacimiento de un bebé. Junto a una hermosa prostituta, intentará proteger a la inocente criatura de una peligrosa banda de criminales.</desc>
+  </programme>
+  <programme start="20240723035100 +0000" stop="20240723060100 +0000" channel="tnt.cl">
+    <title lang="es">La mula</title>
+    <desc lang="es">A Earl Stone, un octogenario que está en quiebra, solo, y que se enfrenta a la ejecución hipotecaria de su negocio, se le ofrece un trabajo aparentemente facil: sólo requiere conducir.</desc>
+  </programme>
+  <programme start="20240723060100 +0000" stop="20240723061300 +0000" channel="tnt.cl">
+    <title lang="es">La mula</title>
+    <desc lang="es">A Earl Stone, un octogenario que está en quiebra, solo, y que se enfrenta a la ejecución hipotecaria de su negocio, se le ofrece un trabajo aparentemente facil: sólo requiere conducir.</desc>
+  </programme>
+  <programme start="20240723061300 +0000" stop="20240723072700 +0000" channel="tnt.cl">
+    <title lang="es">La huida</title>
+    <desc lang="es">En medio de un tiroteo, Smith, un pistolero misterioso y solitario, ayuda en el nacimiento de un bebé. Junto a una hermosa prostituta, intentará proteger a la inocente criatura de una peligrosa banda de criminales.</desc>
+  </programme>
+  <programme start="20240723072700 +0000" stop="20240723073600 +0000" channel="tnt.cl">
+    <title lang="es">La huida</title>
+    <desc lang="es">En medio de un tiroteo, Smith, un pistolero misterioso y solitario, ayuda en el nacimiento de un bebé. Junto a una hermosa prostituta, intentará proteger a la inocente criatura de una peligrosa banda de criminales.</desc>
+  </programme>
+  <programme start="20240723073600 +0000" stop="20240723094900 +0000" channel="tnt.cl">
+    <title lang="es">Buscando justicia</title>
+    <desc lang="es">Bryan Stevenson defiende a quienes han sido condenadas erróneamente o que carecen de recursos para tener una representación legal adecuada. Bryan se ve envuelto en un laberinto de maniobras y de un racismo abierto y descarado.</desc>
+  </programme>
+  <programme start="20240723094900 +0000" stop="20240723095400 +0000" channel="tnt.cl">
+    <title lang="es">Buscando justicia</title>
+    <desc lang="es">Bryan Stevenson defiende a quienes han sido condenadas erróneamente o que carecen de recursos para tener una representación legal adecuada. Bryan se ve envuelto en un laberinto de maniobras y de un racismo abierto y descarado.</desc>
+  </programme>
+  <programme start="20240723095400 +0000" stop="20240723100000 +0000" channel="tnt.cl">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+  </programme>
+  <programme start="20240723100000 +0000" stop="20240723111200 +0000" channel="tnt.cl">
+    <title lang="es">El destino de Júpiter</title>
+    <desc lang="es">Jupiter Jones nació bajo el cielo de la noche, y las señales apuntaban a que estaba destinada a grandes cosas. Aunque sigue soñando con las estrellas, su vida se reduce a la dura realidad de su trabajo y a un sinfín de problemas.</desc>
+  </programme>
+  <programme start="20240723111200 +0000" stop="20240723124500 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam, el juego del siglo</title>
+    <desc lang="es">La súper estrella del baloncesto, Michael Jordan, deberá ayudar en la tierra de Looney Tunes a Bugs Bunny, Lucas y los demás a ganar un partido definitorio contra un grupo de alienígenas que pretende esclavizarlos.</desc>
+  </programme>
+  <programme start="20240723124500 +0000" stop="20240723130700 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam, el juego del siglo</title>
+    <desc lang="es">La súper estrella del baloncesto, Michael Jordan, deberá ayudar en la tierra de Looney Tunes a Bugs Bunny, Lucas y los demás a ganar un partido definitorio contra un grupo de alienígenas que pretende esclavizarlos.</desc>
+  </programme>
+  <programme start="20240723130700 +0000" stop="20240723150200 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam: Una nueva era</title>
+    <desc lang="es">Una inteligencia artificial deshonesta secuestra al hijo del famoso jugador de baloncesto, LeBron James, quien luego tiene que trabajar con Bugs Bunny y el resto de personajes de los Looney Tunes para ganar un partido de baloncesto.</desc>
+  </programme>
+  <programme start="20240723150200 +0000" stop="20240723151700 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam: Una nueva era</title>
+    <desc lang="es">Una inteligencia artificial deshonesta secuestra al hijo del famoso jugador de baloncesto, LeBron James, quien luego tiene que trabajar con Bugs Bunny y el resto de personajes de los Looney Tunes para ganar un partido de baloncesto.</desc>
+  </programme>
+  <programme start="20240723151700 +0000" stop="20240723172600 +0000" channel="tnt.cl">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+    <desc lang="es">La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas para escapar del juego más peligroso del mundo.</desc>
+  </programme>
+  <programme start="20240723172600 +0000" stop="20240723173600 +0000" channel="tnt.cl">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+    <desc lang="es">La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas para escapar del juego más peligroso del mundo.</desc>
+  </programme>
+  <programme start="20240723173600 +0000" stop="20240723210100 +0000" channel="tnt.cl">
+    <title lang="es">Batman: El caballero de la noche asciende</title>
+    <desc lang="es">Ocho años después del reinado de anarquía de Joker, el caballero de la noche es obligado a salir de su exilio voluntario que lo convirtió en fugitivo para salvar a Ciudad Gótica del terrorista Bane, con la ayuda de la enigmática Selina.</desc>
+  </programme>
+  <programme start="20240723210100 +0000" stop="20240723232400 +0000" channel="tnt.cl">
+    <title lang="es">Karate Kid 4</title>
+    <desc lang="es">El enigmático señor Miyagi, un maestro de karate, decide orientar a Julie, de diecisiete años, quien, desde la muerte de sus padres, ha desahogado su ira en los lugares equivocados.</desc>
+  </programme>
+  <programme start="20240723232400 +0000" stop="20240724020000 +0000" channel="tnt.cl">
+    <title lang="es">Reminiscencia</title>
+    <desc lang="es">Un científico descubre una forma de revivir el pasado y utiliza la tecnología para buscar su amor perdido hace mucho tiempo.</desc>
+  </programme>
+  <programme start="20240724020000 +0000" stop="20240724045600 +0000" channel="tnt.cl">
+    <title lang="es">Ciudad de Dios</title>
+    <desc lang="es">Retrata el crecimiento del crimen en Cidade de Deus, la favela mas grande de Río de Janeiro, entre los años 60 y 80. El protagonista es el barrio, el narrador es un joven que creció allí y que halló en la fotografía su salvación.</desc>
+  </programme>
+  <programme start="20240724045600 +0000" stop="20240724062500 +0000" channel="tnt.cl">
+    <title lang="es">Sully, hazaña en el Hudson</title>
+    <desc lang="es">"Sully" Sullenberger es un piloto aéreo que en 2009 se convirtió en un héroe cuando, a poco de despegar, su avión se averió y logró realizar un aterrizaje forzoso del aparato en pleno río Hudson, en Nueva York, con 155 pasajeros a bordo.</desc>
+  </programme>
+  <programme start="20240724062500 +0000" stop="20240724071900 +0000" channel="tnt.cl">
+    <title lang="es">Ciudad de Dios</title>
+    <desc lang="es">Retrata el crecimiento del crimen en Cidade de Deus, la favela mas grande de Río de Janeiro, entre los años 60 y 80. El protagonista es el barrio, el narrador es un joven que creció allí y que halló en la fotografía su salvación.</desc>
+  </programme>
+  <programme start="20240724071900 +0000" stop="20240724084200 +0000" channel="tnt.cl">
+    <title lang="es">Buscando justicia</title>
+    <desc lang="es">Bryan Stevenson defiende a quienes han sido condenadas erróneamente o que carecen de recursos para tener una representación legal adecuada. Bryan se ve envuelto en un laberinto de maniobras y de un racismo abierto y descarado.</desc>
+  </programme>
+  <programme start="20240724084200 +0000" stop="20240724085400 +0000" channel="tnt.cl">
+    <title lang="es">Sully, hazaña en el Hudson</title>
+    <desc lang="es">"Sully" Sullenberger es un piloto aéreo que en 2009 se convirtió en un héroe cuando, a poco de despegar, su avión se averió y logró realizar un aterrizaje forzoso del aparato en pleno río Hudson, en Nueva York, con 155 pasajeros a bordo.</desc>
+  </programme>
+  <programme start="20240724085400 +0000" stop="20240724100000 +0000" channel="tnt.cl">
+    <title lang="es">El francotirador: La última masacre</title>
+    <desc lang="es">El jefe colombiano de la droga Jesús Morales paga secretamente los servicios de un francotirador apodado "El Diablo", capaz de matar uno a uno los enemigos de quien lo contrata.</desc>
+  </programme>
+  <programme start="20240724100000 +0000" stop="20240724111700 +0000" channel="tnt.cl">
+    <title lang="es">Escalofríos 2</title>
+    <desc lang="es">Halloween cobra vida cuando dos niños se enfrentan a un ataque de brujas, monstruos y un muñeco que habla, después de descubrir un misterioso libro.</desc>
+  </programme>
+  <programme start="20240724111700 +0000" stop="20240724124000 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam, el juego del siglo</title>
+    <desc lang="es">La súper estrella del baloncesto, Michael Jordan, deberá ayudar en la tierra de Looney Tunes a Bugs Bunny, Lucas y los demás a ganar un partido definitorio contra un grupo de alienígenas que pretende esclavizarlos.</desc>
+  </programme>
+  <programme start="20240724124000 +0000" stop="20240724125000 +0000" channel="tnt.cl">
+    <title lang="es">Inside Warner: House of the Dragon Season 2</title>
+    <desc lang="es">El elenco de La Casa del Dragón aborda el detrás de escena de esta segunda temporada. La familia Targaryen se enfrenta por la corona y cuatro de los protagonistas hablan en exclusiva con nosotros sobre sus personajes.</desc>
+  </programme>
+  <programme start="20240724125000 +0000" stop="20240724145700 +0000" channel="tnt.cl">
+    <title lang="es">Space Jam: Una nueva era</title>
+    <desc lang="es">Una inteligencia artificial deshonesta secuestra al hijo del famoso jugador de baloncesto, LeBron James, quien luego tiene que trabajar con Bugs Bunny y el resto de personajes de los Looney Tunes para ganar un partido de baloncesto.</desc>
+  </programme>
+  <programme start="20240724145700 +0000" stop="20240724162600 +0000" channel="tnt.cl">
+    <title lang="es">9</title>
+    <desc lang="es">Cuando 9 llega a la vida, se encuentra en un mundo posapocalíptico donde los humanos han desaparecido, y solo por causalidad descubre una pequeña comunidad de otros como él.</desc>
+  </programme>
+  <programme start="20240724162600 +0000" stop="20240724183700 +0000" channel="tnt.cl">
+    <title lang="es">Karate Kid 4</title>
+    <desc lang="es">El enigmático señor Miyagi, un maestro de karate, decide orientar a Julie, de diecisiete años, quien, desde la muerte de sus padres, ha desahogado su ira en los lugares equivocados.</desc>
+  </programme>
+  <programme start="20240724183700 +0000" stop="20240724210100 +0000" channel="tnt.cl">
+    <title lang="es">Reminiscencia</title>
+    <desc lang="es">Un científico descubre una forma de revivir el pasado y utiliza la tecnología para buscar su amor perdido hace mucho tiempo.</desc>
+  </programme>
+  <programme start="20240724210100 +0000" stop="20240724232200 +0000" channel="tnt.cl">
+    <title lang="es">Los rompebodas</title>
+    <desc lang="es">Dos abogados matrimonialistas, socios y amigos de toda la vida, comparten una original afición: colarse en las bodas para tener aventuras con mujeres solteras. Sus vidas cambian cuando uno de ellos se enamora de una dama de honor.</desc>
+  </programme>
+  <programme start="20240724232200 +0000" stop="20240724233200 +0000" channel="tnt.cl">
+    <title lang="es">Inside Warner: House of the Dragon Season 2</title>
+    <desc lang="es">El elenco de La Casa del Dragón aborda el detrás de escena de esta segunda temporada. La familia Targaryen se enfrenta por la corona y cuatro de los protagonistas hablan en exclusiva con nosotros sobre sus personajes.</desc>
+  </programme>
+  <programme start="20240724233200 +0000" stop="20240725020000 +0000" channel="tnt.cl">
+    <title lang="es">Policías de repuesto</title>
+    <desc lang="es">Allen Gamble y Terry Hoitz son un par de policías de Nueva York que viven a la sombra de los héroes del cuerpo, los superagentes Christopher Danson y P.K. Highsmith. Pero esta peculiar pareja tendrá que entrar en acción.</desc>
+  </programme>
+  <programme start="20240725020000 +0000" stop="20240725040700 +0000" channel="tnt.cl">
+    <title lang="es">Sully, hazaña en el Hudson</title>
+    <desc lang="es">"Sully" Sullenberger es un piloto aéreo que en 2009 se convirtió en un héroe cuando, a poco de despegar, su avión se averió y logró realizar un aterrizaje forzoso del aparato en pleno río Hudson, en Nueva York, con 155 pasajeros a bordo.</desc>
+  </programme>
+  <programme start="20240725040700 +0000" stop="20240725063600 +0000" channel="tnt.cl">
+    <title lang="es">El francotirador</title>
+    <desc lang="es">Chris Kyle es un francotirador norteamericano que fue enviado a Irak con la misión de proteger a sus compañeros. Su precisión milimétrica salvó incontables vidas en el campo de batalla, por lo que ganó el apodo de Leyenda.</desc>
+  </programme>
+  <programme start="20240725063600 +0000" stop="20240725081700 +0000" channel="tnt.cl">
+    <title lang="es">Gloria Bell</title>
+    <desc lang="es">Una mujer divorciada, de espíritu libre, pasa los días trabajando en una oficina, mientras que por las noches se desata bailando en discotecas de Los Ángeles. Cuando conoce a Arnold, su vida cambia radicalmente.</desc>
+  </programme>
+  <programme start="20240725081700 +0000" stop="20240725095700 +0000" channel="tnt.cl">
+    <title lang="es">Francotirador 6: El tirador fantasma</title>
+    <desc lang="es">Dos francotiradores de élite deben proteger un gaseoducto que buscan un grupo de terroristas. Cuando varios francotiradores son asesinados por un tirador fantasma que conoce exactamente su localización, la situación comienza a complicarse.</desc>
+  </programme>
+  <programme start="20240725095700 +0000" stop="20240725100000 +0000" channel="tnt.cl">
+    <title lang="es">Francotirador 6: El tirador fantasma</title>
+    <desc lang="es">Dos francotiradores de élite deben proteger un gaseoducto que buscan un grupo de terroristas. Cuando varios francotiradores son asesinados por un tirador fantasma que conoce exactamente su localización, la situación comienza a complicarse.</desc>
+  </programme>
+  <programme start="20240725100000 +0000" stop="20240725112900 +0000" channel="tnt.cl">
+    <title lang="es">Espías en manada</title>
+    <desc lang="es">Vladimir y Héctor, dos agentes secretos que se oponen en todos los sentidos, intentan recuperar un material de alto secreto robado por intrusos desconocidos.</desc>
+  </programme>
+  <programme start="20240725112900 +0000" stop="20240725125500 +0000" channel="tnt.cl">
+    <title lang="es">9</title>
+    <desc lang="es">Cuando 9 llega a la vida, se encuentra en un mundo posapocalíptico donde los humanos han desaparecido, y solo por causalidad descubre una pequeña comunidad de otros como él.</desc>
+  </programme>
+  <programme start="20240725125500 +0000" stop="20240725150600 +0000" channel="tnt.cl">
+    <title lang="es">Los rompebodas</title>
+    <desc lang="es">Dos abogados matrimonialistas, socios y amigos de toda la vida, comparten una original afición: colarse en las bodas para tener aventuras con mujeres solteras. Sus vidas cambian cuando uno de ellos se enamora de una dama de honor.</desc>
+  </programme>
+  <programme start="20240725150600 +0000" stop="20240725171000 +0000" channel="tnt.cl">
+    <title lang="es">Karate Kid 4</title>
+    <desc lang="es">El enigmático señor Miyagi, un maestro de karate, decide orientar a Julie, de diecisiete años, quien, desde la muerte de sus padres, ha desahogado su ira en los lugares equivocados.</desc>
+  </programme>
+  <programme start="20240725171000 +0000" stop="20240725172000 +0000" channel="tnt.cl">
+    <title lang="es">Inside Warner: House of the Dragon Season 2</title>
+    <desc lang="es">El elenco de La Casa del Dragón aborda el detrás de escena de esta segunda temporada. La familia Targaryen se enfrenta por la corona y cuatro de los protagonistas hablan en exclusiva con nosotros sobre sus personajes.</desc>
+  </programme>
+  <programme start="20240725172000 +0000" stop="20240725192400 +0000" channel="tnt.cl">
+    <title lang="es">Píxeles</title>
+    <desc lang="es">Unos extraterrestres malinterpretan las imágenes de las máquinas recreativas como una declaración de guerra y deciden atacar la Tierra, empleando dichos juegos como modelos para el asalto. Solo Sam tiene tiene la estrategia para vencerlos.</desc>
+  </programme>
+  <programme start="20240725192400 +0000" stop="20240725212400 +0000" channel="tnt.cl">
+    <title lang="es">Policías de repuesto</title>
+    <desc lang="es">Allen Gamble y Terry Hoitz son un par de policías de Nueva York que viven a la sombra de los héroes del cuerpo, los superagentes Christopher Danson y P.K. Highsmith. Pero esta peculiar pareja tendrá que entrar en acción.</desc>
+  </programme>
+  <programme start="20240725212400 +0000" stop="20240725213400 +0000" channel="tnt.cl">
+    <title lang="es">Inside Warner: House of the Dragon Season 2</title>
+    <desc lang="es">El elenco de La Casa del Dragón aborda el detrás de escena de esta segunda temporada. La familia Targaryen se enfrenta por la corona y cuatro de los protagonistas hablan en exclusiva con nosotros sobre sus personajes.</desc>
+  </programme>
+  <programme start="20240725213400 +0000" stop="20240725235000 +0000" channel="tnt.cl">
+    <title lang="es">Son como niños</title>
+    <desc lang="es">Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido.</desc>
+  </programme>
+  <programme start="20240725235000 +0000" stop="20240726020000 +0000" channel="tnt.cl">
+    <title lang="es">Son como niños 2</title>
+    <desc lang="es">Lenny decide mudarse junto a su familia a su pueblo natal. Él pensaba que seguía siendo un lugar tranquilo para criar a sus hijos, pero está lleno de personajes problemáticos que lo harán entender que la locura le sigue a donde vaya.</desc>
+  </programme>
+  <programme start="20240726020000 +0000" stop="20240726045300 +0000" channel="tnt.cl">
+    <title lang="es">El francotirador</title>
+    <desc lang="es">Chris Kyle es un francotirador norteamericano que fue enviado a Irak con la misión de proteger a sus compañeros. Su precisión milimétrica salvó incontables vidas en el campo de batalla, por lo que ganó el apodo de Leyenda.</desc>
+  </programme>
+  <programme start="20240726045300 +0000" stop="20240726064000 +0000" channel="tnt.cl">
+    <title lang="es">Gloria Bell</title>
+    <desc lang="es">Una mujer divorciada, de espíritu libre, pasa los días trabajando en una oficina, mientras que por las noches se desata bailando en discotecas de Los Ángeles. Cuando conoce a Arnold, su vida cambia radicalmente.</desc>
+  </programme>
+  <programme start="20240726064000 +0000" stop="20240726081600 +0000" channel="tnt.cl">
+    <title lang="es">Sed de venganza</title>
+    <desc lang="es">Tras un tremendo tiroteo, un misterioso desconocido llega a un hospital herido. Allí le atenderá Suzanne. Tras él, una banda de asesinos armados asaltan el lugar con la intención de acabar con él.</desc>
+  </programme>
+  <programme start="20240726081600 +0000" stop="20240726100000 +0000" channel="tnt.cl">
+    <title lang="es">The Master: todo hombre necesita un guía</title>
+    <desc lang="es">La sociedad estadounidense se encuentra en crisis luego de la Segunda Guerra Mundial. Freddie Quell es un excombatiente que no logra encausar su vida, hasta que comienza a seguir al líder de una dudosa y peligrosa creencia.</desc>
+  </programme>
+  <programme start="20240726100000 +0000" stop="20240726100200 +0000" channel="tnt.cl">
+    <title lang="es">Hollywood One on One</title>
+    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
+  </programme>
+  <programme start="20240726100200 +0000" stop="20240726115100 +0000" channel="tnt.cl">
+    <title lang="es">El legado de las mentiras</title>
+    <desc lang="es">Martin Baxter, un exagente del MI6, regresa al mundo del espionaje dentro de las altas esferas. Allí descubre una impactante verdad sobre ciertas operaciones realizadas por servicios secretos desconocidos.</desc>
+  </programme>
+  <programme start="20240726115100 +0000" stop="20240726135300 +0000" channel="tnt.cl">
+    <title lang="es">Policías de repuesto</title>
+    <desc lang="es">Allen Gamble y Terry Hoitz son un par de policías de Nueva York que viven a la sombra de los héroes del cuerpo, los superagentes Christopher Danson y P.K. Highsmith. Pero esta peculiar pareja tendrá que entrar en acción.</desc>
+  </programme>
+  <programme start="20240726135300 +0000" stop="20240726154700 +0000" channel="tnt.cl">
+    <title lang="es">Píxeles</title>
+    <desc lang="es">Unos extraterrestres malinterpretan las imágenes de las máquinas recreativas como una declaración de guerra y deciden atacar la Tierra, empleando dichos juegos como modelos para el asalto. Solo Sam tiene tiene la estrategia para vencerlos.</desc>
+  </programme>
+  <programme start="20240726154700 +0000" stop="20240726175000 +0000" channel="tnt.cl">
+    <title lang="es">Son como niños</title>
+    <desc lang="es">Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido.</desc>
+  </programme>
+  <programme start="20240726175000 +0000" stop="20240726194700 +0000" channel="tnt.cl">
+    <title lang="es">Son como niños 2</title>
+    <desc lang="es">Lenny decide mudarse junto a su familia a su pueblo natal. Él pensaba que seguía siendo un lugar tranquilo para criar a sus hijos, pero está lleno de personajes problemáticos que lo harán entender que la locura le sigue a donde vaya.</desc>
+  </programme>
+  <programme start="20240726194700 +0000" stop="20240726215100 +0000" channel="tnt.cl">
+    <title lang="es">¿Qué pasó ayer?</title>
+    <desc lang="es">Cuatro amigos van a Las Vegas para celebrar la despedida de soltero de uno de ellos. No recuerdan nada de lo ocurrido, pero encuentran en su habitación un tigre y un bebé. En poco tiempo deberán averiguar qué sucedió y dónde está el novio.</desc>
+  </programme>
+  <programme start="20240726215100 +0000" stop="20240726234700 +0000" channel="tnt.cl">
+    <title lang="es">¿Qué pasó ayer? - Parte II</title>
+    <desc lang="es">Alan, Stu y Phil vuelven a despertarse en otra habitación de otro hotel, y, en esta ocasión, tampoco recuerdan nada. Esta vez sólo saben que están en Tailandia, adonde han viajado Junto a Doug para asistir a la boda de Stu.</desc>
+  </programme>
+  <programme start="20240726234700 +0000" stop="20240727020000 +0000" channel="tnt.cl">
+    <title lang="es">¿Qué pasó ayer? - Parte III</title>
+    <desc lang="es">Tras la inesperada muerte de su padre, Alan es llevado por sus amigos Phil, Stu y Doug a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida ¿Qué puede ir mal?</desc>
+  </programme>
+  <programme start="20240727020000 +0000" stop="20240727042700 +0000" channel="tnt.cl">
+    <title lang="es">Rampage: devastación</title>
+    <desc lang="es">El primatólogo Davis Okoye tiene un vínculo con George, un inteligente gorila al que ha estado cuidando. Pronto descubre que el apacible simio y otros animales padecen de una alteración y se convierten en criaturas embravecidas.</desc>
+  </programme>
+  <programme start="20240727042700 +0000" stop="20240727063200 +0000" channel="tnt.cl">
+    <title lang="es">El inmortal</title>
+    <desc lang="es">Charly Matteï es un antiguo miembro de la mafia marsellesa retirado hace ya tres años. Una mañana, unos hombres lo atacan y es dado por muerto después de recibir veintidós balas. Pero sobrevivirá milagrosamente y buscará venganza.</desc>
+  </programme>
+  <programme start="20240727063200 +0000" stop="20240727082900 +0000" channel="tnt.cl">
+    <title lang="es">Parker</title>
+    <desc lang="es">Parker es un ladrón profesional que sólo roba a los ricos. Pero cuando sus traicioneros compañeros lo daban por muerto, Parker decide adoptar una nueva identidad para ir en busca de venganza, y lo hará con la ayuda de una hermosa mujer.</desc>
+  </programme>
+  <programme start="20240727082900 +0000" stop="20240727100000 +0000" channel="tnt.cl">
+    <title lang="es">Possessor</title>
+    <desc lang="es">Tasya Vos, una agente de una organización secreta, utiliza implantes cerebrales para controlar el comportameinto de otras personas y obligarlas a cometer asesinatos que beneficien a los líderes del mundo corporativo.</desc>
+  </programme>
+</tv>
