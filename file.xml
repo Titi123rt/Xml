@@ -6,104 +6,12 @@
   </channel>
   <channel lang="es" id="tnt.cl">
     <display-name>TNT</display-name>
-    <display-name>HBO</display-name>
+    <display-name>FX HD</display-name>
   </channel>
-  <programme start="20240722211800 +0000" stop="20240722230100 +0000" channel="starchannel.cl">
-    <title lang="es">Búsqueda implacable</title>
-    <desc lang="es">Bryan Mills, un agente jubilado de la CIA y de las Fuerzas Especiales, vuela a Paris a rescatar a su hija Kim de una organización criminal albanokosovar que se dedica a secuestrar mujeres para una red de trata.</desc>
-  </programme>
-  <programme start="20240722230100 +0000" stop="20240722231500 +0000" channel="starchannel.cl">
-    <title lang="es">Búsqueda implacable</title>
-    <desc lang="es">Bryan Mills, un agente jubilado de la CIA y de las Fuerzas Especiales, vuela a Paris a rescatar a su hija Kim de una organización criminal albanokosovar que se dedica a secuestrar mujeres para una red de trata.</desc>
-  </programme>
-  <programme start="20240722231500 +0000" stop="20240722232000 +0000" channel="starchannel.cl">
-    <title lang="es">Búsqueda implacable</title>
-    <desc lang="es">Bryan Mills, un agente jubilado de la CIA y de las Fuerzas Especiales, vuela a Paris a rescatar a su hija Kim de una organización criminal albanokosovar que se dedica a secuestrar mujeres para una red de trata.</desc>
-  </programme>
-  <programme start="20240722232000 +0000" stop="20240723005600 +0000" channel="starchannel.cl">
-    <title lang="es">Búsqueda implacable 2</title>
-    <desc lang="es">Siguiendo con la historia de la primera parte, Bryan Mills tendrá que volver a demostrar todas sus habilidades como agente retirado de la CIA, para salvar esta vez tanto la vida de su mujer y su hija, como la suya propia.</desc>
-  </programme>
-  <programme start="20240723005600 +0000" stop="20240723010300 +0000" channel="starchannel.cl">
-    <title lang="es">Búsqueda implacable 2</title>
-    <desc lang="es">Siguiendo con la historia de la primera parte, Bryan Mills tendrá que volver a demostrar todas sus habilidades como agente retirado de la CIA, para salvar esta vez tanto la vida de su mujer y su hija, como la suya propia.</desc>
-  </programme>
-  <programme start="20240723010300 +0000" stop="20240723013000 +0000" channel="starchannel.cl">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Maude Flanders, la esposa de Ned, muere tras un inusual accidente y Homero pretende ayudarlo a rehacer su vida al conseguirle citas con otras mujeres.</desc>
-  </programme>
-  <programme start="20240723013000 +0000" stop="20240723013200 +0000" channel="starchannel.cl">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Maude Flanders, la esposa de Ned, muere tras un inusual accidente y Homero pretende ayudarlo a rehacer su vida al conseguirle citas con otras mujeres.</desc>
-  </programme>
-  <programme start="20240723013200 +0000" stop="20240723020000 +0000" channel="starchannel.cl">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Homero debe escapar de Springfield tras donar donar dinero a la televisión pública y arrepentirse. Entonces, va de misionario a una lejana isla del Océano Pacífico Sur, con el fin de acercar a los nativos a la religión.</desc>
-  </programme>
-  <programme start="20240723020000 +0000" stop="20240723035100 +0000" channel="starchannel.cl">
-    <title lang="es">Los mercenarios</title>
-    <desc lang="es">El trabajo del multimillonario Donovan Chalmers es tan valioso que contrata a mercenarios para protegerlo. Pese a ello, un grupo terrorista logra secuestrar a su hija para conseguir acercarse a él.</desc>
-  </programme>
-  <programme start="20240723035100 +0000" stop="20240723061500 +0000" channel="starchannel.cl">
-    <title lang="es">Cristal</title>
-    <desc lang="es">David Dunn busca mantenerse un paso por delante de la ley mientras imparte justicia en las calles de Filadelfia. Sus talentos pronto lo colocan en un curso de colisión con la Bestia, el cual tiene una fuerza sobrehumana y 23 personalidades.</desc>
-  </programme>
-  <programme start="20240723061500 +0000" stop="20240723062600 +0000" channel="starchannel.cl">
-    <title lang="es">Cristal</title>
-    <desc lang="es">David Dunn busca mantenerse un paso por delante de la ley mientras imparte justicia en las calles de Filadelfia. Sus talentos pronto lo colocan en un curso de colisión con la Bestia, el cual tiene una fuerza sobrehumana y 23 personalidades.</desc>
-  </programme>
-  <programme start="20240723062600 +0000" stop="20240723073000 +0000" channel="starchannel.cl">
-    <title lang="es">No le digas a nadie</title>
-    <desc lang="es">Dos hermanos adolescentes llamados Matt y Joey deciden robar algo de dinero para pagar las facturas médicas de su madre enferma. Cuando el guardia de seguridad, el Sr. Hamby, los persigue, termina atrapado en el fondo de un pozo.</desc>
-  </programme>
-  <programme start="20240723073000 +0000" stop="20240723080000 +0000" channel="starchannel.cl">
-    <title lang="es">No le digas a nadie</title>
-    <desc lang="es">Dos hermanos adolescentes llamados Matt y Joey deciden robar algo de dinero para pagar las facturas médicas de su madre enferma. Cuando el guardia de seguridad, el Sr. Hamby, los persigue, termina atrapado en el fondo de un pozo.</desc>
-  </programme>
-  <programme start="20240723080000 +0000" stop="20240723092400 +0000" channel="starchannel.cl">
-    <title lang="es">María Magdalena</title>
-    <desc lang="es">Cuenta la historia de María Magdalena, una joven mujer atrapada en las jerarquías de la época, que desafía a su tradicional familia para unirse a un nuevo movimiento social dirigido por Jesús de Nazaret.</desc>
-  </programme>
-  <programme start="20240723092400 +0000" stop="20240723094900 +0000" channel="starchannel.cl">
-    <title lang="es">María Magdalena</title>
-    <desc lang="es">Cuenta la historia de María Magdalena, una joven mujer atrapada en las jerarquías de la época, que desafía a su tradicional familia para unirse a un nuevo movimiento social dirigido por Jesús de Nazaret.</desc>
-  </programme>
-  <programme start="20240723094900 +0000" stop="20240723101300 +0000" channel="starchannel.cl">
-    <title lang="es">Cumbia Ninja</title>
-    <desc lang="es">Juana y Chopin debutan como dúo en La Colina para salvar a Cumbia Ninja, mientras Tumba recibe el Tercer Golpe Imposible y la 2200 no está dispuesta a ceder espacio en el barrio. Luego, Salmón reta a Hache a una pelea a muerte por el poder.</desc>
-  </programme>
-  <programme start="20240723101300 +0000" stop="20240723110000 +0000" channel="starchannel.cl">
-    <title lang="es">Cumbia Ninja</title>
-    <desc lang="es">Juana y Chopin debutan como dúo en La Colina para salvar a Cumbia Ninja, mientras Tumba recibe el Tercer Golpe Imposible y la 2200 no está dispuesta a ceder espacio en el barrio. Luego, Salmón reta a Hache a una pelea a muerte por el poder.</desc>
-  </programme>
-  <programme start="20240723110000 +0000" stop="20240723113000 +0000" channel="starchannel.cl">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20240723113000 +0000" stop="20240723120000 +0000" channel="starchannel.cl">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20240723120000 +0000" stop="20240723123000 +0000" channel="starchannel.cl">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20240723123000 +0000" stop="20240723130000 +0000" channel="starchannel.cl">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20240723130000 +0000" stop="20240723133000 +0000" channel="starchannel.cl">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20240723133000 +0000" stop="20240723140000 +0000" channel="starchannel.cl">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
-  </programme>
-  <programme start="20240723140000 +0000" stop="20240723141700 +0000" channel="starchannel.cl">
-    <title lang="es">Programación especial</title>
-    <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
-  </programme>
+  <channel lang="es" id="warnerchannel.cl">
+    <display-name>Warner Channel</display-name>
+    <display-name>Fox Sports 1 HD</display-name>
+  </channel>
   <programme start="20240723141700 +0000" stop="20240723143300 +0000" channel="starchannel.cl">
     <title lang="es">Programación especial</title>
     <desc lang="es">Un espacio que ofrece programación especial con los mejores contenidos que la señal tiene para brindar.</desc>
@@ -424,63 +332,43 @@
     <title lang="es">Infomercial</title>
     <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.</desc>
   </programme>
-  <programme start="20240722194100 +0000" stop="20240722220900 +0000" channel="tnt.cl">
-    <title lang="es">Jumanji: El siguiente nivel</title>
-    <desc lang="es">La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas para escapar del juego más peligroso del mundo.</desc>
+  <programme start="20240727140000 +0000" stop="20240727154500 +0000" channel="starchannel.cl">
+    <title lang="es">Honey</title>
+    <desc lang="es">Honey es una bailarina de hip-hop de 22 años que sueña con ser coreógrafa. Da clases de hip-hop en un centro juvenil de la zona, pero cuando recibe la oportunidad de su vida, aprende que el éxito repentino tiene su precio.</desc>
   </programme>
-  <programme start="20240722220900 +0000" stop="20240722222000 +0000" channel="tnt.cl">
-    <title lang="es">Jumanji: El siguiente nivel</title>
-    <desc lang="es">La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas para escapar del juego más peligroso del mundo.</desc>
+  <programme start="20240727154500 +0000" stop="20240727180000 +0000" channel="starchannel.cl">
+    <title lang="es">Búsqueda implacable</title>
+    <desc lang="es">Bryan Mills, un agente jubilado de la CIA y de las Fuerzas Especiales, vuela a Paris a rescatar a su hija Kim de una organización criminal albanokosovar que se dedica a secuestrar mujeres para una red de trata.</desc>
   </programme>
-  <programme start="20240722222000 +0000" stop="20240723020000 +0000" channel="tnt.cl">
-    <title lang="es">Batman: El caballero de la noche asciende</title>
-    <desc lang="es">Ocho años después del reinado de anarquía de Joker, el caballero de la noche es obligado a salir de su exilio voluntario que lo convirtió en fugitivo para salvar a Ciudad Gótica del terrorista Bane, con la ayuda de la enigmática Selina.</desc>
+  <programme start="20240727180000 +0000" stop="20240727194500 +0000" channel="starchannel.cl">
+    <title lang="es">Búsqueda implacable 2</title>
+    <desc lang="es">Siguiendo con la historia de la primera parte, Bryan Mills tendrá que volver a demostrar todas sus habilidades como agente retirado de la CIA, para salvar esta vez tanto la vida de su mujer y su hija, como la suya propia.</desc>
   </programme>
-  <programme start="20240723020000 +0000" stop="20240723035100 +0000" channel="tnt.cl">
-    <title lang="es">La huida</title>
-    <desc lang="es">En medio de un tiroteo, Smith, un pistolero misterioso y solitario, ayuda en el nacimiento de un bebé. Junto a una hermosa prostituta, intentará proteger a la inocente criatura de una peligrosa banda de criminales.</desc>
+  <programme start="20240727194500 +0000" stop="20240727211500 +0000" channel="starchannel.cl">
+    <title lang="es">Búsqueda implacable 3</title>
+    <desc lang="es">El ex agente especial Bryan Mills es acusado de un brutal asesinato que no cometió ni presenció. Mientras es rastreado y perseguido, Mills usará su particular serie de habilidades para encontrar al verdadero asesino y limpiar su nombre.</desc>
   </programme>
-  <programme start="20240723035100 +0000" stop="20240723060100 +0000" channel="tnt.cl">
-    <title lang="es">La mula</title>
-    <desc lang="es">A Earl Stone, un octogenario que está en quiebra, solo, y que se enfrenta a la ejecución hipotecaria de su negocio, se le ofrece un trabajo aparentemente facil: sólo requiere conducir.</desc>
+  <programme start="20240727211500 +0000" stop="20240727233000 +0000" channel="starchannel.cl">
+    <title lang="es">Alien, el octavo pasajero</title>
+    <desc lang="es">La nave espacial Nostromo intercepta una señal de auxilio de un planeta desconocido. Cuando la tripulación desciende a investigar, uno de los astronautas es atacado por una extraña criatura. El terror está a punto de desencadenarse.</desc>
   </programme>
-  <programme start="20240723060100 +0000" stop="20240723061300 +0000" channel="tnt.cl">
-    <title lang="es">La mula</title>
-    <desc lang="es">A Earl Stone, un octogenario que está en quiebra, solo, y que se enfrenta a la ejecución hipotecaria de su negocio, se le ofrece un trabajo aparentemente facil: sólo requiere conducir.</desc>
+  <programme start="20240727233000 +0000" stop="20240728020000 +0000" channel="starchannel.cl">
+    <title lang="es">Alien 3</title>
+    <desc lang="es">La teniente Ellen Ripley se estrella en una prisión espacial repleta de dementes y violadores. Desafortunadamente para todos ellos, uno de los despiadados Aliens se ha colado en la nave espacial de Ripley y ha desembarcado en la prisión.</desc>
   </programme>
-  <programme start="20240723061300 +0000" stop="20240723072700 +0000" channel="tnt.cl">
-    <title lang="es">La huida</title>
-    <desc lang="es">En medio de un tiroteo, Smith, un pistolero misterioso y solitario, ayuda en el nacimiento de un bebé. Junto a una hermosa prostituta, intentará proteger a la inocente criatura de una peligrosa banda de criminales.</desc>
+  <programme start="20240728020000 +0000" stop="20240728040000 +0000" channel="starchannel.cl">
+    <title lang="es">Alien IV, la resurrección</title>
+    <desc lang="es">Dos siglos después de su muerte, Ripley es resucitada a través de la clonación, mezclando su ADN con el de la Reina Alien. Pronto, un grupo de alienígenas desata el caos y ahora Ripley debe exterminarlos antes de que lleguen a la Tierra.</desc>
   </programme>
-  <programme start="20240723072700 +0000" stop="20240723073600 +0000" channel="tnt.cl">
-    <title lang="es">La huida</title>
-    <desc lang="es">En medio de un tiroteo, Smith, un pistolero misterioso y solitario, ayuda en el nacimiento de un bebé. Junto a una hermosa prostituta, intentará proteger a la inocente criatura de una peligrosa banda de criminales.</desc>
+  <programme start="20240728040000 +0000" stop="20240728060000 +0000" channel="starchannel.cl">
+    <title lang="es">Alien: Covenant</title>
+    <desc lang="es">La nave Covenant emprende un viaje espacial rumbo a un remoto planeta para colonizarlo. Cuando detecta una señal proveniente de un paraíso inexplorado, decide cambiar su rumbo. Sin embargo, lo que encontrarán será un mundo oscuro y hostil.</desc>
   </programme>
-  <programme start="20240723073600 +0000" stop="20240723094900 +0000" channel="tnt.cl">
-    <title lang="es">Buscando justicia</title>
-    <desc lang="es">Bryan Stevenson defiende a quienes han sido condenadas erróneamente o que carecen de recursos para tener una representación legal adecuada. Bryan se ve envuelto en un laberinto de maniobras y de un racismo abierto y descarado.</desc>
+  <programme start="20240728060000 +0000" stop="20240728074500 +0000" channel="starchannel.cl">
+    <title lang="es">Encubrimiento</title>
+    <desc lang="es">Mientras investiga el extraño asesinato de un compañero, la oficial Renee Lomito descubre una figura misteriosa en la grabación de su cámara. Ahora, Renee sospecha que algo sobrenatural está acosando a los policías de su unidad.</desc>
   </programme>
-  <programme start="20240723094900 +0000" stop="20240723095400 +0000" channel="tnt.cl">
-    <title lang="es">Buscando justicia</title>
-    <desc lang="es">Bryan Stevenson defiende a quienes han sido condenadas erróneamente o que carecen de recursos para tener una representación legal adecuada. Bryan se ve envuelto en un laberinto de maniobras y de un racismo abierto y descarado.</desc>
-  </programme>
-  <programme start="20240723095400 +0000" stop="20240723100000 +0000" channel="tnt.cl">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
-  </programme>
-  <programme start="20240723100000 +0000" stop="20240723111200 +0000" channel="tnt.cl">
-    <title lang="es">El destino de Júpiter</title>
-    <desc lang="es">Jupiter Jones nació bajo el cielo de la noche, y las señales apuntaban a que estaba destinada a grandes cosas. Aunque sigue soñando con las estrellas, su vida se reduce a la dura realidad de su trabajo y a un sinfín de problemas.</desc>
-  </programme>
-  <programme start="20240723111200 +0000" stop="20240723124500 +0000" channel="tnt.cl">
-    <title lang="es">Space Jam, el juego del siglo</title>
-    <desc lang="es">La súper estrella del baloncesto, Michael Jordan, deberá ayudar en la tierra de Looney Tunes a Bugs Bunny, Lucas y los demás a ganar un partido definitorio contra un grupo de alienígenas que pretende esclavizarlos.</desc>
-  </programme>
-  <programme start="20240723124500 +0000" stop="20240723130700 +0000" channel="tnt.cl">
-    <title lang="es">Space Jam, el juego del siglo</title>
-    <desc lang="es">La súper estrella del baloncesto, Michael Jordan, deberá ayudar en la tierra de Looney Tunes a Bugs Bunny, Lucas y los demás a ganar un partido definitorio contra un grupo de alienígenas que pretende esclavizarlos.</desc>
-  </programme>
-  <programme start="20240723130700 +0000" stop="20240723150200 +0000" channel="tnt.cl">
+  <programme start="20240723125500 +0000" stop="20240723150200 +0000" channel="tnt.cl">
     <title lang="es">Space Jam: Una nueva era</title>
     <desc lang="es">Una inteligencia artificial deshonesta secuestra al hijo del famoso jugador de baloncesto, LeBron James, quien luego tiene que trabajar con Bugs Bunny y el resto de personajes de los Looney Tunes para ganar un partido de baloncesto.</desc>
   </programme>
@@ -711,5 +599,469 @@
   <programme start="20240727124200 +0000" stop="20240727143700 +0000" channel="tnt.cl">
     <title lang="es">Son como niños</title>
     <desc lang="es">Cinco amigos y ex-compañeros de baloncesto se reencuentran después de treinta años. Deciden pasar el fin de semana en una casa en el lago, lo que les servirá para darse cuenta de que, a pesar de tener más edad, realmente no han crecido.</desc>
+  </programme>
+  <programme start="20240727143700 +0000" stop="20240727163600 +0000" channel="tnt.cl">
+    <title lang="es">Son como niños 2</title>
+    <desc lang="es">Lenny decide mudarse junto a su familia a su pueblo natal. Él pensaba que seguía siendo un lugar tranquilo para criar a sus hijos, pero está lleno de personajes problemáticos que lo harán entender que la locura le sigue a donde vaya.</desc>
+  </programme>
+  <programme start="20240727163600 +0000" stop="20240727185700 +0000" channel="tnt.cl">
+    <title lang="es">¿Qué pasó ayer?</title>
+    <desc lang="es">Cuatro amigos van a Las Vegas para celebrar la despedida de soltero de uno de ellos. No recuerdan nada de lo ocurrido, pero encuentran en su habitación un tigre y un bebé. En poco tiempo deberán averiguar qué sucedió y dónde está el novio.</desc>
+  </programme>
+  <programme start="20240727185700 +0000" stop="20240727205900 +0000" channel="tnt.cl">
+    <title lang="es">¿Qué pasó ayer? - Parte II</title>
+    <desc lang="es">Alan, Stu y Phil vuelven a despertarse en otra habitación de otro hotel, y, en esta ocasión, tampoco recuerdan nada. Esta vez sólo saben que están en Tailandia, adonde han viajado Junto a Doug para asistir a la boda de Stu.</desc>
+  </programme>
+  <programme start="20240727205900 +0000" stop="20240727232600 +0000" channel="tnt.cl">
+    <title lang="es">¿Qué pasó ayer? - Parte III</title>
+    <desc lang="es">Tras la inesperada muerte de su padre, Alan es llevado por sus amigos Phil, Stu y Doug a un centro especializado para que mejore. Esta vez no hay boda ni fiesta de despedida ¿Qué puede ir mal?</desc>
+  </programme>
+  <programme start="20240727232600 +0000" stop="20240728020000 +0000" channel="tnt.cl">
+    <title lang="es">Rampage: devastación</title>
+    <desc lang="es">El primatólogo Davis Okoye tiene un vínculo con George, un inteligente gorila al que ha estado cuidando. Pronto descubre que el apacible simio y otros animales padecen de una alteración y se convierten en criaturas embravecidas.</desc>
+  </programme>
+  <programme start="20240728020000 +0000" stop="20240728043100 +0000" channel="tnt.cl">
+    <title lang="es">Megalodón</title>
+    <desc lang="es">Un submarino de aguas profundas, que forma parte de un programa internacional, es atacado por una enorme criatura y queda averiado en el fondo de la fosa oceánica más profunda del Pacífico, con su tripulación atrapada en el interior.</desc>
+  </programme>
+  <programme start="20240728043100 +0000" stop="20240728064400 +0000" channel="tnt.cl">
+    <title lang="es">Solo tres días</title>
+    <desc lang="es">John Brennan, su mujer Lara y su hijo Luke llevan una vida feliz, que experimenta un vuelco dramático cuando ella es acusada de asesinato y condenada a veinte años de prisión. Su marido hará todo lo posible para sacarla de la cárcel.</desc>
+  </programme>
+  <programme start="20240728064400 +0000" stop="20240728081500 +0000" channel="tnt.cl">
+    <title lang="es">Sólo Dios perdona</title>
+    <desc lang="es">Julian, un narcotraficante respetado en Bangkok, está internamente desanimado. Para vengar la muerte de su hermano, desata traiciones entre mafiosos. Expertos en artes marciales, asesinos a sueldo y hasta su madre podrían ser los enemigos.</desc>
+  </programme>
+  <programme start="20240723124800 +0000" stop="20240723145200 +0000" channel="warnerchannel.cl">
+    <title lang="es">SWAT</title>
+    <desc lang="es">El nuevo equipo S.W.A.T. es lanzado a la acción cuando un lord de las drogas ofrece $100 millones de dólares a quien lo libere de la policía. Mientras ellos escoltan al interfecto, son perseguidos por una banda de mercenarios.</desc>
+  </programme>
+  <programme start="20240723145200 +0000" stop="20240723164700 +0000" channel="warnerchannel.cl">
+    <title lang="es">Venom</title>
+    <desc lang="es">Eddie Brock lleva tiempo intentando desenmascarar al famoso genio científico Carlton Drake. Al investigar uno de los experimentos, el ente alienígena Venom se fusiona con el cuerpo de Eddie, y adquiere nuevos e increíbles superpoderes.</desc>
+  </programme>
+  <programme start="20240723164700 +0000" stop="20240723170800 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Leonard y Sheldon contratan al Profesor Proton, el anfitrión de su programa favorito de la infancia, para que actúe para ellos. Raj deja a su perro con Howard y Bernadette.</desc>
+  </programme>
+  <programme start="20240723170800 +0000" stop="20240723173300 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Cuando el viaje de las chicas a Las Vegas se suspende, los chicos las invitan a una noche de Dungeons &amp; Dragons que hace que la relación entre Sheldon y Amy tome un giro inesperado.</desc>
+  </programme>
+  <programme start="20240723173300 +0000" stop="20240723175800 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Leonard recibe una interesante propuesta para viajar al mar del norte a realizar un experimento de física. Esto impacta fuertemente a Penny y a Sheldon. Por su parte, Raj presiona demasiado a Lucy para avanzar en su relación.</desc>
+  </programme>
+  <programme start="20240723175800 +0000" stop="20240723182500 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Los chicos se imaginan cómo serían las cosas si Rachel se hubiera casado con Barry, Phoebe fuera una ejecutiva y Monica todavía estuviese gorda.</desc>
+  </programme>
+  <programme start="20240723182500 +0000" stop="20240723185300 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Los chicos siguen pensando en cuán diferentes podrían haber sido sus vidas.</desc>
+  </programme>
+  <programme start="20240723185300 +0000" stop="20240723191700 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Rachel y Phoebe toman una clase de autodefensa, y Ross afirma que es un experto en artes marciales. En tanto, Chandler y Monica olvidan comprar los regalos de San Valentín.</desc>
+  </programme>
+  <programme start="20240723191700 +0000" stop="20240723194300 +0000" channel="warnerchannel.cl">
+    <title lang="es">La niñera</title>
+    <desc lang="es">La cita de Fran con una muy supersticiosa estrella del hockey, se estropea luego de que éste afirmara que Fran es de mala suerte.</desc>
+  </programme>
+  <programme start="20240723194300 +0000" stop="20240723200800 +0000" channel="warnerchannel.cl">
+    <title lang="es">La niñera</title>
+    <desc lang="es">La combinación de una mala crítica y haber perdido ante Fran en el tenis, sumerge a Maxwell en una crisis de mediana edad.</desc>
+  </programme>
+  <programme start="20240723200800 +0000" stop="20240723203800 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Sigue la lucha de Gokú, su hijo Gohan y el resto de sus amigos por recuperar las siete esferas mágicas del dragón, mientras se enfrentan a los más poderosos villanos del universo que amenazan con destruir la Tierra.</desc>
+  </programme>
+  <programme start="20240723203800 +0000" stop="20240723210800 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Sigue la lucha de Gokú, su hijo Gohan y el resto de sus amigos por recuperar las siete esferas mágicas del dragón, mientras se enfrentan a los más poderosos villanos del universo que amenazan con destruir la Tierra.</desc>
+  </programme>
+  <programme start="20240723210800 +0000" stop="20240723232000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Tortugas Ninja 2: Fuera de las sombras</title>
+    <desc lang="es">Las Tortugas Ninja vuelven a salir de las sombras para proteger la ciudad de Nueva York del malvado Shredder y sus nuevos aliados.</desc>
+  </programme>
+  <programme start="20240723232000 +0000" stop="20240724020000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Golpes del destino</title>
+    <desc lang="es">La adusta e impenetrable personalidad de Frankie, un entrenador de boxeo, será puesta a prueba con la llegada de Maggie, una joven que persigue el sueño de convertirse en boxeadora profesional.</desc>
+  </programme>
+  <programme start="20240724020000 +0000" stop="20240724042200 +0000" channel="warnerchannel.cl">
+    <title lang="es">Los santos de la mafia</title>
+    <desc lang="es">El joven Anthony Soprano está creciendo en una de las épocas más tumultuosas de la historia de Newark. A medida que se hace audulto, vive cómo los gánsteres rivales comienzan a levantarse y desafiar el control de la familia criminal DiMeo.</desc>
+  </programme>
+  <programme start="20240724042200 +0000" stop="20240724050800 +0000" channel="warnerchannel.cl">
+    <title lang="es">Desafío americano: nuevos comienzos</title>
+    <desc lang="es">El entrenador Marcus está perdiendo el control y revela un gran secreto que deja al equipo nuevamente dividido. Además, Keisha se enfrenta a sus miedos y Amara idea un plan para ayudar a Bringston.</desc>
+  </programme>
+  <programme start="20240724050800 +0000" stop="20240724053400 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Los chicos se imaginan cómo serían las cosas si Rachel se hubiera casado con Barry, Phoebe fuera una ejecutiva y Monica todavía estuviese gorda.</desc>
+  </programme>
+  <programme start="20240724053400 +0000" stop="20240724060100 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Los chicos siguen pensando en cuán diferentes podrían haber sido sus vidas.</desc>
+  </programme>
+  <programme start="20240724060100 +0000" stop="20240724062400 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Rachel y Phoebe toman una clase de autodefensa, y Ross afirma que es un experto en artes marciales. En tanto, Chandler y Monica olvidan comprar los regalos de San Valentín.</desc>
+  </programme>
+  <programme start="20240724062400 +0000" stop="20240724065000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Sigue la lucha de Gokú, su hijo Gohan y el resto de sus amigos por recuperar las siete esferas mágicas del dragón, mientras se enfrentan a los más poderosos villanos del universo que amenazan con destruir la Tierra.</desc>
+  </programme>
+  <programme start="20240724065000 +0000" stop="20240724071500 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Sigue la lucha de Gokú, su hijo Gohan y el resto de sus amigos por recuperar las siete esferas mágicas del dragón, mientras se enfrentan a los más poderosos villanos del universo que amenazan con destruir la Tierra.</desc>
+  </programme>
+  <programme start="20240724071500 +0000" stop="20240724074100 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Leonard y Sheldon contratan al Profesor Proton, el anfitrión de su programa favorito de la infancia, para que actúe para ellos. Raj deja a su perro con Howard y Bernadette.</desc>
+  </programme>
+  <programme start="20240724074100 +0000" stop="20240724080400 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Cuando el viaje de las chicas a Las Vegas se suspende, los chicos las invitan a una noche de Dungeons &amp; Dragons que hace que la relación entre Sheldon y Amy tome un giro inesperado.</desc>
+  </programme>
+  <programme start="20240724080400 +0000" stop="20240724100000 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Leonard recibe una interesante propuesta para viajar al mar del norte a realizar un experimento de física. Esto impacta fuertemente a Penny y a Sheldon. Por su parte, Raj presiona demasiado a Lucy para avanzar en su relación.</desc>
+  </programme>
+  <programme start="20240724100000 +0000" stop="20240724100500 +0000" channel="warnerchannel.cl">
+    <title lang="es">Hombre al agua</title>
+    <desc lang="es">John y Nicole eligen a sus equipos anteriores favoritos para que regresen y tengan la oportunidad de canjearlos y $25,000.</desc>
+  </programme>
+  <programme start="20240724100500 +0000" stop="20240724102700 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Sheldon busca venganza cuando Leonard le pide ayuda a Arthur en un proyecto.</desc>
+  </programme>
+  <programme start="20240724102700 +0000" stop="20240724104800 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Leonard intenta controlar a Sheldon cuando reaparece un error del pasado, pero Sheldon castiga a Leonard, haciéndolo "caminar una milla en sus zapatos". Mientras tanto, Penny confronta a la novia de Raj, Lucy.</desc>
+  </programme>
+  <programme start="20240724104800 +0000" stop="20240724111100 +0000" channel="warnerchannel.cl">
+    <title lang="es">Obreros milagrosos</title>
+    <desc lang="es">Un hombre problemático complica el plan de Craig y Eliza, mientras que Sanjay intenta sacar lustre a sus credenciales.</desc>
+  </programme>
+  <programme start="20240724111100 +0000" stop="20240724113300 +0000" channel="warnerchannel.cl">
+    <title lang="es">Obreros milagrosos</title>
+    <desc lang="es">Craig ayuda a Dios a contratar a un profeta mientras que Sanjay se dirige al sótano para salvar a la Tierra.</desc>
+  </programme>
+  <programme start="20240724113300 +0000" stop="20240724131800 +0000" channel="warnerchannel.cl">
+    <title lang="es">Agente Salt</title>
+    <desc lang="es">Una agente de la CIA es puesta a prueba cuando un desertor la acusa de ser una espía rusa. Entonces, se ve obligada a huir y a servirse de todos sus conocimientos y experiencia para evitar que la capturen.</desc>
+  </programme>
+  <programme start="20240724131800 +0000" stop="20240724154300 +0000" channel="warnerchannel.cl">
+    <title lang="es">Golpes del destino</title>
+    <desc lang="es">La adusta e impenetrable personalidad de Frankie, un entrenador de boxeo, será puesta a prueba con la llegada de Maggie, una joven que persigue el sueño de convertirse en boxeadora profesional.</desc>
+  </programme>
+  <programme start="20240724154300 +0000" stop="20240724175000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Tortugas Ninja 2: Fuera de las sombras</title>
+    <desc lang="es">Las Tortugas Ninja vuelven a salir de las sombras para proteger la ciudad de Nueva York del malvado Shredder y sus nuevos aliados.</desc>
+  </programme>
+  <programme start="20240724175000 +0000" stop="20240724181300 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Beverly Hofstadter escribe un libro de psicología acerca de Leonard el cual Penny compra y lee. Sheldon quiere arruinarle algo a Amy luego de que ella le arruinara Indiana Jones. Raj y Stuart intentan con las citas por internet.</desc>
+  </programme>
+  <programme start="20240724181300 +0000" stop="20240724183400 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Tras una pelea con Bernadette, Howard termina en el sofá de Raj. Sheldon debe equilibrar su trabajo con su vida social cuando Amy consigue trabajo en la universidad.</desc>
+  </programme>
+  <programme start="20240724183400 +0000" stop="20240724185900 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">El último descubrimiento científico de Sheldon lo hace sentir un fraude y amenaza con ser su más pesada carga de por vida. Mientras tanto, el gesto romántico que tiene Howard con Bernadette hace que Penny baje la guardia con Leonard.</desc>
+  </programme>
+  <programme start="20240724185900 +0000" stop="20240724192600 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Ross pone en peligro su carrera cuando comienza a salir con una estudiante de una de sus clases de paleontología. Mientras tanto, el apartamento de Rachel y Phoebe se incendia y las chicas tienen que encontrar un lugar donde quedarse.</desc>
+  </programme>
+  <programme start="20240724192600 +0000" stop="20240724195300 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">El refrigerador de Joey se daña y éste no tiene suficiente dinero para comprarse uno nuevo. Como no tiene un compañero de cuarto permanente, Joey trata de engañar a todos para que paguen por él.</desc>
+  </programme>
+  <programme start="20240724195300 +0000" stop="20240724201900 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Joey realiza una audición para una serie de TV llamada "Mac and C.H.E.E.S.E.", lo que lleva al grupo a recordar sus aventuras.</desc>
+  </programme>
+  <programme start="20240724201900 +0000" stop="20240724202000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Joey realiza una audición para una serie de TV llamada "Mac and C.H.E.E.S.E.", lo que lleva al grupo a recordar sus aventuras.</desc>
+  </programme>
+  <programme start="20240724202000 +0000" stop="20240724204200 +0000" channel="warnerchannel.cl">
+    <title lang="es">La niñera</title>
+    <desc lang="es">Fran sugiere que su novio cantante debería hacer una audición para el próximo show de Maxwell.</desc>
+  </programme>
+  <programme start="20240724204200 +0000" stop="20240724210700 +0000" channel="warnerchannel.cl">
+    <title lang="es">La niñera</title>
+    <desc lang="es">Maxwell se altera cuando Fran se enamora del apuesto tutor de francés de Brighton.</desc>
+  </programme>
+  <programme start="20240724210700 +0000" stop="20240724213700 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Sigue la lucha de Gokú, su hijo Gohan y el resto de sus amigos por recuperar las siete esferas mágicas del dragón, mientras se enfrentan a los más poderosos villanos del universo que amenazan con destruir la Tierra.</desc>
+  </programme>
+  <programme start="20240724213700 +0000" stop="20240724220700 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Goku llega al planeta del Rey Kai. Gohan y Piccolo continúan entrenando hasta que la cola de Gohan vuelve a crecer.</desc>
+  </programme>
+  <programme start="20240724220700 +0000" stop="20240725000100 +0000" channel="warnerchannel.cl">
+    <title lang="es">Lara Croft: Tomb Raider</title>
+    <desc lang="es">Miembro de una familia aristocrática, Lara Croft se dedica a buscar tesoros arqueológicos al igual que su difunto padre. Experta en la lucha, emprenderá la búsqueda de un antiguo talismán que permite a quien lo posea dominar el tiempo.</desc>
+  </programme>
+  <programme start="20240725000100 +0000" stop="20240725020000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Tortugas Ninja</title>
+    <desc lang="es">La oscuridad ha caído sobre la Nueva York cuando Destructor y el malvado Clan del Pie dominan la ciudad. Cuatro héroes salen de las alcantarillas y aceptan su destino como Tortugas Ninja Jóvenes Mutantes para intentar salvar la ciudad.</desc>
+  </programme>
+  <programme start="20240725020000 +0000" stop="20240725025400 +0000" channel="warnerchannel.cl">
+    <title lang="es">La chica que limpia</title>
+    <desc lang="es">Thony le pide a Arman que la ayude a llegar a México para el trasplante de Luca, pero los planes se desvían peligrosamente, y Thony debe recurrir a la médica y pandillera que lleva dentro.</desc>
+  </programme>
+  <programme start="20240725025400 +0000" stop="20240725045400 +0000" channel="warnerchannel.cl">
+    <title lang="es">Promesas del Este</title>
+    <desc lang="es">Una enfermera intenta averiguar la identidad de una prostituta muerta. Su búsqueda la enfrentará a un despiadado miembro de una de las familias más temidas del crimen organizado de Europa Oriental.</desc>
+  </programme>
+  <programme start="20240725045400 +0000" stop="20240725052000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Ross pone en peligro su carrera cuando comienza a salir con una estudiante de una de sus clases de paleontología. Mientras tanto, el apartamento de Rachel y Phoebe se incendia y las chicas tienen que encontrar un lugar donde quedarse.</desc>
+  </programme>
+  <programme start="20240725052000 +0000" stop="20240725054200 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">El refrigerador de Joey se daña y éste no tiene suficiente dinero para comprarse uno nuevo. Como no tiene un compañero de cuarto permanente, Joey trata de engañar a todos para que paguen por él.</desc>
+  </programme>
+  <programme start="20240725054200 +0000" stop="20240725060800 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Joey realiza una audición para una serie de TV llamada "Mac and C.H.E.E.S.E.", lo que lleva al grupo a recordar sus aventuras.</desc>
+  </programme>
+  <programme start="20240725060800 +0000" stop="20240725063400 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Sigue la lucha de Gokú, su hijo Gohan y el resto de sus amigos por recuperar las siete esferas mágicas del dragón, mientras se enfrentan a los más poderosos villanos del universo que amenazan con destruir la Tierra.</desc>
+  </programme>
+  <programme start="20240725063400 +0000" stop="20240725070000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Goku llega al planeta del Rey Kai. Gohan y Piccolo continúan entrenando hasta que la cola de Gohan vuelve a crecer.</desc>
+  </programme>
+  <programme start="20240725070000 +0000" stop="20240725085900 +0000" channel="warnerchannel.cl">
+    <title lang="es">Primicia mortal</title>
+    <desc lang="es">Louis Bloom es un ladrón en busca de empleo. Al ser testigo de un trágico accidente, se fija en un hombre que filma el hecho y vende el material a la TV. Louis cree que ese podría ser su nuevo trabajo y hará lo que sea por una exclusiva.</desc>
+  </programme>
+  <programme start="20240725085900 +0000" stop="20240725092200 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Beverly Hofstadter escribe un libro de psicología acerca de Leonard el cual Penny compra y lee. Sheldon quiere arruinarle algo a Amy luego de que ella le arruinara Indiana Jones. Raj y Stuart intentan con las citas por internet.</desc>
+  </programme>
+  <programme start="20240725092200 +0000" stop="20240725094300 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Tras una pelea con Bernadette, Howard termina en el sofá de Raj. Sheldon debe equilibrar su trabajo con su vida social cuando Amy consigue trabajo en la universidad.</desc>
+  </programme>
+  <programme start="20240725094300 +0000" stop="20240725100000 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">El último descubrimiento científico de Sheldon lo hace sentir un fraude y amenaza con ser su más pesada carga de por vida. Mientras tanto, el gesto romántico que tiene Howard con Bernadette hace que Penny baje la guardia con Leonard.</desc>
+  </programme>
+  <programme start="20240725100000 +0000" stop="20240725101300 +0000" channel="warnerchannel.cl">
+    <title lang="es">Obreros milagrosos</title>
+    <desc lang="es">Rosie se encuentra con un competidor mientras que Craig, Eliza y Sanjay intentan engañar a Dios.</desc>
+  </programme>
+  <programme start="20240725101300 +0000" stop="20240725102300 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Cuando Sheldon es obligado a tomar vacaciones, intenta relajarse, pero acaba pasando el tiempo con Penny cuando ella renuncia a su trabajo.</desc>
+  </programme>
+  <programme start="20240725102300 +0000" stop="20240725104000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Obreros milagrosos</title>
+    <desc lang="es">Rosie se encuentra con un competidor mientras que Craig, Eliza y Sanjay intentan engañar a Dios.</desc>
+  </programme>
+  <programme start="20240725104000 +0000" stop="20240725125200 +0000" channel="warnerchannel.cl">
+    <title lang="es">La otra reina</title>
+    <desc lang="es">Dos hermosas hermanas, Anne y Mary Boleyn, impulsadas por la ambición ciega de su familia, compiten por el amor del apuesto y apasionado rey Henry VIII.</desc>
+  </programme>
+  <programme start="20240725125200 +0000" stop="20240725143300 +0000" channel="warnerchannel.cl">
+    <title lang="es">Lara Croft: Tomb Raider</title>
+    <desc lang="es">Miembro de una familia aristocrática, Lara Croft se dedica a buscar tesoros arqueológicos al igual que su difunto padre. Experta en la lucha, emprenderá la búsqueda de un antiguo talismán que permite a quien lo posea dominar el tiempo.</desc>
+  </programme>
+  <programme start="20240725143300 +0000" stop="20240725162400 +0000" channel="warnerchannel.cl">
+    <title lang="es">Tortugas Ninja</title>
+    <desc lang="es">La oscuridad ha caído sobre la Nueva York cuando Destructor y el malvado Clan del Pie dominan la ciudad. Cuatro héroes salen de las alcantarillas y aceptan su destino como Tortugas Ninja Jóvenes Mutantes para intentar salvar la ciudad.</desc>
+  </programme>
+  <programme start="20240725162400 +0000" stop="20240725164800 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Leonard y Amy ayudan a Sheldon a lidiar con la vergüenza que siente después de que su contribución accidental a la ciencia fuera rechazada. Mientras tanto, Raj debe quedarse con Howard y Bernadette durante una semana.</desc>
+  </programme>
+  <programme start="20240725164800 +0000" stop="20240725170900 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Mientras Sheldon está en Texas, todos se reúnen para decorar el árbol de Navidad del departamento, e imaginan cómo serían sus vidas si no hubiesen conocido a Sheldon.</desc>
+  </programme>
+  <programme start="20240725170900 +0000" stop="20240725173400 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Después de que Leonard intenta ayudar a Penny a seguir un papel fallido en un programa de televisión, toma una decisión importante. Mientras tanto, Raj y Stuart intentan practicar sus habilidades sociales, y Sheldon intenta ser gracioso.</desc>
+  </programme>
+  <programme start="20240725173400 +0000" stop="20240725180200 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">El padre de Elizabeth le toma un disgusto instantáneo a Ross. Al mismo tiempo, Joey casi es despedido de Mac y CHEESE después de ofender al operador del robot. Por otro lado, Phoebe escribe un libro basado en Monica y Chandler.</desc>
+  </programme>
+  <programme start="20240725180200 +0000" stop="20240725182900 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Ross y Elizabeth se escabullen en la cabaña familiar, a donde también se dirigen Rachel y Paul, quien amenazó a Ross con hacerlo despedir por salir con una alumna.</desc>
+  </programme>
+  <programme start="20240725182900 +0000" stop="20240725185600 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Chandler y Phoebe van juntos a comprar un anillo para Monica. Cuando encuentran uno perfecto, Chandler se da cuenta de que no lleva dinero encima para pagarlo y deja a Phoebe al cuidado de la sortija.</desc>
+  </programme>
+  <programme start="20240725185600 +0000" stop="20240725192300 +0000" channel="warnerchannel.cl">
+    <title lang="es">La niñera</title>
+    <desc lang="es">Fran decide tomar un crucero para conocer chicos y el Sr. Sheffield y su familia se unen a ella.</desc>
+  </programme>
+  <programme start="20240725192300 +0000" stop="20240725195200 +0000" channel="warnerchannel.cl">
+    <title lang="es">La niñera</title>
+    <desc lang="es">Se termina una confusión cuando Fran acompaña a Maxwell en un viaje romántico a París.</desc>
+  </programme>
+  <programme start="20240725195200 +0000" stop="20240725202100 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Tras superar una prueba de acceso que consiste en hacer reír a todo un genio del humor como su nuevo maestro, Goku debe atrapar al mono Bubbles para acostumbrarse a la fuerza de gravedad diez veces superior del planeta de Kaioh.</desc>
+  </programme>
+  <programme start="20240725202100 +0000" stop="20240725205100 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Después de que Goku lucha por golpear a Gregory con un martillo, el Rey Kai lo inspira con la historia de la raza Saiyan y se ofrece a entrenarlo personalmente. ¿Será suficiente para detener la inminente invasión Saiyajin?</desc>
+  </programme>
+  <programme start="20240725205100 +0000" stop="20240725232100 +0000" channel="warnerchannel.cl">
+    <title lang="es">Animales fantásticos y dónde encontrarlos</title>
+    <desc lang="es">El magizoólogo Newt acaba de ser expulsado de Hogwarts, debido a un incidente relacionado con una de sus criaturas mágicas. Por ello, el joven decide emprender un viaje por el mundo en busca de nuevas variedades de animales extraordinarios.</desc>
+  </programme>
+  <programme start="20240725232100 +0000" stop="20240726020000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Mujer Maravilla</title>
+    <desc lang="es">Diana es la princesa del Amazonas y una gran guerrera. Cuando descubre un conflicto bélico que amenaza con destruirlo todo, decide abandonar su hogar para pelear junto a los hombres. Pronto conocerá sus verdaderos poderes.</desc>
+  </programme>
+  <programme start="20240726020000 +0000" stop="20240726045800 +0000" channel="warnerchannel.cl">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <desc lang="es">En 1984, en plena Guerra Fría, Diana Prince, la Mujer Maravilla, se enfrenta al empresario Maxwell Lord y a su antigua amiga Barbara Minerva, conocida como Cheetah, una villana que posee fuerza y agilidad sobrehumanas.</desc>
+  </programme>
+  <programme start="20240726045800 +0000" stop="20240726052400 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">El padre de Elizabeth le toma un disgusto instantáneo a Ross. Al mismo tiempo, Joey casi es despedido de Mac y CHEESE después de ofender al operador del robot. Por otro lado, Phoebe escribe un libro basado en Monica y Chandler.</desc>
+  </programme>
+  <programme start="20240726052400 +0000" stop="20240726055000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Ross y Elizabeth se escabullen en la cabaña familiar, a donde también se dirigen Rachel y Paul, quien amenazó a Ross con hacerlo despedir por salir con una alumna.</desc>
+  </programme>
+  <programme start="20240726055000 +0000" stop="20240726061200 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Chandler y Phoebe van juntos a comprar un anillo para Monica. Cuando encuentran uno perfecto, Chandler se da cuenta de que no lleva dinero encima para pagarlo y deja a Phoebe al cuidado de la sortija.</desc>
+  </programme>
+  <programme start="20240726061200 +0000" stop="20240726063700 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Sigue la lucha de Gokú, su hijo Gohan y el resto de sus amigos por recuperar las siete esferas mágicas del dragón, mientras se enfrentan a los más poderosos villanos del universo que amenazan con destruir la Tierra.</desc>
+  </programme>
+  <programme start="20240726063700 +0000" stop="20240726070300 +0000" channel="warnerchannel.cl">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Después de que Goku lucha por golpear a Gregory con un martillo, el Rey Kai lo inspira con la historia de la raza Saiyan y se ofrece a entrenarlo personalmente. ¿Será suficiente para detener la inminente invasión Saiyajin?</desc>
+  </programme>
+  <programme start="20240726070300 +0000" stop="20240726090500 +0000" channel="warnerchannel.cl">
+    <title lang="es">La otra reina</title>
+    <desc lang="es">Dos hermosas hermanas, Anne y Mary Boleyn, impulsadas por la ambición ciega de su familia, compiten por el amor del apuesto y apasionado rey Henry VIII.</desc>
+  </programme>
+  <programme start="20240726090500 +0000" stop="20240726092400 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Leonard y Amy ayudan a Sheldon a lidiar con la vergüenza que siente después de que su contribución accidental a la ciencia fuera rechazada. Mientras tanto, Raj debe quedarse con Howard y Bernadette durante una semana.</desc>
+  </programme>
+  <programme start="20240726092400 +0000" stop="20240726094800 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Mientras Sheldon está en Texas, todos se reúnen para decorar el árbol de Navidad del departamento, e imaginan cómo serían sus vidas si no hubiesen conocido a Sheldon.</desc>
+  </programme>
+  <programme start="20240726094800 +0000" stop="20240726100000 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Después de que Leonard intenta ayudar a Penny a seguir un papel fallido en un programa de televisión, toma una decisión importante. Mientras tanto, Raj y Stuart intentan practicar sus habilidades sociales, y Sheldon intenta ser gracioso.</desc>
+  </programme>
+  <programme start="20240726100000 +0000" stop="20240726120700 +0000" channel="warnerchannel.cl">
+    <title lang="es">Warner Series Block</title>
+    <desc lang="es">Disfruta de series de renombre internacional, con los mejores actores y los episodios más divertidos.</desc>
+  </programme>
+  <programme start="20240726120700 +0000" stop="20240726135100 +0000" channel="warnerchannel.cl">
+    <title lang="es">Mad Max II: El guerrero de la carretera</title>
+    <desc lang="es">Tras el holocausto nuclear, la gasolina se ha convertido en un bien escaso y muy codiciado. Mad Max, héroe solitario, inicia una lucha sin cuartel para ayudar a una colonia de supervivientes.</desc>
+  </programme>
+  <programme start="20240726135100 +0000" stop="20240726154200 +0000" channel="warnerchannel.cl">
+    <title lang="es">Mad Max III: Más allá de la cúpula del trueno</title>
+    <desc lang="es">Una vez que la civilización ha sido destruida por el Apocalipsis, ha surgido una colonia de hombres primitivos que han desarrollado alta tecnología para defenderse de todos aquellos que los atacan.</desc>
+  </programme>
+  <programme start="20240726154200 +0000" stop="20240726180800 +0000" channel="warnerchannel.cl">
+    <title lang="es">Animales fantásticos y dónde encontrarlos</title>
+    <desc lang="es">El magizoólogo Newt acaba de ser expulsado de Hogwarts, debido a un incidente relacionado con una de sus criaturas mágicas. Por ello, el joven decide emprender un viaje por el mundo en busca de nuevas variedades de animales extraordinarios.</desc>
+  </programme>
+  <programme start="20240726180800 +0000" stop="20240726204900 +0000" channel="warnerchannel.cl">
+    <title lang="es">Mujer Maravilla</title>
+    <desc lang="es">Diana es la princesa del Amazonas y una gran guerrera. Cuando descubre un conflicto bélico que amenaza con destruirlo todo, decide abandonar su hogar para pelear junto a los hombres. Pronto conocerá sus verdaderos poderes.</desc>
+  </programme>
+  <programme start="20240726204900 +0000" stop="20240726234800 +0000" channel="warnerchannel.cl">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <desc lang="es">En 1984, en plena Guerra Fría, Diana Prince, la Mujer Maravilla, se enfrenta al empresario Maxwell Lord y a su antigua amiga Barbara Minerva, conocida como Cheetah, una villana que posee fuerza y agilidad sobrehumanas.</desc>
+  </programme>
+  <programme start="20240726234800 +0000" stop="20240727020000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Charlie y la fábrica de chocolate</title>
+    <desc lang="es">Charlie Bucket, un niño muy bueno de una familia muy pobre, gana un concurso para disfrutar de una visita de un día a la gigantesca fábrica de chocolate del excéntrico Willy Wonka y su equipo de Oompa-Loompas, junto con otros cuatro niños.</desc>
+  </programme>
+  <programme start="20240727020000 +0000" stop="20240727041100 +0000" channel="warnerchannel.cl">
+    <title lang="es">Pasajeros</title>
+    <desc lang="es">Una nave espacial interestelar tiene una avería. Jim Preston se despierta noventa años antes del final del viaje. Su situación mental comienza a flaquear cuando se obsesiona con despertar a Aurora Lane, una bella tripulante.</desc>
+  </programme>
+  <programme start="20240727041100 +0000" stop="20240727061600 +0000" channel="warnerchannel.cl">
+    <title lang="es">El infiltrado</title>
+    <desc lang="es">Un joven es acusado de traficar drogas y enfrenta una condena de diez años. Su padre, John, pacta con la DEA, y entra como infiltrado en el mundo del narcotráfico para conseguir información de las cabezas del cartel y así salvarlo.</desc>
+  </programme>
+  <programme start="20240727061600 +0000" stop="20240727075200 +0000" channel="warnerchannel.cl">
+    <title lang="es">Mad Max II: El guerrero de la carretera</title>
+    <desc lang="es">Tras el holocausto nuclear, la gasolina se ha convertido en un bien escaso y muy codiciado. Mad Max, héroe solitario, inicia una lucha sin cuartel para ayudar a una colonia de supervivientes.</desc>
+  </programme>
+  <programme start="20240727075200 +0000" stop="20240727100000 +0000" channel="warnerchannel.cl">
+    <title lang="es">The Big Bang Theory</title>
+    <desc lang="es">Leonard y Sheldon son dos físicos brillantes y compañeros de apartamento. Sus vidas se enredan cuando Penny, una preciosa aunque poco inteligente joven, se muda frente a ellos.</desc>
+  </programme>
+  <programme start="20240727100000 +0000" stop="20240727114700 +0000" channel="warnerchannel.cl">
+    <title lang="es">Warner Series Block</title>
+    <desc lang="es">Disfruta de series de renombre internacional, con los mejores actores y los episodios más divertidos.</desc>
+  </programme>
+  <programme start="20240727114700 +0000" stop="20240727134900 +0000" channel="warnerchannel.cl">
+    <title lang="es">Pasajeros</title>
+    <desc lang="es">Una nave espacial interestelar tiene una avería. Jim Preston se despierta noventa años antes del final del viaje. Su situación mental comienza a flaquear cuando se obsesiona con despertar a Aurora Lane, una bella tripulante.</desc>
+  </programme>
+  <programme start="20240727134900 +0000" stop="20240727141300 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Rachel y Mónica compiten por la atención de Jean Claude Van Damme después de conocerlo en el set de un film. Por otra parte, Ross y Marcel dan un rápido paseo por la ciudad.</desc>
+  </programme>
+  <programme start="20240727141300 +0000" stop="20240727143700 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">La pandilla ve un video casero de la noche del baile de graduación de Monica y Rachel. Mientras tanto, Joey le da a Chandler una pulsera horrible.</desc>
+  </programme>
+  <programme start="20240727143700 +0000" stop="20240727150300 +0000" channel="warnerchannel.cl">
+    <title lang="es">Friends</title>
+    <desc lang="es">Ross y Rachel por fin tienen relaciones, Monica se enamora de un amigo de sus padres cuando él la contrata para prepararle una fiesta.</desc>
+  </programme>
+  <programme start="20240727150300 +0000" stop="20240727165400 +0000" channel="warnerchannel.cl">
+    <title lang="es">La leyenda de Hércules</title>
+    <desc lang="es">Hércules es exiliado y vendido como esclavo por oponerse a los mandatos del Rey, además del amor que siente por la futura esposa de su hermano. Ahora, debe demostrar la fuerza que heredó de su padre, Zeus, para recuperar lo que ha perdido.</desc>
+  </programme>
+  <programme start="20240727165400 +0000" stop="20240727193300 +0000" channel="warnerchannel.cl">
+    <title lang="es">Un juego vs. El destino</title>
+    <desc lang="es">Sean Porter, un agente de vigilancia del campo juvenil de detenciones, convierte a un grupo de delincuentes adolescentes en un equipo de fútbol americano en cuatro semanas.</desc>
+  </programme>
+  <programme start="20240727193300 +0000" stop="20240727215400 +0000" channel="warnerchannel.cl">
+    <title lang="es">El infiltrado</title>
+    <desc lang="es">Un joven es acusado de traficar drogas y enfrenta una condena de diez años. Su padre, John, pacta con la DEA, y entra como infiltrado en el mundo del narcotráfico para conseguir información de las cabezas del cartel y así salvarlo.</desc>
+  </programme>
+  <programme start="20240727215400 +0000" stop="20240727234800 +0000" channel="warnerchannel.cl">
+    <title lang="es">Viaje 2: La isla misteriosa</title>
+    <desc lang="es">Sean recibe un código, y su padrastro lo ayuda a descifrar el mensaje. Ellos descubren que su abuelo encontró una misteriosa isla en el Pacífico. Él y su pariente deciden viajar a este lugar, sin conocer los peligros que esconde el cayo.</desc>
+  </programme>
+  <programme start="20240727234800 +0000" stop="20240728020000 +0000" channel="warnerchannel.cl">
+    <title lang="es">Terremoto: la falla de San Andrés</title>
+    <desc lang="es">La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud nueve en California. Ray y su ex esposa Emma viajarán a San Francisco para salvar a su única hija, Blake.</desc>
+  </programme>
+  <programme start="20240728020000 +0000" stop="20240728042500 +0000" channel="warnerchannel.cl">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+    <desc lang="es">La pandilla ha vuelto. Cuando regresan a Jumanji para rescatar a uno de los suyos, descubren que nada es lo que esperan. Los jugadores tendrán que enfrentarse a partes desconocidas para escapar del juego más peligroso del mundo.</desc>
+  </programme>
+  <programme start="20240728042500 +0000" stop="20240728063200 +0000" channel="warnerchannel.cl">
+    <title lang="es">Primicia mortal</title>
+    <desc lang="es">Louis Bloom es un ladrón en busca de empleo. Al ser testigo de un trágico accidente, se fija en un hombre que filma el hecho y vende el material a la TV. Louis cree que ese podría ser su nuevo trabajo y hará lo que sea por una exclusiva.</desc>
+  </programme>
+  <programme start="20240728063200 +0000" stop="20240728080600 +0000" channel="warnerchannel.cl">
+    <title lang="es">La leyenda de Hércules</title>
+    <desc lang="es">Hércules es exiliado y vendido como esclavo por oponerse a los mandatos del Rey, además del amor que siente por la futura esposa de su hermano. Ahora, debe demostrar la fuerza que heredó de su padre, Zeus, para recuperar lo que ha perdido.</desc>
   </programme>
 </tv>
