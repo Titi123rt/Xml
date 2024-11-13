@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Solo para uso personal • Los logos son propiedad de sus respectivos dueños, su uso acá es referencial." generator-info-url="none">
+  <channel id="0000">
+    <display-name lang="es">SIN EPG</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/template.jpg" />
+  </channel>
+  <channel id="0001">
+    <display-name lang="es">SIN SEÑAL</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/signoff.jpg" />
+  </channel>
+  <channel id="0101">
+    <display-name lang="es">Telecanal</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/telecanal.jpg" />
+  </channel>
+  <channel id="1101">
+    <display-name lang="es">Telecanal - TVD</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/telecanal.jpg" />
+  </channel>
+  <channel id="0102">
+    <display-name lang="es">La Red</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/lared.jpg" />
+  </channel>
+  <channel id="1102">
+    <display-name lang="es">La Red - TVD</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/lared.jpg" />
+  </channel>
+  <channel id="0103">
+    <display-name lang="es">TV Más</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvmas.jpg" />
+  </channel>
+  <channel id="1103">
+    <display-name lang="es">TV Más - TVD</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvmas.jpg" />
+  </channel>
+  <channel id="0104">
+    <display-name lang="es">TVN</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvn.jpg" />
+  </channel>
+  <channel id="1104">
+    <display-name lang="es">TVN - TVD</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvn.jpg" />
+  </channel>
+  <channel id="0105">
+    <display-name lang="es">Mega</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mega.jpg" />
+  </channel>
+  <channel id="1105">
+    <display-name lang="es">Mega - TVD</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mega.jpg" />
+  </channel>
+  <channel id="0106">
+    <display-name lang="es">Chilevisión</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/chv.jpg" />
+  </channel>
+  <channel id="1106">
+    <display-name lang="es">CHV - TVD</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/chv.jpg" />
+  </channel>
+  <channel id="0107">
+    <display-name lang="es">Canal 13</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/canal13.jpg" />
+  </channel>
+  <channel id="1107">
+    <display-name lang="es">Canal 13 - TVD</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/canal13.jpg" />
+  </channel>
+  <channel id="0108">
+    <display-name lang="es">UCV TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/ucvtv.jpg" />
+  </channel>
+  <channel id="0109">
+    <display-name lang="es">Mega 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mega2.jpg" />
+  </channel>
+  <channel id="0110">
+    <display-name lang="es">TVR</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvr.jpg" />
+  </channel>
+  <channel id="0111">
+    <display-name lang="es">Zona Latina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/zonalatina.jpg" />
+  </channel>
+  <channel id="0112">
+    <display-name lang="es">Via X</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/viax.jpg" />
+  </channel>
+  <channel id="0113">
+    <display-name lang="es">13c</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/13c.jpg" />
+  </channel>
+  <channel id="0114">
+    <display-name lang="es">Rec TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/rectv.jpg" />
+  </channel>
+  <channel id="0115">
+    <display-name lang="es">UChile TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/uchiletv.jpg" />
+  </channel>
+  <channel id="0116">
+    <display-name lang="es">TV Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvchile.jpg" />
+  </channel>
+  <channel id="0117">
+    <display-name lang="es">TVN 3</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvn3.jpg" />
+  </channel>
+  <channel id="0118">
+    <display-name lang="es">Suyai TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/suyaitv.jpg" />
+  </channel>
+  <channel id="0119">
+    <display-name lang="es">Wapp TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/wapptv.jpg" />
+  </channel>
+  <channel id="0120">
+    <display-name lang="es">Via X 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/viax2.jpg" />
+  </channel>
+  <channel id="0121">
+    <display-name lang="es">Mega Ficción</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/megaficcion.jpg" />
+  </channel>
+  <channel id="0122">
+    <display-name lang="es">El 3 de Conce</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/el3deconce.jpg" />
+  </channel>
+  <channel id="0123">
+    <display-name lang="es">Thema TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/thematv.jpg" />
+  </channel>
+  <channel id="0124">
+    <display-name lang="es">T13 en vivo</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/t13vivo.jpg" />
+  </channel>
+  <channel id="0125">
+    <display-name lang="es">MiRadio TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/miradiotv.jpg" />
+  </channel>
+  <channel id="0126">
+    <display-name lang="es">Antofagasta TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/antofagastatv.jpg" />
+  </channel>
+  <channel id="0127">
+    <display-name lang="es">Visión Plus TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/visionplus.jpg" />
+  </channel>
+  <channel id="0128">
+    <display-name lang="es">Zapping Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/zappingchannel.jpg" />
+  </channel>
+  <channel id="0129">
+    <display-name lang="es">Lanco TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/lancotv.jpg" />
+  </channel>
+  <channel id="0130">
+    <display-name lang="es">Canal TVO - San Vicente de Tagua Tagua</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvo.jpg" />
+  </channel>
+  <channel id="0131">
+    <display-name lang="es">Arica TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/aricatv.jpg" />
+  </channel>
+  <channel id="0132">
+    <display-name lang="es">Iquique TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/iquiquetv.jpg" />
+  </channel>
+  <channel id="0133">
+    <display-name lang="es">Calama TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/calamatv.jpg" />
+  </channel>
+  <channel id="0134">
+    <display-name lang="es">SextaVisión</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/sextavision.jpg" />
+  </channel>
+  <channel id="0135">
+    <display-name lang="es">TV8 Concepción</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tv8.jpg" />
+  </channel>
+  <channel id="0136">
+    <display-name lang="es">GiroVisual</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/girovisual.jpg" />
+  </channel>
+  <channel id="0137">
+    <display-name lang="es">STGO TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/stgotv.jpg" />
+  </channel>
+  <channel id="0138">
+    <display-name lang="es">Tevex</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tevex.jpg" />
+  </channel>
+  <channel id="0139">
+    <display-name lang="es">Pichilemu TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/pichilemutv.jpg" />
+  </channel>
+  <channel id="0140">
+    <display-name lang="es">UTalca TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/utalcatv.jpg" />
+  </channel>
+  <channel id="0141">
+    <display-name lang="es">Patagonia Radio Televisión</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/patagoniatv.jpg" />
+  </channel>
+  <channel id="0142">
+    <display-name lang="es">TV Senado</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvsenado.jpg" />
+  </channel>
+  <channel id="0143">
+    <display-name lang="es">Cámara de Diputados Televisión</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cdtv.jpg" />
+  </channel>
+  <channel id="0144">
+    <display-name lang="es">Latina TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/latinatv.jpg" />
+  </channel>
+  <channel id="0145">
+    <display-name lang="es">Holvoet TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/holvoet.jpg" />
+  </channel>
+  <channel id="0146">
+    <display-name lang="es">ATV Valdivia</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/atvvaldivia.jpg" />
+  </channel>
+  <channel id="0147">
+    <display-name lang="es">ITV Patagonia</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/itvpatagonia.jpg" />
+  </channel>
+  <channel id="0148">
+    <display-name lang="es">El Pingüino TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/pinguinotv.jpg" />
+  </channel>
+  <channel id="0149">
+    <display-name lang="es">Vía X eSports</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/viaxesports.jpg" />
+  </channel>
+  <channel id="0150">
+    <display-name lang="es">Sur TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/surtv.jpg" />
+  </channel>
+  <channel id="0151">
+    <display-name lang="es">Palabra de Honor</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0152">
+    <display-name lang="es">TV Más 2</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0153">
+    <display-name lang="es">Canal 9 Bío-Bío Televisión</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/canal9biobio.jpg" />
+  </channel>
+  <channel id="0154">
+    <display-name lang="es">Canal VTV Los Andes</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="1154">
+    <display-name lang="es">Canal VTV Quillota</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0155">
+    <display-name lang="es">TVU Concepción</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvu.jpg" />
+  </channel>
+  <channel id="0156">
+    <display-name lang="es">UESTV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/uestv.jpg" />
+  </channel>
+  <channel id="0157">
+    <display-name lang="es">Universidad Autónoma TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/uatv.jpg" />
+  </channel>
+  <channel id="0158">
+    <display-name lang="es">Canal 2 San Antonio</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0159">
+    <display-name lang="es">Contivisión</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0160">
+    <display-name lang="es">13 Realities - 13GO</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0161">
+    <display-name lang="es">13 Cultura - 13GO</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0162">
+    <display-name lang="es">13 Pop - 13GO</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0163">
+    <display-name lang="es">13 Festival - 13GO</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0164">
+    <display-name lang="es">13 Teleseries - 13GO</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0165">
+    <display-name lang="es">Nativa TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/nativatv.jpg" />
+  </channel>
+  <channel id="0201">
+    <display-name lang="es">Canal 24 Horas</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/24horas.jpg" />
+  </channel>
+  <channel id="0202">
+    <display-name lang="es">CNN Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cnnchile.jpg" />
+  </channel>
+  <channel id="0203">
+    <display-name lang="es">BíoBío TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/biobiotv.jpg" />
+  </channel>
+  <channel id="0204">
+    <display-name lang="es">TeleSur</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/telesur.jpg" />
+  </channel>
+  <channel id="0205">
+    <display-name lang="es">DW en Español</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/dwespanol.jpg" />
+  </channel>
+  <channel id="0206">
+    <display-name lang="es">France 24 en Español</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/france24espanol.jpg" />
+  </channel>
+  <channel id="0207">
+    <display-name lang="es">Chilevisión Noticias</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/chvnoticias.jpg" />
+  </channel>
+  <channel id="0208">
+    <display-name lang="es">Meganoticias</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/meganoticias.jpg" />
+  </channel>
+  <channel id="0209">
+    <display-name lang="es">Russia Today en Español</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/rtespanol.jpg" />
+  </channel>
+  <channel id="0210">
+    <display-name lang="es">CNN En Español</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cnnespanol.jpg" />
+  </channel>
+  <channel id="0211">
+    <display-name lang="es">DNews</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/dnews.jpg" />
+  </channel>
+  <channel id="0212">
+    <display-name lang="es">NTN24 - Nuestra Tele Noticia</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/ntn24.jpg" />
+  </channel>
+  <channel id="0213">
+    <display-name lang="es">EuroNews</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/euronews.jpg" />
+  </channel>
+  <channel id="0301">
+    <display-name lang="es">NTV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/ntv.jpg" />
+  </channel>
+  <channel id="0302">
+    <display-name lang="es">ETC TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/etc.jpg" />
+  </channel>
+  <channel id="0303">
+    <display-name lang="es">Nickelodeon - Sur</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/nickelodeon.jpg" />
+  </channel>
+  <channel id="1303">
+    <display-name lang="es">Nickelodeon - Norte</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/nickelodeon.jpg" />
+  </channel>
+  <channel id="0304">
+    <display-name lang="es">Disney Channel - Pacífico</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/disney.jpg" />
+  </channel>
+  <channel id="1304">
+    <display-name lang="es">Disney Channel - Central</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/disney.jpg" />
+  </channel>
+  <channel id="0305">
+    <display-name lang="es">Cartoon Network - Panregional 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cartoon.jpg" />
+  </channel>
+  <channel id="1305">
+    <display-name lang="es">Cartoon Network - Panregional</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cartoon.jpg" />
+  </channel>
+  <channel id="2305">
+    <display-name lang="es">Cartoon Network - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cartoon.jpg" />
+  </channel>
+  <channel id="0306">
+    <display-name lang="es">ZooMoo</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/zoomoo.jpg" />
+  </channel>
+  <channel id="0307">
+    <display-name lang="es">Nick JR</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/nickjr.jpg" />
+  </channel>
+  <channel id="0308">
+    <display-name lang="es">Tooncast</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tooncast.jpg" />
+  </channel>
+  <channel id="0309">
+    <display-name lang="es">DreamWorks Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/dreamworks.jpg" />
+  </channel>
+  <channel id="0310">
+    <display-name lang="es">BabyFirst TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/babyfirst.jpg" />
+  </channel>
+  <channel id="0311">
+    <display-name lang="es">Disney Junior - Sur</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/disneyjr.jpg" />
+  </channel>
+  <channel id="1311">
+    <display-name lang="es">Disney Junior - Norte</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/disneyjr.jpg" />
+  </channel>
+  <channel id="0312">
+    <display-name lang="es">PakaPaka</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/pakapaka.jpg" />
+  </channel>
+  <channel id="0313">
+    <display-name lang="es">EnerGeek 1</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/energeek.jpg" />
+  </channel>
+  <channel id="0314">
+    <display-name lang="es">EnerGeek FanPop</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/fanpop.jpg" />
+  </channel>
+  <channel id="0315">
+    <display-name lang="es">Canal Infantil</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/canalinfantil.jpg" />
+  </channel>
+  <channel id="0316">
+    <display-name lang="es">Baby TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/babytv.jpg" />
+  </channel>
+  <channel id="0317">
+    <display-name lang="es">Plim Plim TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/plimplim.jpg" />
+  </channel>
+  <channel id="0318">
+    <display-name lang="es">BitMe</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/bitme.jpg" />
+  </channel>
+  <channel id="0319">
+    <display-name lang="es">Nexoplay</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/nexoplay.jpg" />
+  </channel>
+  <channel id="0320">
+    <display-name lang="es">Senpai TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/senpaitv.jpg" />
+  </channel>
+  <channel id="0321">
+    <display-name lang="es">Kidoo</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0323">
+    <display-name lang="es">Discovery Kids - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discoverykids.jpg" />
+  </channel>
+  <channel id="1323">
+    <display-name lang="es">Discovery Kids - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discoverykids.jpg" />
+  </channel>
+  <channel id="2323">
+    <display-name lang="es">Discovery Kids - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discoverykids.jpg" />
+  </channel>
+  <channel id="0324">
+    <display-name lang="es">Cartoonito</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cartoonito.jpg" />
+  </channel>
+  <channel id="0326">
+    <display-name lang="es">Teen Nick</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/teennick.jpg" />
+  </channel>
+  <channel id="0401">
+    <display-name lang="es">TNT Sports Premium</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tntsportspremium.jpg" />
+  </channel>
+  <channel id="0402">
+    <display-name lang="es">TNT Sports Premium 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tntsportspremium2.jpg" />
+  </channel>
+  <channel id="0403">
+    <display-name lang="es">TNT Sports</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tntsports.jpg" />
+  </channel>
+  <channel id="1403">
+    <display-name lang="es">TNT Sports Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tntsports.jpg" />
+  </channel>
+  <channel id="2403">
+    <display-name lang="es">TNT Sports Argentina</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0405">
+    <display-name lang="es">BeIN Sports en Español</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/beinespanol.jpg" />
+  </channel>
+  <channel id="0406">
+    <display-name lang="es">BeIN Sports Xtra en Español</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/beinxtraespanol.jpg" />
+  </channel>
+  <channel id="0407">
+    <display-name lang="es">NBA TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/nbatv.jpg" />
+  </channel>
+  <channel id="0408">
+    <display-name lang="es">GOL TV - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/goltv.jpg" />
+  </channel>
+  <channel id="0409">
+    <display-name lang="es">TyC Sports</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tycsports.jpg" />
+  </channel>
+  <channel id="1409">
+    <display-name lang="es">TyC Sports - Argentina</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="2409">
+    <display-name lang="es">TyC Sports 2 - Argentina</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0410">
+    <display-name lang="es">Teletrak TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/teletrak.jpg" />
+  </channel>
+  <channel id="0411">
+    <display-name lang="es">ESPN - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn.jpg" />
+  </channel>
+  <channel id="1411">
+    <display-name lang="es">ESPN - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn.jpg" />
+  </channel>
+  <channel id="2411">
+    <display-name lang="es">ESPN - Sur 1</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn.jpg" />
+  </channel>
+  <channel id="3411">
+    <display-name lang="es">ESPN - Sur 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn.jpg" />
+  </channel>
+  <channel id="4411">
+    <display-name lang="es">ESPN - Centro</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn.jpg" />
+  </channel>
+  <channel id="5411">
+    <display-name lang="es">ESPN - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn.jpg" />
+  </channel>
+  <channel id="0412">
+    <display-name lang="es">ESPN 2 - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn2.jpg" />
+  </channel>
+  <channel id="1412">
+    <display-name lang="es">ESPN 2 - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn2.jpg" />
+  </channel>
+  <channel id="2412">
+    <display-name lang="es">ESPN 2 - Sur 1</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn2.jpg" />
+  </channel>
+  <channel id="3412">
+    <display-name lang="es">ESPN 2 - Sur 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn2.jpg" />
+  </channel>
+  <channel id="4412">
+    <display-name lang="es">ESPN 2 - Centro</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn2.jpg" />
+  </channel>
+  <channel id="5412">
+    <display-name lang="es">ESPN 2 - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn2.jpg" />
+  </channel>
+  <channel id="0413">
+    <display-name lang="es">ESPN 3 - Sur</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn3.jpg" />
+  </channel>
+  <channel id="1413">
+    <display-name lang="es">ESPN 3 - Norte</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn3.jpg" />
+  </channel>
+  <channel id="2413">
+    <display-name lang="es">ESPN 3 - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn3.jpg" />
+  </channel>
+  <channel id="0414">
+    <display-name lang="es">ESPN 4 - Sur</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn4.jpg" />
+  </channel>
+  <channel id="1414">
+    <display-name lang="es">ESPN 4 - Centro</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn4.jpg" />
+  </channel>
+  <channel id="2414">
+    <display-name lang="es">ESPN 4 - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn4.jpg" />
+  </channel>
+  <channel id="0415">
+    <display-name lang="es">ESPN 5 - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn5.jpg" />
+  </channel>
+  <channel id="1415">
+    <display-name lang="es">ESPN 5 - Sur</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn5.jpg" />
+  </channel>
+  <channel id="2415">
+    <display-name lang="es">ESPN 5 - Centro</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn5.jpg" />
+  </channel>
+  <channel id="0416">
+    <display-name lang="es">ESPN 6 - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn6.jpg" />
+  </channel>
+  <channel id="0417">
+    <display-name lang="es">ESPN 7 - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espn7.jpg" />
+  </channel>
+  <channel id="0418">
+    <display-name lang="es">ESPN Premium - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espnpremium.jpg" />
+  </channel>
+  <channel id="1418">
+    <display-name lang="es">ESPN Premium - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/espnpremium.jpg" />
+  </channel>
+  <channel id="2418">
+    <display-name lang="es">ESPN Deportes</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0419">
+    <display-name lang="es">Claro Sports - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/clarosports.jpg" />
+  </channel>
+  <channel id="1419">
+    <display-name lang="es">Claro Sports - México</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0420">
+    <display-name lang="es">Claro Sports 2 - LATAM</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0421">
+    <display-name lang="es">CDO 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cdo2.jpg" />
+  </channel>
+  <channel id="0422">
+    <display-name lang="es">CDO Premium</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cdo.jpg" />
+  </channel>
+  <channel id="0423">
+    <display-name lang="es">Zapping Sports</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/zappingsports.jpg" />
+  </channel>
+  <channel id="0425">
+    <display-name lang="es">La Liga 2D</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/liga2d.jpg" />
+  </channel>
+  <channel id="0426">
+    <display-name lang="es">Sky Sports - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/skysports.jpg" />
+  </channel>
+  <channel id="0430">
+    <display-name lang="es">DSports Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/dsports.jpg" />
+  </channel>
+  <channel id="0431">
+    <display-name lang="es">DSports</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/dsports.jpg" />
+  </channel>
+  <channel id="0432">
+    <display-name lang="es">DSports 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/dsports2.jpg" />
+  </channel>
+  <channel id="0433">
+    <display-name lang="es">DSports Plus</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/dsportsplus.jpg" />
+  </channel>
+  <channel id="0434">
+    <display-name lang="es">DSports Motor</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/dsportsmotor.jpg" />
+  </channel>
+  <channel id="0435">
+    <display-name lang="es">DSports Fight</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/dsportsfight.jpg" />
+  </channel>
+  <channel id="1436">
+    <display-name lang="es">FOX Sports - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/foxsportsarg.jpg" />
+  </channel>
+  <channel id="1437">
+    <display-name lang="es">FOX Sports 2 - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/foxsports2arg.jpg" />
+  </channel>
+  <channel id="1438">
+    <display-name lang="es">FOX Sports 3 - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/foxsports3arg.jpg" />
+  </channel>
+  <channel id="0436">
+    <display-name lang="es">FOX Sports - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/foxsportsmex.jpg" />
+  </channel>
+  <channel id="0437">
+    <display-name lang="es">FOX Sports 2 - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/foxsports2mex.jpg" />
+  </channel>
+  <channel id="0438">
+    <display-name lang="es">FOX Sports 3 - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/foxsports3mex.jpg" />
+  </channel>
+  <channel id="0439">
+    <display-name lang="es">FOX Sports Premium - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/foxsportspremiummex.jpg" />
+  </channel>
+  <channel id="0440">
+    <display-name lang="es">FOX Deportes</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0441">
+    <display-name lang="es">TUDN - México</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="1441">
+    <display-name lang="es">TUDN - USA</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0442">
+    <display-name lang="es">Azteca Deportes - México</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0443">
+    <display-name lang="es">El Canal del Fútbol - Ecuador</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0501">
+    <display-name lang="es">Stingray iConcerts</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/stingrayiconcerts.jpg" />
+  </channel>
+  <channel id="0502">
+    <display-name lang="es">MTV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mtv.jpg" />
+  </channel>
+  <channel id="0503">
+    <display-name lang="es">Concert Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/concert.jpg" />
+  </channel>
+  <channel id="0504">
+    <display-name lang="es">HTV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/htv.jpg" />
+  </channel>
+  <channel id="0505">
+    <display-name lang="es">Lolly Kids</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/lollykids.jpg" />
+  </channel>
+  <channel id="0506">
+    <display-name lang="es">Modoradio TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/modoradio.jpg" />
+  </channel>
+  <channel id="0507">
+    <display-name lang="es">TeleHit</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/telehit.jpg" />
+  </channel>
+  <channel id="0508">
+    <display-name lang="es">TeleHit Música</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/telehitmusica.jpg" />
+  </channel>
+  <channel id="0509">
+    <display-name lang="es">TeleHit Música Plus</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/telehitmusicaplus.jpg" />
+  </channel>
+  <channel id="0510">
+    <display-name lang="es">Quiero Música en mi Idioma</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/quieromusica.jpg" />
+  </channel>
+  <channel id="0511">
+    <display-name lang="es">MTV Live</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mtvlive.jpg" />
+  </channel>
+  <channel id="0512">
+    <display-name lang="es">MTV Hits</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mtvhits.jpg" />
+  </channel>
+  <channel id="0513">
+    <display-name lang="es">MTV 00s</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mtv00.jpg" />
+  </channel>
+  <channel id="0514">
+    <display-name lang="es">MTV 80s</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mtv80.jpg" />
+  </channel>
+  <channel id="0515">
+    <display-name lang="es">Teleritmo</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/teleritmo.jpg" />
+  </channel>
+  <channel id="0516">
+    <display-name lang="es">Bandamax</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/bandamax.jpg" />
+  </channel>
+  <channel id="0517">
+    <display-name lang="es">Mi Música Hits</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mmhits.jpg" />
+  </channel>
+  <channel id="0518">
+    <display-name lang="es">Mi Música KPop</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mmkpop.jpg" />
+  </channel>
+  <channel id="0519">
+    <display-name lang="es">Mi Música Romántica</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mmromantica.jpg" />
+  </channel>
+  <channel id="0520">
+    <display-name lang="es">Mi Música Popular</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mmpopular.jpg" />
+  </channel>
+  <channel id="0521">
+    <display-name lang="es">Mi Música Reggaetón</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mmregueton.jpg" />
+  </channel>
+  <channel id="0522">
+    <display-name lang="es">Mi Música Salsa</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mmsalsa.jpg" />
+  </channel>
+  <channel id="0523">
+    <display-name lang="es">Club MTV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/clubmtv.jpg" />
+  </channel>
+  <channel id="0524">
+    <display-name lang="es">Nick Music</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/nickmusic.jpg" />
+  </channel>
+  <channel id="0525">
+    <display-name lang="es">MTV 90s</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mtv90.jpg" />
+  </channel>
+  <channel id="0526">
+    <display-name lang="es">Karavana TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/karavana.jpg" />
+  </channel>
+  <channel id="0527">
+    <display-name lang="es">Karavana Urbano</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/karavanaurbano.jpg" />
+  </channel>
+  <channel id="0528">
+    <display-name lang="es">OLD Music</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/oldmusic.jpg" />
+  </channel>
+  <channel id="0529">
+    <display-name lang="es">KPOP</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/kpop.jpg" />
+  </channel>
+  <channel id="0530">
+    <display-name lang="es">Exa TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0531">
+    <display-name lang="es">Claro Música Sin Límites</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0532">
+    <display-name lang="es">MTV Classic</display-name>
+    <icon src="" />
+  </channel>
+    <channel id="0601">
+    <display-name lang="es">Discovery Home and Health - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discoveryhh.jpg" />
+  </channel>
+  <channel id="1601">
+    <display-name lang="es">Discovery Home and Health - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discoveryhh.jpg" />
+  </channel>
+  <channel id="2601">
+    <display-name lang="es">Discovery Home and Health - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discoveryhh.jpg" />
+  </channel>
+  <channel id="0602">
+    <display-name lang="es">Discovery Turbo</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/turbo.jpg" />
+  </channel>
+  <channel id="0603">
+    <display-name lang="es">Discovery HGTV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hgtv.jpg" />
+  </channel>
+  <channel id="0604">
+    <display-name lang="es">Investigation Discovery - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discoveryid.jpg" />
+  </channel>
+  <channel id="1604">
+    <display-name lang="es">Investigation Discovery - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discoveryid.jpg" />
+  </channel>
+  <channel id="2604">
+    <display-name lang="es">Investigation Discovery - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discoveryid.jpg" />
+  </channel>
+  <channel id="0605">
+    <display-name lang="es">Love Nature</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/lovenature.jpg" />
+  </channel>
+  <channel id="0606">
+    <display-name lang="es">E Entertainment TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/entertainment.jpg" />
+  </channel>
+  <channel id="1606">
+    <display-name lang="es">E Entertainment TV - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/entertainment.jpg" />
+  </channel>
+  <channel id="0607">
+    <display-name lang="es">Discovery World</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/world.jpg" />
+  </channel>
+  <channel id="0608">
+    <display-name lang="es">Food Network</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/foodnetwork.jpg" />
+  </channel>
+  <channel id="0609">
+    <display-name lang="es">Lifetime - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/lifetime.jpg" />
+  </channel>
+  <channel id="1609">
+    <display-name lang="es">Lifetime - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/lifetime.jpg" />
+  </channel>
+  <channel id="0610">
+    <display-name lang="es">El Gourmet - Norte</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/elgourmet.jpg" />
+  </channel>
+  <channel id="1610">
+    <display-name lang="es">El Gourmet - Sur</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/elgourmet.jpg" />
+  </channel>
+  <channel id="0611">
+    <display-name lang="es">TLN Telenovelas - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tlnovelas.jpg" />
+  </channel>
+  <channel id="1611">
+    <display-name lang="es">TLN Telenovelas - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tlnovelas.jpg" />
+  </channel>
+  <channel id="2611">
+    <display-name lang="es">TLN Telenovelas - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tlnovelas.jpg" />
+  </channel>
+  <channel id="0612">
+    <display-name lang="es">Kanal D Drama</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/kanald.jpg" />
+  </channel>
+  <channel id="0613">
+    <display-name lang="es">Pasiones</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/pasiones.jpg" />
+  </channel>
+  <channel id="0614">
+    <display-name lang="es">SUN Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/sunchannel.jpg" />
+  </channel>
+  <channel id="0615">
+    <display-name lang="es">Telemundo Internacional</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/telemundointernacional.jpg" />
+  </channel>
+  <channel id="1615">
+    <display-name lang="es">Telemundo Puerto Rico</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/telemundo.jpg" />
+  </channel>
+  <channel id="2615">
+    <display-name lang="es">KVEA Telemundo 52</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/telemundo.jpg" />
+  </channel>
+  <channel id="0616">
+    <display-name lang="es">Univision</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/univision.jpg" />
+  </channel>
+  <channel id="0617">
+    <display-name lang="es">Universo Este</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universo.jpg" />
+  </channel>
+  <channel id="1617">
+    <display-name lang="es">Universo Oeste</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universo.jpg" />
+  </channel>
+  <channel id="0618">
+    <display-name lang="es">A3 Series</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/a3series.jpg" />
+  </channel>
+  <channel id="0619">
+    <display-name lang="es">Más Chic</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/maschic.jpg" />
+  </channel>
+  <channel id="0620">
+    <display-name lang="es">ARTV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/artv.jpg" />
+  </channel>
+  <channel id="0621">
+    <display-name lang="es">Euro Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/eurochannel.jpg" />
+  </channel>
+  <channel id="0622">
+    <display-name lang="es">Europa Europa</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/europaeuropa.jpg" />
+  </channel>
+  <channel id="0623">
+    <display-name lang="es">Enlace TBN</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/enlace.jpg" />
+  </channel>
+  <channel id="0624">
+    <display-name lang="es">Enlace Juvenil</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/enlacejuvenil.jpg" />
+  </channel>
+  <channel id="0625">
+    <display-name lang="es">EWTN</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/ewtn.jpg" />
+  </channel>
+  <channel id="0626">
+    <display-name lang="es">Nuevo Tiempo</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/nuevotiempo.jpg" />
+  </channel>
+  <channel id="0627">
+    <display-name lang="es">María Visión</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/mariavision.jpg" />
+  </channel>
+  <channel id="0628">
+    <display-name lang="es">Bethel</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/bethel.jpg" />
+  </channel>
+  <channel id="0629">
+    <display-name lang="es">Canal Luz</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/canalluz.jpg" />
+  </channel>
+  <channel id="0630">
+    <display-name lang="es">La Voz de María</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/vozdemaria.jpg" />
+  </channel>
+  <channel id="0631">
+    <display-name lang="es">AZ Corazón</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0632">
+    <display-name lang="es">UCL - Un Canal Latinoamericano</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/ucl.jpg" />
+  </channel>
+  <channel id="0633">
+    <display-name lang="es">IVC</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/ivc.jpg" />
+  </channel>
+  <channel id="0634">
+    <display-name lang="es">Unicable</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/unicable.jpg" />
+  </channel>
+  <channel id="0635">
+    <display-name lang="es">AZ Clic</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/azclic.jpg" />
+  </channel>
+  <channel id="0636">
+    <display-name lang="es">TVE</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0637">
+    <display-name lang="es">Star TVE</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0638">
+    <display-name lang="es">ESNE</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0639">
+    <display-name lang="es">Cristo TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0701">
+    <display-name lang="es">Discovery Channel - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discovery.jpg" />
+  </channel>
+  <channel id="1701">
+    <display-name lang="es">Discovery Channel - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discovery.jpg" />
+  </channel>
+  <channel id="2701">
+    <display-name lang="es">Discovery Channel - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discovery.jpg" />
+  </channel>
+  <channel id="3701">
+    <display-name lang="es">Discovery Channel - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/discovery.jpg" />
+  </channel>
+  <channel id="0702">
+    <display-name lang="es">National Geographic - Central</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/natgeo.jpg" />
+  </channel>
+  <channel id="1702">
+    <display-name lang="es">National Geographic - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/natgeo.jpg" />
+  </channel>
+  <channel id="2702">
+    <display-name lang="es">National Geographic - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/natgeo.jpg" />
+  </channel>
+  <channel id="0703">
+    <display-name lang="es">Discovery Science</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/science.jpg" />
+  </channel>
+  <channel id="0704">
+    <display-name lang="es">Discovery Theater</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/theater.jpg" />
+  </channel>
+  <channel id="0705">
+    <display-name lang="es">Animal Planet - Internacional</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/animalplanet.jpg" />
+  </channel>
+  <channel id="1705">
+    <display-name lang="es">Animal Planet - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/animalplanet.jpg" />
+  </channel>
+  <channel id="0706">
+    <display-name lang="es">History Channel - Andes</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/history.jpg" />
+  </channel>
+  <channel id="1706">
+    <display-name lang="es">History Channel - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/history.jpg" />
+  </channel>
+  <channel id="2706">
+    <display-name lang="es">History Channel - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/history.jpg" />
+  </channel>
+  <channel id="0707">
+    <display-name lang="es">History 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/history2.jpg" />
+  </channel>
+  <channel id="1707">
+    <display-name lang="es">History 2 - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/history2.jpg" />
+  </channel>
+  <channel id="0708">
+    <display-name lang="es">Discovery TLC - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tlc.jpg" />
+  </channel>
+  <channel id="1708">
+    <display-name lang="es">Discovery TLC - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tlc.jpg" />
+  </channel>
+  <channel id="0709">
+    <display-name lang="es">Atlas</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/atlas.jpg" />
+  </channel>
+  <channel id="0710">
+    <display-name lang="es">Hola TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/holatv.jpg" />
+  </channel>
+  <channel id="0801">
+    <display-name lang="es">Star Channel - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/star.jpg" />
+  </channel>
+  <channel id="1801">
+    <display-name lang="es">Star Channel - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/star.jpg" />
+  </channel>
+  <channel id="2801">
+    <display-name lang="es">Star Channel - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/star.jpg" />
+  </channel>
+  <channel id="0802">
+    <display-name lang="es">DHE</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/dhe.jpg" />
+  </channel>
+  <channel id="0803">
+    <display-name lang="es">Paramount Network</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/paramount.jpg" />
+  </channel>
+  <channel id="0804">
+    <display-name lang="es">Universal TV - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universal.jpg" />
+  </channel>
+  <channel id="2804">
+    <display-name lang="es">Universal TV - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universal.jpg" />
+  </channel>
+  <channel id="1804">
+    <display-name lang="es">Universal TV - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universal.jpg" />
+  </channel>
+  <channel id="0805">
+    <display-name lang="es">TNT - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tnt.jpg" />
+  </channel>
+  <channel id="1805">
+    <display-name lang="es">TNT - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tnt.jpg" />
+  </channel>
+  <channel id="2805">
+    <display-name lang="es">TNT - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tnt.jpg" />
+  </channel>
+  <channel id="3805">
+    <display-name lang="es">TNT - Colombia</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tnt.jpg" />
+  </channel>
+  <channel id="4805">
+    <display-name lang="es">TNT - Panregional</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tnt.jpg" />
+  </channel>
+  <channel id="0806">
+    <display-name lang="es">Sony Channel - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/sony.jpg" />
+  </channel>
+  <channel id="1806">
+    <display-name lang="es">Sony Channel - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/sony.jpg" />
+  </channel>
+  <channel id="2806">
+    <display-name lang="es">Sony Channel - Andes</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/sony.jpg" />
+  </channel>
+  <channel id="3806">
+    <display-name lang="es">Sony Channel - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/sony.jpg" />
+  </channel>
+  <channel id="0807">
+    <display-name lang="es">TCM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tcm.jpg" />
+  </channel>
+  <channel id="0808">
+    <display-name lang="es">A and E - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/aande.jpg" />
+  </channel>
+  <channel id="1808">
+    <display-name lang="es">A and E - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/aande.jpg" />
+  </channel>
+  <channel id="2808">
+    <display-name lang="es">A and E - Andes</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/aande.jpg" />
+  </channel>
+  <channel id="0809">
+    <display-name lang="es">USA Network</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/usa.jpg" />
+  </channel>
+  <channel id="0810">
+    <display-name lang="es">Sony Movies - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/sonymovies.jpg" />
+  </channel>
+  <channel id="1810">
+    <display-name lang="es">Sony Movies - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/sonymovies.jpg" />
+  </channel>
+  <channel id="0811">
+    <display-name lang="es">FX - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/fx.jpg" />
+  </channel>
+  <channel id="1811">
+    <display-name lang="es">FX - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/fx.jpg" />
+  </channel>
+  <channel id="0812">
+    <display-name lang="es">Comedy Central</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/comedy.jpg" />
+  </channel>
+  <channel id="0813">
+    <display-name lang="es">HBO - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hbo.jpg" />
+  </channel>
+  <channel id="1813">
+    <display-name lang="es">HBO - Andes</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hbo.jpg" />
+  </channel>
+  <channel id="2813">
+    <display-name lang="es">HBO - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hbo.jpg" />
+  </channel>
+  <channel id="0814">
+    <display-name lang="es">HBO 2 - Panamericano</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hbo2.jpg" />
+  </channel>
+  <channel id="1814">
+    <display-name lang="es">HBO 2 - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hbo2.jpg" />
+  </channel>
+  <channel id="0815">
+    <display-name lang="es">HBO Plus</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hboplus.jpg" />
+  </channel>
+  <channel id="0816">
+    <display-name lang="es">HBO Family</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hbofamily.jpg" />
+  </channel>
+  <channel id="0817">
+    <display-name lang="es">HBO Signature</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hbosignature.jpg" />
+  </channel>
+  <channel id="0818">
+    <display-name lang="es">HBO Mundi</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hbomundi.jpg" />
+  </channel>
+  <channel id="0819">
+    <display-name lang="es">HBO Pop</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hbopop.jpg" />
+  </channel>
+  <channel id="0820">
+    <display-name lang="es">HBO Xtreme</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/hboxtreme.jpg" />
+  </channel>
+  <channel id="0821">
+    <display-name lang="es">Golden</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/golden.jpg" />
+  </channel>
+  <channel id="1821">
+    <display-name lang="es">Golden - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/golden.jpg" />
+  </channel>
+  <channel id="0822">
+    <display-name lang="es">Golden Plus</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/goldenplus.jpg" />
+  </channel>
+  <channel id="0823">
+    <display-name lang="es">Golden Edge</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/goldenedge.jpg" />
+  </channel>
+  <channel id="1823">
+    <display-name lang="es">Golden Edge - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/goldenedge.jpg" />
+  </channel>
+  <channel id="0824">
+    <display-name lang="es">Golden Premier</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/goldenpremier.jpg" />
+  </channel>
+  <channel id="1824">
+    <display-name lang="es">Golden Premier 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/goldenpremier2.jpg" />
+  </channel>
+  <channel id="0825">
+    <display-name lang="es">Cine Familiar</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cinefamiliar.jpg" />
+  </channel>
+  <channel id="0826">
+    <display-name lang="es">Cine Hispano</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cinehispano.jpg" />
+  </channel>
+  <channel id="0827">
+    <display-name lang="es">Cine Premium</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cinepremium.jpg" />
+  </channel>
+  <channel id="0828">
+    <display-name lang="es">Cine Latino</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0829">
+    <display-name lang="es">Space - Central</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/space.jpg" />
+  </channel>
+  <channel id="1829">
+    <display-name lang="es">Space - Panamericano</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/space.jpg" />
+  </channel>
+  <channel id="3829">
+    <display-name lang="es">Space - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/space.jpg" />
+  </channel>
+  <channel id="4829">
+    <display-name lang="es">Space - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/space.jpg" />
+  </channel>
+  <channel id="0830">
+    <display-name lang="es">De Película</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0831">
+    <display-name lang="es">Clover Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/clover.jpg" />
+  </channel>
+  <channel id="0832">
+    <display-name lang="es">Warner TV - Andes</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/warner.jpg" />
+  </channel>
+  <channel id="1832">
+    <display-name lang="es">Warner TV - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/warner.jpg" />
+  </channel>
+  <channel id="2832">
+    <display-name lang="es">Warner TV - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/warner.jpg" />
+  </channel>
+  <channel id="3832">
+    <display-name lang="es">Warner TV - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/warner.jpg" />
+  </channel>
+  <channel id="0833">
+    <display-name lang="es">TNT Series - Panamericano</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tntseries.jpg" />
+  </channel>
+  <channel id="1833">
+    <display-name lang="es">TNT Series - Sur</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tntseries.jpg" />
+  </channel>
+  <channel id="2833">
+    <display-name lang="es">TNT Series - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tntseries.jpg" />
+  </channel>
+  <channel id="0834">
+    <display-name lang="es">Studio Universal - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/studio.jpg" />
+  </channel>
+  <channel id="1834">
+    <display-name lang="es">Studio Universal - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/studio.jpg" />
+  </channel>
+  <channel id="2834">
+    <display-name lang="es">Studio Universal - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/studio.jpg" />
+  </channel>
+  <channel id="3834">
+    <display-name lang="es">Studio Universal - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/studio.jpg" />
+  </channel>
+  <channel id="0835">
+    <display-name lang="es">TNT Novelas</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tntnovelas.jpg" />
+  </channel>
+  <channel id="0836">
+    <display-name lang="es">AMC - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/amc.jpg" />
+  </channel>
+  <channel id="1836">
+    <display-name lang="es">AMC - Norte</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/amc.jpg" />
+  </channel>
+  <channel id="2836">
+    <display-name lang="es">AMC - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/amc.jpg" />
+  </channel>
+  <channel id="0837">
+    <display-name lang="es">Las Estrellas - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/lasestrellas.jpg" />
+  </channel>
+  <channel id="1837">
+    <display-name lang="es">Las Estrellas - Centro</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/lasestrellas.jpg" />
+  </channel>
+  <channel id="2837">
+    <display-name lang="es">Las Estrellas - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/lasestrellas.jpg" />
+  </channel>
+  <channel id="0838">
+    <display-name lang="es">Multipremier</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/multipremier.jpg" />
+  </channel>
+  <channel id="0839">
+    <display-name lang="es">Multicinema</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/multicinema.jpg" />
+  </channel>
+  <channel id="0840">
+    <display-name lang="es">Cinemax - Panregional</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cinemax.jpg" />
+  </channel>
+  <channel id="1840">
+    <display-name lang="es">Cinemax - Sur</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cinemax.jpg" />
+  </channel>
+  <channel id="2840">
+    <display-name lang="es">Cinemax - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cinemax.jpg" />
+  </channel>
+  <channel id="0841">
+    <display-name lang="es">Universal Cinema - Este</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universalcinema.jpg" />
+  </channel>
+  <channel id="1841">
+    <display-name lang="es">Universal Cinema - Oeste</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universalcinema.jpg" />
+  </channel>
+  <channel id="0842">
+    <display-name lang="es">Universal Crime - Este</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universalcrime.jpg" />
+  </channel>
+  <channel id="1842">
+    <display-name lang="es">Universal Crime - Oeste</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universalcrime.jpg" />
+  </channel>
+  <channel id="0843">
+    <display-name lang="es">Universal Reality - Este</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universalreality.jpg" />
+  </channel>
+  <channel id="1843">
+    <display-name lang="es">Universal Reality - Oeste</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universalreality.jpg" />
+  </channel>
+  <channel id="0844">
+    <display-name lang="es">Universal Premiere - Este</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universalpremiere.jpg" />
+  </channel>
+  <channel id="1844">
+    <display-name lang="es">Universal Premiere - Oeste</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universalpremiere.jpg" />
+  </channel>
+  <channel id="0845">
+    <display-name lang="es">Universal Comedy - Este</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universalcomedy.jpg" />
+  </channel>
+  <channel id="1845">
+    <display-name lang="es">Universal Comedy - Oeste</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/universalcomedy.jpg" />
+  </channel>
+  <channel id="0846">
+    <display-name lang="es">CineCanal - Norte</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cinecanal.jpg" />
+  </channel>
+  <channel id="1846">
+    <display-name lang="es">CineCanal - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/cinecanal.jpg" />
+  </channel>
+  <channel id="0847">
+    <display-name lang="es">AXN - Chile</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/axn.jpg" />
+  </channel>
+  <channel id="1847">
+    <display-name lang="es">AXN - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/axn.jpg" />
+  </channel>
+  <channel id="2847">
+    <display-name lang="es">AXN - Andes</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/axn.jpg" />
+  </channel>
+  <channel id="3847">
+    <display-name lang="es">AXN - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/axn.jpg" />
+  </channel>
+  <channel id="0848">
+    <display-name lang="es">AZ Cinema</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/azcinema.jpg" />
+  </channel>
+  <channel id="0849">
+    <display-name lang="es">Rewind</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/rewind.jpg" />
+  </channel>
+  <channel id="0850">
+    <display-name lang="es">Adult Swim - LATAM</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/adultswim.jpg" />
+  </channel>
+  <channel id="1850">
+    <display-name lang="es">Adult Swim - México</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/adultswim.jpg" />
+  </channel>
+  <channel id="0851">
+    <display-name lang="es">Film and Arts</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/filandarts.jpg" />
+  </channel>
+  <channel id="1851">
+    <display-name lang="es">Film and Arts - Panregional</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/filandarts.jpg" />
+  </channel>
+  <channel id="0852">
+    <display-name lang="es">FMH Movies</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/fmhmovies.jpg" />
+  </channel>
+  <channel id="0853">
+    <display-name lang="es">FMH Family</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/fmhfamily.jpg" />
+  </channel>
+  <channel id="0854">
+    <display-name lang="es">FMH Kids</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/fmhkids.jpg" />
+  </channel>
+  <channel id="0855">
+    <display-name lang="es">Pánico</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/panico.jpg" />
+  </channel>
+  <channel id="0856">
+    <display-name lang="es">Antena Tres</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0857">
+    <display-name lang="es">Canal Claro TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0858">
+    <display-name lang="es">Claro Cinema</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0901">
+    <display-name lang="es">TV Max - Panamá</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvmax.jpg" />
+  </channel>
+  <channel id="0902">
+    <display-name lang="es">Caracol TV - Colombia</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/caracoltv.jpg" />
+  </channel>
+  <channel id="0903">
+    <display-name lang="es">TV Pública - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvpublica.jpg" />
+  </channel>
+  <channel id="0904">
+    <display-name lang="es">TV Ticket</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvticket1.jpg" />
+  </channel>
+  <channel id="0905">
+    <display-name lang="es">TV Ticket Deportes</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tvticket2.jpg" />
+  </channel>
+  <channel id="0906">
+    <display-name lang="es">Canal 4 de Salta - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/canal4arg.jpg" />
+  </channel>
+  <channel id="0907">
+    <display-name lang="es">Multivisión Federal - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/multivisionarg.jpg" />
+  </channel>
+  <channel id="0908">
+    <display-name lang="es">Tele 10 - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/tele10arg.jpg" />
+  </channel>
+  <channel id="0909">
+    <display-name lang="es">Telefé Salta - Argentina</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/telefearg.jpg" />
+  </channel>
+  <channel id="0910">
+    <display-name lang="es">Playboy TV - +18 Bloqueado</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="1910">
+    <display-name lang="es">Playboy TV - +18 Desbloqueado</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0911">
+    <display-name lang="es">Venus - +18 Bloqueado</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="1911">
+    <display-name lang="es">Venus - +18 Desbloqueado</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="0912">
+    <display-name lang="es">Sextreme - +18 Bloqueado</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="1912">
+    <display-name lang="es">Sextreme - +18 Desbloqueado</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="9999">
+    <display-name lang="es">TEMPLATE</display-name>
+    <icon src="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/iconos/template.jpg" />
+  </channel>
